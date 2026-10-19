@@ -1,0 +1,256 @@
+date,keyword,state_code,state,region,interest,small_state,margin_2020,margin_2024,shift_2020_2024
+2024-11-04,MAGA,AK,Alaska,West,71,Yes,-10.52,-13.69,-3.17
+2024-11-04,MAGA,AL,Alabama,South,46,No,-25.82,-30.88,-5.06
+2024-11-04,MAGA,AR,Arkansas,South,49,No,-28.42,-31.34,-2.92
+2024-11-04,MAGA,AZ,Arizona,West,68,No,0.31,-5.59,-5.9
+2024-11-04,MAGA,CA,California,West,64,No,29.82,20.8,-9.02
+2024-11-04,MAGA,CO,Colorado,West,68,No,13.88,11.29,-2.59
+2024-11-04,MAGA,CT,Connecticut,Northeast,59,No,20.39,14.76,-5.63
+2024-11-04,MAGA,DC,District of Columbia,South,100,Yes,88.93,86.63,-2.3
+2024-11-04,MAGA,DE,Delaware,South,52,Yes,19.25,14.96,-4.29
+2024-11-04,MAGA,FL,Florida,South,59,No,-3.39,-13.22,-9.83
+2024-11-04,MAGA,GA,Georgia,South,51,No,0.26,-2.21,-2.47
+2024-11-04,MAGA,HI,Hawaii,West,46,Yes,30.07,23.56,-6.51
+2024-11-04,MAGA,IA,Iowa,Midwest,45,No,-8.61,-13.45,-4.84
+2024-11-04,MAGA,ID,Idaho,West,67,No,-31.75,-37.52,-5.77
+2024-11-04,MAGA,IL,Illinois,Midwest,54,No,17.32,11.14,-6.18
+2024-11-04,MAGA,IN,Indiana,Midwest,50,No,-16.39,-19.3,-2.91
+2024-11-04,MAGA,KS,Kansas,Midwest,52,No,-14.99,-16.41,-1.42
+2024-11-04,MAGA,KY,Kentucky,South,47,No,-26.4,-31.03,-4.63
+2024-11-04,MAGA,LA,Louisiana,South,47,No,-18.93,-22.36,-3.43
+2024-11-04,MAGA,MA,Massachusetts,Northeast,60,No,34.23,25.91,-8.32
+2024-11-04,MAGA,MD,Maryland,South,62,No,34.06,29.51,-4.55
+2024-11-04,MAGA,ME,Maine,Northeast,49,No,8.93,6.61,-2.32
+2024-11-04,MAGA,MI,Michigan,Midwest,59,No,2.83,-1.44,-4.27
+2024-11-04,MAGA,MN,Minnesota,Midwest,52,No,7.28,4.34,-2.94
+2024-11-04,MAGA,MO,Missouri,Midwest,55,No,-15.67,-18.67,-3.0
+2024-11-04,MAGA,MS,Mississippi,South,33,No,-16.77,-23.15,-6.38
+2024-11-04,MAGA,MT,Montana,West,51,Yes,-16.79,-20.58,-3.79
+2024-11-04,MAGA,NC,North Carolina,South,54,No,-1.37,-3.26,-1.89
+2024-11-04,MAGA,ND,North Dakota,Midwest,45,Yes,-34.43,-37.39,-2.96
+2024-11-04,MAGA,NE,Nebraska,Midwest,45,No,-19.57,-20.84,-1.27
+2024-11-04,MAGA,NH,New Hampshire,Northeast,53,No,7.5,2.82,-4.68
+2024-11-04,MAGA,NJ,New Jersey,Northeast,54,No,16.14,6.03,-10.11
+2024-11-04,MAGA,NM,New Mexico,West,46,No,11.04,6.14,-4.9
+2024-11-04,MAGA,NV,Nevada,West,65,No,2.46,-3.16,-5.62
+2024-11-04,MAGA,NY,New York,Northeast,59,No,23.43,12.69,-10.74
+2024-11-04,MAGA,OH,Ohio,Midwest,50,No,-8.15,-11.31,-3.16
+2024-11-04,MAGA,OK,Oklahoma,South,49,No,-33.88,-34.94,-1.06
+2024-11-04,MAGA,OR,Oregon,West,67,No,16.61,14.87,-1.74
+2024-11-04,MAGA,PA,Pennsylvania,Northeast,59,No,1.18,-1.73,-2.91
+2024-11-04,MAGA,RI,Rhode Island,Northeast,56,Yes,21.2,13.95,-7.25
+2024-11-04,MAGA,SC,South Carolina,South,50,No,-11.85,-18.12,-6.27
+2024-11-04,MAGA,SD,South Dakota,Midwest,46,Yes,-26.87,-29.89,-3.02
+2024-11-04,MAGA,TN,Tennessee,South,59,No,-23.66,-30.12,-6.46
+2024-11-04,MAGA,TX,Texas,South,56,No,-5.66,-13.88,-8.22
+2024-11-04,MAGA,UT,Utah,West,56,No,-21.39,-22.21,-0.82
+2024-11-04,MAGA,VA,Virginia,South,62,No,10.31,5.9,-4.41
+2024-11-04,MAGA,VT,Vermont,Northeast,56,Yes,36.6,32.77,-3.83
+2024-11-04,MAGA,WA,Washington,West,66,No,19.85,18.93,-0.92
+2024-11-04,MAGA,WI,Wisconsin,Midwest,52,No,0.64,-0.87,-1.51
+2024-11-04,MAGA,WV,West Virginia,South,43,No,-39.6,-42.69,-3.09
+2024-11-04,MAGA,WY,Wyoming,West,48,Yes,-44.96,-46.96,-2.0
+2024-11-04,border crisis,AK,Alaska,West,51,Yes,-10.52,-13.69,-3.17
+2024-11-04,border crisis,AL,Alabama,South,38,No,-25.82,-30.88,-5.06
+2024-11-04,border crisis,AR,Arkansas,South,44,No,-28.42,-31.34,-2.92
+2024-11-04,border crisis,AZ,Arizona,West,56,No,0.31,-5.59,-5.9
+2024-11-04,border crisis,CA,California,West,37,No,29.82,20.8,-9.02
+2024-11-04,border crisis,CO,Colorado,West,43,No,13.88,11.29,-2.59
+2024-11-04,border crisis,CT,Connecticut,Northeast,43,No,20.39,14.76,-5.63
+2024-11-04,border crisis,DC,District of Columbia,South,100,Yes,88.93,86.63,-2.3
+2024-11-04,border crisis,DE,Delaware,South,37,Yes,19.25,14.96,-4.29
+2024-11-04,border crisis,FL,Florida,South,41,No,-3.39,-13.22,-9.83
+2024-11-04,border crisis,GA,Georgia,South,34,No,0.26,-2.21,-2.47
+2024-11-04,border crisis,HI,Hawaii,West,31,Yes,30.07,23.56,-6.51
+2024-11-04,border crisis,IA,Iowa,Midwest,43,No,-8.61,-13.45,-4.84
+2024-11-04,border crisis,ID,Idaho,West,49,No,-31.75,-37.52,-5.77
+2024-11-04,border crisis,IL,Illinois,Midwest,35,No,17.32,11.14,-6.18
+2024-11-04,border crisis,IN,Indiana,Midwest,39,No,-16.39,-19.3,-2.91
+2024-11-04,border crisis,KS,Kansas,Midwest,50,No,-14.99,-16.41,-1.42
+2024-11-04,border crisis,KY,Kentucky,South,40,No,-26.4,-31.03,-4.63
+2024-11-04,border crisis,LA,Louisiana,South,36,No,-18.93,-22.36,-3.43
+2024-11-04,border crisis,MA,Massachusetts,Northeast,40,No,34.23,25.91,-8.32
+2024-11-04,border crisis,MD,Maryland,South,40,No,34.06,29.51,-4.55
+2024-11-04,border crisis,ME,Maine,Northeast,48,No,8.93,6.61,-2.32
+2024-11-04,border crisis,MI,Michigan,Midwest,37,No,2.83,-1.44,-4.27
+2024-11-04,border crisis,MN,Minnesota,Midwest,44,No,7.28,4.34,-2.94
+2024-11-04,border crisis,MO,Missouri,Midwest,39,No,-15.67,-18.67,-3.0
+2024-11-04,border crisis,MS,Mississippi,South,34,No,-16.77,-23.15,-6.38
+2024-11-04,border crisis,MT,Montana,West,53,Yes,-16.79,-20.58,-3.79
+2024-11-04,border crisis,NC,North Carolina,South,33,No,-1.37,-3.26,-1.89
+2024-11-04,border crisis,ND,North Dakota,Midwest,51,Yes,-34.43,-37.39,-2.96
+2024-11-04,border crisis,NE,Nebraska,Midwest,44,No,-19.57,-20.84,-1.27
+2024-11-04,border crisis,NH,New Hampshire,Northeast,54,No,7.5,2.82,-4.68
+2024-11-04,border crisis,NJ,New Jersey,Northeast,37,No,16.14,6.03,-10.11
+2024-11-04,border crisis,NM,New Mexico,West,57,No,11.04,6.14,-4.9
+2024-11-04,border crisis,NV,Nevada,West,38,No,2.46,-3.16,-5.62
+2024-11-04,border crisis,NY,New York,Northeast,36,No,23.43,12.69,-10.74
+2024-11-04,border crisis,OH,Ohio,Midwest,37,No,-8.15,-11.31,-3.16
+2024-11-04,border crisis,OK,Oklahoma,South,52,No,-33.88,-34.94,-1.06
+2024-11-04,border crisis,OR,Oregon,West,38,No,16.61,14.87,-1.74
+2024-11-04,border crisis,PA,Pennsylvania,Northeast,39,No,1.18,-1.73,-2.91
+2024-11-04,border crisis,RI,Rhode Island,Northeast,46,Yes,21.2,13.95,-7.25
+2024-11-04,border crisis,SC,South Carolina,South,35,No,-11.85,-18.12,-6.27
+2024-11-04,border crisis,SD,South Dakota,Midwest,60,Yes,-26.87,-29.89,-3.02
+2024-11-04,border crisis,TN,Tennessee,South,37,No,-23.66,-30.12,-6.46
+2024-11-04,border crisis,TX,Texas,South,59,No,-5.66,-13.88,-8.22
+2024-11-04,border crisis,UT,Utah,West,37,No,-21.39,-22.21,-0.82
+2024-11-04,border crisis,VA,Virginia,South,38,No,10.31,5.9,-4.41
+2024-11-04,border crisis,VT,Vermont,Northeast,38,Yes,36.6,32.77,-3.83
+2024-11-04,border crisis,WA,Washington,West,37,No,19.85,18.93,-0.92
+2024-11-04,border crisis,WI,Wisconsin,Midwest,40,No,0.64,-0.87,-1.51
+2024-11-04,border crisis,WV,West Virginia,South,38,No,-39.6,-42.69,-3.09
+2024-11-04,border crisis,WY,Wyoming,West,41,Yes,-44.96,-46.96,-2.0
+2024-11-04,inflation,AK,Alaska,West,42,Yes,-10.52,-13.69,-3.17
+2024-11-04,inflation,AL,Alabama,South,34,No,-25.82,-30.88,-5.06
+2024-11-04,inflation,AR,Arkansas,South,35,No,-28.42,-31.34,-2.92
+2024-11-04,inflation,AZ,Arizona,West,44,No,0.31,-5.59,-5.9
+2024-11-04,inflation,CA,California,West,49,No,29.82,20.8,-9.02
+2024-11-04,inflation,CO,Colorado,West,46,No,13.88,11.29,-2.59
+2024-11-04,inflation,CT,Connecticut,Northeast,47,No,20.39,14.76,-5.63
+2024-11-04,inflation,DC,District of Columbia,South,100,Yes,88.93,86.63,-2.3
+2024-11-04,inflation,DE,Delaware,South,41,Yes,19.25,14.96,-4.29
+2024-11-04,inflation,FL,Florida,South,39,No,-3.39,-13.22,-9.83
+2024-11-04,inflation,GA,Georgia,South,38,No,0.26,-2.21,-2.47
+2024-11-04,inflation,HI,Hawaii,West,39,Yes,30.07,23.56,-6.51
+2024-11-04,inflation,IA,Iowa,Midwest,44,No,-8.61,-13.45,-4.84
+2024-11-04,inflation,ID,Idaho,West,39,No,-31.75,-37.52,-5.77
+2024-11-04,inflation,IL,Illinois,Midwest,46,No,17.32,11.14,-6.18
+2024-11-04,inflation,IN,Indiana,Midwest,41,No,-16.39,-19.3,-2.91
+2024-11-04,inflation,KS,Kansas,Midwest,47,No,-14.99,-16.41,-1.42
+2024-11-04,inflation,KY,Kentucky,South,35,No,-26.4,-31.03,-4.63
+2024-11-04,inflation,LA,Louisiana,South,30,No,-18.93,-22.36,-3.43
+2024-11-04,inflation,MA,Massachusetts,Northeast,49,No,34.23,25.91,-8.32
+2024-11-04,inflation,MD,Maryland,South,42,No,34.06,29.51,-4.55
+2024-11-04,inflation,ME,Maine,Northeast,47,No,8.93,6.61,-2.32
+2024-11-04,inflation,MI,Michigan,Midwest,43,No,2.83,-1.44,-4.27
+2024-11-04,inflation,MN,Minnesota,Midwest,47,No,7.28,4.34,-2.94
+2024-11-04,inflation,MO,Missouri,Midwest,42,No,-15.67,-18.67,-3.0
+2024-11-04,inflation,MS,Mississippi,South,29,No,-16.77,-23.15,-6.38
+2024-11-04,inflation,MT,Montana,West,42,Yes,-16.79,-20.58,-3.79
+2024-11-04,inflation,NC,North Carolina,South,39,No,-1.37,-3.26,-1.89
+2024-11-04,inflation,ND,North Dakota,Midwest,42,Yes,-34.43,-37.39,-2.96
+2024-11-04,inflation,NE,Nebraska,Midwest,43,No,-19.57,-20.84,-1.27
+2024-11-04,inflation,NH,New Hampshire,Northeast,50,No,7.5,2.82,-4.68
+2024-11-04,inflation,NJ,New Jersey,Northeast,47,No,16.14,6.03,-10.11
+2024-11-04,inflation,NM,New Mexico,West,38,No,11.04,6.14,-4.9
+2024-11-04,inflation,NV,Nevada,West,38,No,2.46,-3.16,-5.62
+2024-11-04,inflation,NY,New York,Northeast,42,No,23.43,12.69,-10.74
+2024-11-04,inflation,OH,Ohio,Midwest,42,No,-8.15,-11.31,-3.16
+2024-11-04,inflation,OK,Oklahoma,South,37,No,-33.88,-34.94,-1.06
+2024-11-04,inflation,OR,Oregon,West,48,No,16.61,14.87,-1.74
+2024-11-04,inflation,PA,Pennsylvania,Northeast,43,No,1.18,-1.73,-2.91
+2024-11-04,inflation,RI,Rhode Island,Northeast,44,Yes,21.2,13.95,-7.25
+2024-11-04,inflation,SC,South Carolina,South,37,No,-11.85,-18.12,-6.27
+2024-11-04,inflation,SD,South Dakota,Midwest,38,Yes,-26.87,-29.89,-3.02
+2024-11-04,inflation,TN,Tennessee,South,38,No,-23.66,-30.12,-6.46
+2024-11-04,inflation,TX,Texas,South,42,No,-5.66,-13.88,-8.22
+2024-11-04,inflation,UT,Utah,West,48,No,-21.39,-22.21,-0.82
+2024-11-04,inflation,VA,Virginia,South,48,No,10.31,5.9,-4.41
+2024-11-04,inflation,VT,Vermont,Northeast,44,Yes,36.6,32.77,-3.83
+2024-11-04,inflation,WA,Washington,West,49,No,19.85,18.93,-0.92
+2024-11-04,inflation,WI,Wisconsin,Midwest,44,No,0.64,-0.87,-1.51
+2024-11-04,inflation,WV,West Virginia,South,37,No,-39.6,-42.69,-3.09
+2024-11-04,inflation,WY,Wyoming,West,43,Yes,-44.96,-46.96,-2.0
+2024-11-04,manosphere,AK,Alaska,West,56,Yes,-10.52,-13.69,-3.17
+2024-11-04,manosphere,AL,Alabama,South,29,No,-25.82,-30.88,-5.06
+2024-11-04,manosphere,AR,Arkansas,South,27,No,-28.42,-31.34,-2.92
+2024-11-04,manosphere,AZ,Arizona,West,38,No,0.31,-5.59,-5.9
+2024-11-04,manosphere,CA,California,West,44,No,29.82,20.8,-9.02
+2024-11-04,manosphere,CO,Colorado,West,34,No,13.88,11.29,-2.59
+2024-11-04,manosphere,CT,Connecticut,Northeast,39,No,20.39,14.76,-5.63
+2024-11-04,manosphere,DC,District of Columbia,South,100,Yes,88.93,86.63,-2.3
+2024-11-04,manosphere,DE,Delaware,South,44,Yes,19.25,14.96,-4.29
+2024-11-04,manosphere,FL,Florida,South,34,No,-3.39,-13.22,-9.83
+2024-11-04,manosphere,GA,Georgia,South,48,No,0.26,-2.21,-2.47
+2024-11-04,manosphere,HI,Hawaii,West,36,Yes,30.07,23.56,-6.51
+2024-11-04,manosphere,IA,Iowa,Midwest,20,No,-8.61,-13.45,-4.84
+2024-11-04,manosphere,ID,Idaho,West,25,No,-31.75,-37.52,-5.77
+2024-11-04,manosphere,IL,Illinois,Midwest,49,No,17.32,11.14,-6.18
+2024-11-04,manosphere,IN,Indiana,Midwest,33,No,-16.39,-19.3,-2.91
+2024-11-04,manosphere,KS,Kansas,Midwest,31,No,-14.99,-16.41,-1.42
+2024-11-04,manosphere,KY,Kentucky,South,27,No,-26.4,-31.03,-4.63
+2024-11-04,manosphere,LA,Louisiana,South,30,No,-18.93,-22.36,-3.43
+2024-11-04,manosphere,MA,Massachusetts,Northeast,40,No,34.23,25.91,-8.32
+2024-11-04,manosphere,MD,Maryland,South,61,No,34.06,29.51,-4.55
+2024-11-04,manosphere,ME,Maine,Northeast,42,No,8.93,6.61,-2.32
+2024-11-04,manosphere,MI,Michigan,Midwest,36,No,2.83,-1.44,-4.27
+2024-11-04,manosphere,MN,Minnesota,Midwest,36,No,7.28,4.34,-2.94
+2024-11-04,manosphere,MO,Missouri,Midwest,32,No,-15.67,-18.67,-3.0
+2024-11-04,manosphere,MS,Mississippi,South,24,No,-16.77,-23.15,-6.38
+2024-11-04,manosphere,MT,Montana,West,,Yes,-16.79,-20.58,-3.79
+2024-11-04,manosphere,NC,North Carolina,South,34,No,-1.37,-3.26,-1.89
+2024-11-04,manosphere,ND,North Dakota,Midwest,48,Yes,-34.43,-37.39,-2.96
+2024-11-04,manosphere,NE,Nebraska,Midwest,30,No,-19.57,-20.84,-1.27
+2024-11-04,manosphere,NH,New Hampshire,Northeast,21,No,7.5,2.82,-4.68
+2024-11-04,manosphere,NJ,New Jersey,Northeast,40,No,16.14,6.03,-10.11
+2024-11-04,manosphere,NM,New Mexico,West,29,No,11.04,6.14,-4.9
+2024-11-04,manosphere,NV,Nevada,West,46,No,2.46,-3.16,-5.62
+2024-11-04,manosphere,NY,New York,Northeast,46,No,23.43,12.69,-10.74
+2024-11-04,manosphere,OH,Ohio,Midwest,33,No,-8.15,-11.31,-3.16
+2024-11-04,manosphere,OK,Oklahoma,South,33,No,-33.88,-34.94,-1.06
+2024-11-04,manosphere,OR,Oregon,West,44,No,16.61,14.87,-1.74
+2024-11-04,manosphere,PA,Pennsylvania,Northeast,37,No,1.18,-1.73,-2.91
+2024-11-04,manosphere,RI,Rhode Island,Northeast,22,Yes,21.2,13.95,-7.25
+2024-11-04,manosphere,SC,South Carolina,South,32,No,-11.85,-18.12,-6.27
+2024-11-04,manosphere,SD,South Dakota,Midwest,,Yes,-26.87,-29.89,-3.02
+2024-11-04,manosphere,TN,Tennessee,South,33,No,-23.66,-30.12,-6.46
+2024-11-04,manosphere,TX,Texas,South,33,No,-5.66,-13.88,-8.22
+2024-11-04,manosphere,UT,Utah,West,36,No,-21.39,-22.21,-0.82
+2024-11-04,manosphere,VA,Virginia,South,44,No,10.31,5.9,-4.41
+2024-11-04,manosphere,VT,Vermont,Northeast,38,Yes,36.6,32.77,-3.83
+2024-11-04,manosphere,WA,Washington,West,45,No,19.85,18.93,-0.92
+2024-11-04,manosphere,WI,Wisconsin,Midwest,28,No,0.64,-0.87,-1.51
+2024-11-04,manosphere,WV,West Virginia,South,25,No,-39.6,-42.69,-3.09
+2024-11-04,manosphere,WY,Wyoming,West,,Yes,-44.96,-46.96,-2.0
+2024-11-04,tradwife,AK,Alaska,West,67,Yes,-10.52,-13.69,-3.17
+2024-11-04,tradwife,AL,Alabama,South,61,No,-25.82,-30.88,-5.06
+2024-11-04,tradwife,AR,Arkansas,South,55,No,-28.42,-31.34,-2.92
+2024-11-04,tradwife,AZ,Arizona,West,57,No,0.31,-5.59,-5.9
+2024-11-04,tradwife,CA,California,West,53,No,29.82,20.8,-9.02
+2024-11-04,tradwife,CO,Colorado,West,76,No,13.88,11.29,-2.59
+2024-11-04,tradwife,CT,Connecticut,Northeast,57,No,20.39,14.76,-5.63
+2024-11-04,tradwife,DC,District of Columbia,South,100,Yes,88.93,86.63,-2.3
+2024-11-04,tradwife,DE,Delaware,South,50,Yes,19.25,14.96,-4.29
+2024-11-04,tradwife,FL,Florida,South,48,No,-3.39,-13.22,-9.83
+2024-11-04,tradwife,GA,Georgia,South,50,No,0.26,-2.21,-2.47
+2024-11-04,tradwife,HI,Hawaii,West,52,Yes,30.07,23.56,-6.51
+2024-11-04,tradwife,IA,Iowa,Midwest,51,No,-8.61,-13.45,-4.84
+2024-11-04,tradwife,ID,Idaho,West,60,No,-31.75,-37.52,-5.77
+2024-11-04,tradwife,IL,Illinois,Midwest,61,No,17.32,11.14,-6.18
+2024-11-04,tradwife,IN,Indiana,Midwest,56,No,-16.39,-19.3,-2.91
+2024-11-04,tradwife,KS,Kansas,Midwest,55,No,-14.99,-16.41,-1.42
+2024-11-04,tradwife,KY,Kentucky,South,50,No,-26.4,-31.03,-4.63
+2024-11-04,tradwife,LA,Louisiana,South,49,No,-18.93,-22.36,-3.43
+2024-11-04,tradwife,MA,Massachusetts,Northeast,69,No,34.23,25.91,-8.32
+2024-11-04,tradwife,MD,Maryland,South,67,No,34.06,29.51,-4.55
+2024-11-04,tradwife,ME,Maine,Northeast,83,No,8.93,6.61,-2.32
+2024-11-04,tradwife,MI,Michigan,Midwest,64,No,2.83,-1.44,-4.27
+2024-11-04,tradwife,MN,Minnesota,Midwest,63,No,7.28,4.34,-2.94
+2024-11-04,tradwife,MO,Missouri,Midwest,59,No,-15.67,-18.67,-3.0
+2024-11-04,tradwife,MS,Mississippi,South,39,No,-16.77,-23.15,-6.38
+2024-11-04,tradwife,MT,Montana,West,51,Yes,-16.79,-20.58,-3.79
+2024-11-04,tradwife,NC,North Carolina,South,59,No,-1.37,-3.26,-1.89
+2024-11-04,tradwife,ND,North Dakota,Midwest,51,Yes,-34.43,-37.39,-2.96
+2024-11-04,tradwife,NE,Nebraska,Midwest,56,No,-19.57,-20.84,-1.27
+2024-11-04,tradwife,NH,New Hampshire,Northeast,75,No,7.5,2.82,-4.68
+2024-11-04,tradwife,NJ,New Jersey,Northeast,48,No,16.14,6.03,-10.11
+2024-11-04,tradwife,NM,New Mexico,West,54,No,11.04,6.14,-4.9
+2024-11-04,tradwife,NV,Nevada,West,48,No,2.46,-3.16,-5.62
+2024-11-04,tradwife,NY,New York,Northeast,51,No,23.43,12.69,-10.74
+2024-11-04,tradwife,OH,Ohio,Midwest,55,No,-8.15,-11.31,-3.16
+2024-11-04,tradwife,OK,Oklahoma,South,71,No,-33.88,-34.94,-1.06
+2024-11-04,tradwife,OR,Oregon,West,84,No,16.61,14.87,-1.74
+2024-11-04,tradwife,PA,Pennsylvania,Northeast,65,No,1.18,-1.73,-2.91
+2024-11-04,tradwife,RI,Rhode Island,Northeast,79,Yes,21.2,13.95,-7.25
+2024-11-04,tradwife,SC,South Carolina,South,62,No,-11.85,-18.12,-6.27
+2024-11-04,tradwife,SD,South Dakota,Midwest,56,Yes,-26.87,-29.89,-3.02
+2024-11-04,tradwife,TN,Tennessee,South,59,No,-23.66,-30.12,-6.46
+2024-11-04,tradwife,TX,Texas,South,48,No,-5.66,-13.88,-8.22
+2024-11-04,tradwife,UT,Utah,West,73,No,-21.39,-22.21,-0.82
+2024-11-04,tradwife,VA,Virginia,South,65,No,10.31,5.9,-4.41
+2024-11-04,tradwife,VT,Vermont,Northeast,93,Yes,36.6,32.77,-3.83
+2024-11-04,tradwife,WA,Washington,West,78,No,19.85,18.93,-0.92
+2024-11-04,tradwife,WI,Wisconsin,Midwest,57,No,0.64,-0.87,-1.51
+2024-11-04,tradwife,WV,West Virginia,South,58,No,-39.6,-42.69,-3.09
+2024-11-04,tradwife,WY,Wyoming,West,66,Yes,-44.96,-46.96,-2.0

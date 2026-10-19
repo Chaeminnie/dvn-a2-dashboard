@@ -1,0 +1,4 @@
+# Python 3.11 (see pyproject.toml)
+numpy==2.4.6
+pandas==3.0.5
+streamlit==1.63.0

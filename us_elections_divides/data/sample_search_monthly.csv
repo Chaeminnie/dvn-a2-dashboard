@@ -1,0 +1,706 @@
+date,keyword,interest
+2015-01-01,MAGA,21
+2015-02-01,MAGA,20
+2015-03-01,MAGA,21
+2015-04-01,MAGA,18
+2015-05-01,MAGA,18
+2015-06-01,MAGA,18
+2015-07-01,MAGA,19
+2015-08-01,MAGA,19
+2015-09-01,MAGA,17
+2015-10-01,MAGA,16
+2015-11-01,MAGA,17
+2015-12-01,MAGA,19
+2016-01-01,MAGA,18
+2016-02-01,MAGA,16
+2016-03-01,MAGA,20
+2016-04-01,MAGA,18
+2016-05-01,MAGA,17
+2016-06-01,MAGA,19
+2016-07-01,MAGA,19
+2016-08-01,MAGA,18
+2016-09-01,MAGA,17
+2016-10-01,MAGA,20
+2016-11-01,MAGA,35
+2016-12-01,MAGA,20
+2017-01-01,MAGA,33
+2017-02-01,MAGA,27
+2017-03-01,MAGA,25
+2017-04-01,MAGA,20
+2017-05-01,MAGA,22
+2017-06-01,MAGA,23
+2017-07-01,MAGA,23
+2017-08-01,MAGA,29
+2017-09-01,MAGA,24
+2017-10-01,MAGA,20
+2017-11-01,MAGA,22
+2017-12-01,MAGA,22
+2018-01-01,MAGA,26
+2018-02-01,MAGA,26
+2018-03-01,MAGA,22
+2018-04-01,MAGA,25
+2018-05-01,MAGA,25
+2018-06-01,MAGA,26
+2018-07-01,MAGA,43
+2018-08-01,MAGA,27
+2018-09-01,MAGA,27
+2018-10-01,MAGA,48
+2018-11-01,MAGA,31
+2018-12-01,MAGA,24
+2019-01-01,MAGA,100
+2019-02-01,MAGA,69
+2019-03-01,MAGA,39
+2019-04-01,MAGA,29
+2019-05-01,MAGA,25
+2019-06-01,MAGA,23
+2019-07-01,MAGA,26
+2019-08-01,MAGA,27
+2019-09-01,MAGA,23
+2019-10-01,MAGA,22
+2019-11-01,MAGA,24
+2019-12-01,MAGA,26
+2020-01-01,MAGA,25
+2020-02-01,MAGA,31
+2020-03-01,MAGA,21
+2020-04-01,MAGA,18
+2020-05-01,MAGA,30
+2020-06-01,MAGA,37
+2020-07-01,MAGA,31
+2020-08-01,MAGA,44
+2020-09-01,MAGA,39
+2020-10-01,MAGA,40
+2020-11-01,MAGA,94
+2020-12-01,MAGA,24
+2021-01-01,MAGA,55
+2021-02-01,MAGA,24
+2021-03-01,MAGA,16
+2021-04-01,MAGA,16
+2021-05-01,MAGA,17
+2021-06-01,MAGA,17
+2021-07-01,MAGA,17
+2021-08-01,MAGA,17
+2021-09-01,MAGA,16
+2021-10-01,MAGA,15
+2021-11-01,MAGA,15
+2021-12-01,MAGA,14
+2022-01-01,MAGA,16
+2022-02-01,MAGA,16
+2022-03-01,MAGA,16
+2022-04-01,MAGA,15
+2022-05-01,MAGA,30
+2022-06-01,MAGA,18
+2022-07-01,MAGA,21
+2022-08-01,MAGA,24
+2022-09-01,MAGA,36
+2022-10-01,MAGA,21
+2022-11-01,MAGA,23
+2022-12-01,MAGA,16
+2023-01-01,MAGA,18
+2023-02-01,MAGA,16
+2023-03-01,MAGA,19
+2023-04-01,MAGA,21
+2023-05-01,MAGA,19
+2023-06-01,MAGA,18
+2023-07-01,MAGA,18
+2023-08-01,MAGA,21
+2023-09-01,MAGA,18
+2023-10-01,MAGA,21
+2023-11-01,MAGA,18
+2023-12-01,MAGA,17
+2024-01-01,MAGA,27
+2024-02-01,MAGA,26
+2024-03-01,MAGA,26
+2024-04-01,MAGA,20
+2024-05-01,MAGA,25
+2024-06-01,MAGA,32
+2024-07-01,MAGA,52
+2024-08-01,MAGA,40
+2024-09-01,MAGA,49
+2024-10-01,MAGA,66
+2024-11-01,MAGA,90
+2024-12-01,MAGA,38
+2025-01-01,MAGA,56
+2025-02-01,MAGA,69
+2025-03-01,MAGA,55
+2025-04-01,MAGA,52
+2025-05-01,MAGA,49
+2025-06-01,MAGA,61
+2025-07-01,MAGA,69
+2025-08-01,MAGA,50
+2025-09-01,MAGA,78
+2025-10-01,MAGA,65
+2025-11-01,MAGA,60
+2025-12-01,MAGA,52
+2026-01-01,MAGA,77
+2026-02-01,MAGA,96
+2026-03-01,MAGA,73
+2026-04-01,MAGA,65
+2026-05-01,MAGA,66
+2026-06-01,MAGA,56
+2026-07-01,MAGA,63
+2026-08-01,MAGA,58
+2026-09-01,MAGA,61
+2015-01-01,border crisis,1
+2015-02-01,border crisis,1
+2015-03-01,border crisis,1
+2015-04-01,border crisis,1
+2015-05-01,border crisis,1
+2015-06-01,border crisis,0
+2015-07-01,border crisis,0
+2015-08-01,border crisis,1
+2015-09-01,border crisis,3
+2015-10-01,border crisis,1
+2015-11-01,border crisis,2
+2015-12-01,border crisis,1
+2016-01-01,border crisis,1
+2016-02-01,border crisis,1
+2016-03-01,border crisis,2
+2016-04-01,border crisis,1
+2016-05-01,border crisis,1
+2016-06-01,border crisis,1
+2016-07-01,border crisis,0
+2016-08-01,border crisis,1
+2016-09-01,border crisis,1
+2016-10-01,border crisis,1
+2016-11-01,border crisis,1
+2016-12-01,border crisis,1
+2017-01-01,border crisis,1
+2017-02-01,border crisis,1
+2017-03-01,border crisis,1
+2017-04-01,border crisis,1
+2017-05-01,border crisis,1
+2017-06-01,border crisis,1
+2017-07-01,border crisis,1
+2017-08-01,border crisis,0
+2017-09-01,border crisis,1
+2017-10-01,border crisis,1
+2017-11-01,border crisis,1
+2017-12-01,border crisis,1
+2018-01-01,border crisis,1
+2018-02-01,border crisis,1
+2018-03-01,border crisis,1
+2018-04-01,border crisis,2
+2018-05-01,border crisis,1
+2018-06-01,border crisis,10
+2018-07-01,border crisis,2
+2018-08-01,border crisis,1
+2018-09-01,border crisis,1
+2018-10-01,border crisis,3
+2018-11-01,border crisis,5
+2018-12-01,border crisis,3
+2019-01-01,border crisis,21
+2019-02-01,border crisis,13
+2019-03-01,border crisis,10
+2019-04-01,border crisis,15
+2019-05-01,border crisis,8
+2019-06-01,border crisis,17
+2019-07-01,border crisis,19
+2019-08-01,border crisis,4
+2019-09-01,border crisis,3
+2019-10-01,border crisis,3
+2019-11-01,border crisis,3
+2019-12-01,border crisis,3
+2020-01-01,border crisis,2
+2020-02-01,border crisis,2
+2020-03-01,border crisis,3
+2020-04-01,border crisis,2
+2020-05-01,border crisis,1
+2020-06-01,border crisis,1
+2020-07-01,border crisis,1
+2020-08-01,border crisis,1
+2020-09-01,border crisis,1
+2020-10-01,border crisis,1
+2020-11-01,border crisis,1
+2020-12-01,border crisis,1
+2021-01-01,border crisis,1
+2021-02-01,border crisis,2
+2021-03-01,border crisis,100
+2021-04-01,border crisis,47
+2021-05-01,border crisis,23
+2021-06-01,border crisis,23
+2021-07-01,border crisis,14
+2021-08-01,border crisis,22
+2021-09-01,border crisis,48
+2021-10-01,border crisis,17
+2021-11-01,border crisis,15
+2021-12-01,border crisis,7
+2022-01-01,border crisis,8
+2022-02-01,border crisis,9
+2022-03-01,border crisis,6
+2022-04-01,border crisis,11
+2022-05-01,border crisis,6
+2022-06-01,border crisis,5
+2022-07-01,border crisis,6
+2022-08-01,border crisis,5
+2022-09-01,border crisis,11
+2022-10-01,border crisis,6
+2022-11-01,border crisis,5
+2022-12-01,border crisis,14
+2023-01-01,border crisis,8
+2023-02-01,border crisis,6
+2023-03-01,border crisis,6
+2023-04-01,border crisis,5
+2023-05-01,border crisis,37
+2023-06-01,border crisis,5
+2023-07-01,border crisis,3
+2023-08-01,border crisis,11
+2023-09-01,border crisis,13
+2023-10-01,border crisis,13
+2023-11-01,border crisis,6
+2023-12-01,border crisis,13
+2024-01-01,border crisis,37
+2024-02-01,border crisis,35
+2024-03-01,border crisis,18
+2024-04-01,border crisis,9
+2024-05-01,border crisis,8
+2024-06-01,border crisis,6
+2024-07-01,border crisis,8
+2024-08-01,border crisis,8
+2024-09-01,border crisis,9
+2024-10-01,border crisis,9
+2024-11-01,border crisis,8
+2024-12-01,border crisis,3
+2025-01-01,border crisis,5
+2025-02-01,border crisis,4
+2025-03-01,border crisis,4
+2025-04-01,border crisis,4
+2025-05-01,border crisis,3
+2025-06-01,border crisis,2
+2025-07-01,border crisis,3
+2025-08-01,border crisis,2
+2025-09-01,border crisis,2
+2025-10-01,border crisis,3
+2025-11-01,border crisis,4
+2025-12-01,border crisis,5
+2026-01-01,border crisis,5
+2026-02-01,border crisis,7
+2026-03-01,border crisis,8
+2026-04-01,border crisis,7
+2026-05-01,border crisis,7
+2026-06-01,border crisis,6
+2026-07-01,border crisis,4
+2026-08-01,border crisis,5
+2026-09-01,border crisis,2
+2015-01-01,inflation,23
+2015-02-01,inflation,24
+2015-03-01,inflation,24
+2015-04-01,inflation,27
+2015-05-01,inflation,24
+2015-06-01,inflation,19
+2015-07-01,inflation,19
+2015-08-01,inflation,19
+2015-09-01,inflation,23
+2015-10-01,inflation,24
+2015-11-01,inflation,25
+2015-12-01,inflation,25
+2016-01-01,inflation,20
+2016-02-01,inflation,24
+2016-03-01,inflation,25
+2016-04-01,inflation,26
+2016-05-01,inflation,22
+2016-06-01,inflation,17
+2016-07-01,inflation,16
+2016-08-01,inflation,16
+2016-09-01,inflation,20
+2016-10-01,inflation,23
+2016-11-01,inflation,23
+2016-12-01,inflation,22
+2017-01-01,inflation,21
+2017-02-01,inflation,25
+2017-03-01,inflation,25
+2017-04-01,inflation,26
+2017-05-01,inflation,22
+2017-06-01,inflation,18
+2017-07-01,inflation,17
+2017-08-01,inflation,17
+2017-09-01,inflation,20
+2017-10-01,inflation,24
+2017-11-01,inflation,24
+2017-12-01,inflation,23
+2018-01-01,inflation,22
+2018-02-01,inflation,29
+2018-03-01,inflation,25
+2018-04-01,inflation,27
+2018-05-01,inflation,24
+2018-06-01,inflation,19
+2018-07-01,inflation,20
+2018-08-01,inflation,20
+2018-09-01,inflation,23
+2018-10-01,inflation,26
+2018-11-01,inflation,26
+2018-12-01,inflation,24
+2019-01-01,inflation,23
+2019-02-01,inflation,26
+2019-03-01,inflation,26
+2019-04-01,inflation,28
+2019-05-01,inflation,25
+2019-06-01,inflation,19
+2019-07-01,inflation,20
+2019-08-01,inflation,18
+2019-09-01,inflation,22
+2019-10-01,inflation,26
+2019-11-01,inflation,24
+2019-12-01,inflation,23
+2020-01-01,inflation,22
+2020-02-01,inflation,26
+2020-03-01,inflation,24
+2020-04-01,inflation,27
+2020-05-01,inflation,24
+2020-06-01,inflation,20
+2020-07-01,inflation,21
+2020-08-01,inflation,22
+2020-09-01,inflation,25
+2020-10-01,inflation,24
+2020-11-01,inflation,23
+2020-12-01,inflation,25
+2021-01-01,inflation,26
+2021-02-01,inflation,34
+2021-03-01,inflation,33
+2021-04-01,inflation,32
+2021-05-01,inflation,48
+2021-06-01,inflation,37
+2021-07-01,inflation,31
+2021-08-01,inflation,27
+2021-09-01,inflation,29
+2021-10-01,inflation,42
+2021-11-01,inflation,52
+2021-12-01,inflation,47
+2022-01-01,inflation,54
+2022-02-01,inflation,65
+2022-03-01,inflation,70
+2022-04-01,inflation,74
+2022-05-01,inflation,71
+2022-06-01,inflation,89
+2022-07-01,inflation,75
+2022-08-01,inflation,97
+2022-09-01,inflation,76
+2022-10-01,inflation,89
+2022-11-01,inflation,73
+2022-12-01,inflation,54
+2023-01-01,inflation,55
+2023-02-01,inflation,63
+2023-03-01,inflation,55
+2023-04-01,inflation,53
+2023-05-01,inflation,49
+2023-06-01,inflation,44
+2023-07-01,inflation,46
+2023-08-01,inflation,45
+2023-09-01,inflation,52
+2023-10-01,inflation,53
+2023-11-01,inflation,54
+2023-12-01,inflation,51
+2024-01-01,inflation,48
+2024-02-01,inflation,58
+2024-03-01,inflation,53
+2024-04-01,inflation,60
+2024-05-01,inflation,55
+2024-06-01,inflation,47
+2024-07-01,inflation,47
+2024-08-01,inflation,52
+2024-09-01,inflation,56
+2024-10-01,inflation,54
+2024-11-01,inflation,58
+2024-12-01,inflation,46
+2025-01-01,inflation,45
+2025-02-01,inflation,57
+2025-03-01,inflation,53
+2025-04-01,inflation,51
+2025-05-01,inflation,47
+2025-06-01,inflation,39
+2025-07-01,inflation,60
+2025-08-01,inflation,52
+2025-09-01,inflation,50
+2025-10-01,inflation,57
+2025-11-01,inflation,69
+2025-12-01,inflation,74
+2026-01-01,inflation,68
+2026-02-01,inflation,78
+2026-03-01,inflation,100
+2026-04-01,inflation,81
+2026-05-01,inflation,84
+2026-06-01,inflation,89
+2026-07-01,inflation,60
+2026-08-01,inflation,42
+2026-09-01,inflation,51
+2015-01-01,manosphere,1
+2015-02-01,manosphere,1
+2015-03-01,manosphere,2
+2015-04-01,manosphere,1
+2015-05-01,manosphere,1
+2015-06-01,manosphere,1
+2015-07-01,manosphere,2
+2015-08-01,manosphere,2
+2015-09-01,manosphere,2
+2015-10-01,manosphere,1
+2015-11-01,manosphere,1
+2015-12-01,manosphere,1
+2016-01-01,manosphere,1
+2016-02-01,manosphere,1
+2016-03-01,manosphere,1
+2016-04-01,manosphere,1
+2016-05-01,manosphere,1
+2016-06-01,manosphere,1
+2016-07-01,manosphere,1
+2016-08-01,manosphere,1
+2016-09-01,manosphere,1
+2016-10-01,manosphere,1
+2016-11-01,manosphere,1
+2016-12-01,manosphere,1
+2017-01-01,manosphere,1
+2017-02-01,manosphere,1
+2017-03-01,manosphere,2
+2017-04-01,manosphere,1
+2017-05-01,manosphere,1
+2017-06-01,manosphere,1
+2017-07-01,manosphere,1
+2017-08-01,manosphere,1
+2017-09-01,manosphere,1
+2017-10-01,manosphere,1
+2017-11-01,manosphere,1
+2017-12-01,manosphere,1
+2018-01-01,manosphere,1
+2018-02-01,manosphere,1
+2018-03-01,manosphere,1
+2018-04-01,manosphere,1
+2018-05-01,manosphere,1
+2018-06-01,manosphere,1
+2018-07-01,manosphere,1
+2018-08-01,manosphere,1
+2018-09-01,manosphere,1
+2018-10-01,manosphere,1
+2018-11-01,manosphere,1
+2018-12-01,manosphere,1
+2019-01-01,manosphere,1
+2019-02-01,manosphere,1
+2019-03-01,manosphere,0
+2019-04-01,manosphere,1
+2019-05-01,manosphere,1
+2019-06-01,manosphere,1
+2019-07-01,manosphere,1
+2019-08-01,manosphere,1
+2019-09-01,manosphere,1
+2019-10-01,manosphere,1
+2019-11-01,manosphere,1
+2019-12-01,manosphere,0
+2020-01-01,manosphere,1
+2020-02-01,manosphere,0
+2020-03-01,manosphere,1
+2020-04-01,manosphere,1
+2020-05-01,manosphere,0
+2020-06-01,manosphere,0
+2020-07-01,manosphere,1
+2020-08-01,manosphere,1
+2020-09-01,manosphere,0
+2020-10-01,manosphere,1
+2020-11-01,manosphere,1
+2020-12-01,manosphere,1
+2021-01-01,manosphere,1
+2021-02-01,manosphere,1
+2021-03-01,manosphere,1
+2021-04-01,manosphere,1
+2021-05-01,manosphere,1
+2021-06-01,manosphere,1
+2021-07-01,manosphere,1
+2021-08-01,manosphere,1
+2021-09-01,manosphere,1
+2021-10-01,manosphere,1
+2021-11-01,manosphere,1
+2021-12-01,manosphere,1
+2022-01-01,manosphere,2
+2022-02-01,manosphere,2
+2022-03-01,manosphere,1
+2022-04-01,manosphere,2
+2022-05-01,manosphere,2
+2022-06-01,manosphere,2
+2022-07-01,manosphere,2
+2022-08-01,manosphere,2
+2022-09-01,manosphere,2
+2022-10-01,manosphere,2
+2022-11-01,manosphere,2
+2022-12-01,manosphere,2
+2023-01-01,manosphere,2
+2023-02-01,manosphere,2
+2023-03-01,manosphere,2
+2023-04-01,manosphere,2
+2023-05-01,manosphere,2
+2023-06-01,manosphere,2
+2023-07-01,manosphere,2
+2023-08-01,manosphere,2
+2023-09-01,manosphere,2
+2023-10-01,manosphere,2
+2023-11-01,manosphere,2
+2023-12-01,manosphere,2
+2024-01-01,manosphere,2
+2024-02-01,manosphere,2
+2024-03-01,manosphere,2
+2024-04-01,manosphere,2
+2024-05-01,manosphere,2
+2024-06-01,manosphere,1
+2024-07-01,manosphere,1
+2024-08-01,manosphere,2
+2024-09-01,manosphere,7
+2024-10-01,manosphere,3
+2024-11-01,manosphere,8
+2024-12-01,manosphere,4
+2025-01-01,manosphere,3
+2025-02-01,manosphere,3
+2025-03-01,manosphere,12
+2025-04-01,manosphere,14
+2025-05-01,manosphere,7
+2025-06-01,manosphere,6
+2025-07-01,manosphere,9
+2025-08-01,manosphere,8
+2025-09-01,manosphere,6
+2025-10-01,manosphere,5
+2025-11-01,manosphere,6
+2025-12-01,manosphere,6
+2026-01-01,manosphere,5
+2026-02-01,manosphere,7
+2026-03-01,manosphere,100
+2026-04-01,manosphere,36
+2026-05-01,manosphere,22
+2026-06-01,manosphere,19
+2026-07-01,manosphere,23
+2026-08-01,manosphere,14
+2026-09-01,manosphere,13
+2015-01-01,tradwife,0
+2015-02-01,tradwife,0
+2015-03-01,tradwife,0
+2015-04-01,tradwife,0
+2015-05-01,tradwife,0
+2015-06-01,tradwife,0
+2015-07-01,tradwife,0
+2015-08-01,tradwife,0
+2015-09-01,tradwife,0
+2015-10-01,tradwife,0
+2015-11-01,tradwife,0
+2015-12-01,tradwife,0
+2016-01-01,tradwife,0
+2016-02-01,tradwife,0
+2016-03-01,tradwife,0
+2016-04-01,tradwife,0
+2016-05-01,tradwife,0
+2016-06-01,tradwife,0
+2016-07-01,tradwife,0
+2016-08-01,tradwife,0
+2016-09-01,tradwife,0
+2016-10-01,tradwife,0
+2016-11-01,tradwife,0
+2016-12-01,tradwife,0
+2017-01-01,tradwife,0
+2017-02-01,tradwife,0
+2017-03-01,tradwife,0
+2017-04-01,tradwife,0
+2017-05-01,tradwife,0
+2017-06-01,tradwife,0
+2017-07-01,tradwife,0
+2017-08-01,tradwife,0
+2017-09-01,tradwife,0
+2017-10-01,tradwife,0
+2017-11-01,tradwife,0
+2017-12-01,tradwife,0
+2018-01-01,tradwife,0
+2018-02-01,tradwife,0
+2018-03-01,tradwife,0
+2018-04-01,tradwife,0
+2018-05-01,tradwife,0
+2018-06-01,tradwife,5
+2018-07-01,tradwife,0
+2018-08-01,tradwife,0
+2018-09-01,tradwife,1
+2018-10-01,tradwife,0
+2018-11-01,tradwife,0
+2018-12-01,tradwife,0
+2019-01-01,tradwife,0
+2019-02-01,tradwife,0
+2019-03-01,tradwife,0
+2019-04-01,tradwife,0
+2019-05-01,tradwife,1
+2019-06-01,tradwife,1
+2019-07-01,tradwife,2
+2019-08-01,tradwife,1
+2019-09-01,tradwife,0
+2019-10-01,tradwife,1
+2019-11-01,tradwife,1
+2019-12-01,tradwife,3
+2020-01-01,tradwife,10
+2020-02-01,tradwife,8
+2020-03-01,tradwife,5
+2020-04-01,tradwife,5
+2020-05-01,tradwife,6
+2020-06-01,tradwife,4
+2020-07-01,tradwife,10
+2020-08-01,tradwife,8
+2020-09-01,tradwife,7
+2020-10-01,tradwife,6
+2020-11-01,tradwife,8
+2020-12-01,tradwife,13
+2021-01-01,tradwife,10
+2021-02-01,tradwife,6
+2021-03-01,tradwife,8
+2021-04-01,tradwife,7
+2021-05-01,tradwife,9
+2021-06-01,tradwife,9
+2021-07-01,tradwife,9
+2021-08-01,tradwife,6
+2021-09-01,tradwife,6
+2021-10-01,tradwife,6
+2021-11-01,tradwife,6
+2021-12-01,tradwife,5
+2022-01-01,tradwife,7
+2022-02-01,tradwife,7
+2022-03-01,tradwife,6
+2022-04-01,tradwife,7
+2022-05-01,tradwife,9
+2022-06-01,tradwife,8
+2022-07-01,tradwife,7
+2022-08-01,tradwife,9
+2022-09-01,tradwife,12
+2022-10-01,tradwife,7
+2022-11-01,tradwife,7
+2022-12-01,tradwife,16
+2023-01-01,tradwife,9
+2023-02-01,tradwife,16
+2023-03-01,tradwife,29
+2023-04-01,tradwife,15
+2023-05-01,tradwife,13
+2023-06-01,tradwife,14
+2023-07-01,tradwife,12
+2023-08-01,tradwife,15
+2023-09-01,tradwife,22
+2023-10-01,tradwife,17
+2023-11-01,tradwife,16
+2023-12-01,tradwife,31
+2024-01-01,tradwife,41
+2024-02-01,tradwife,71
+2024-03-01,tradwife,100
+2024-04-01,tradwife,72
+2024-05-01,tradwife,74
+2024-06-01,tradwife,54
+2024-07-01,tradwife,66
+2024-08-01,tradwife,65
+2024-09-01,tradwife,34
+2024-10-01,tradwife,29
+2024-11-01,tradwife,30
+2024-12-01,tradwife,45
+2025-01-01,tradwife,28
+2025-02-01,tradwife,25
+2025-03-01,tradwife,28
+2025-04-01,tradwife,30
+2025-05-01,tradwife,41
+2025-06-01,tradwife,47
+2025-07-01,tradwife,45
+2025-08-01,tradwife,68
+2025-09-01,tradwife,32
+2025-10-01,tradwife,73
+2025-11-01,tradwife,53
+2025-12-01,tradwife,50
+2026-01-01,tradwife,37
+2026-02-01,tradwife,61
+2026-03-01,tradwife,39
+2026-04-01,tradwife,70
+2026-05-01,tradwife,58
+2026-06-01,tradwife,65
+2026-07-01,tradwife,70
+2026-08-01,tradwife,55
+2026-09-01,tradwife,55

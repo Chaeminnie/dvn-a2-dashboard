@@ -1,0 +1,505 @@
+schema_version: 2
+dashboard:
+  title: Gender equality on paper, in practice, and in the data
+  subject: world_development_indicators
+  question: Which countries and indicators have evidence about women's economic and political position, how recent is it,
+    where do laws and outcomes seem out of step, and where does the evidence break off?
+  audience: Students, journalists and policy readers who use World Bank data and want to know what it can and cannot show
+  entrypoint: app.py
+  pages:
+  - intro_page.py
+  - q1_page.py
+  - q2_page.py
+  - q3_page.py
+  - q4_page.py
+  - about_page.py
+  sample_environment_variable: DASHBOARD_SAMPLE_MODE
+sources:
+- id: wbl_law_index
+  publisher: World Bank (Women, Business and the Law)
+  title: Women, Business and the Law Index Score (SG.LAW.INDX), WBL 1.0 series, WDI Database Archives
+  url: https://api.worldbank.org/v2/en/indicator/SG.LAW.INDX?downloadformat=csv
+  licence: Creative Commons Attribution 4.0 (CC BY 4.0)
+  retrieved: '2026-10-16'
+  cadence: WBL 1.0 series ends with the 2024 release (data to 2023); archived
+  status: archive
+  notes: File dated 2025-10-29 from the WDI Database Archives (source published 2024-03-04). The file holds weighted points
+    (4,100 maximum to 2019; 3,400, 2,600, 2,100 and 1,600 in 2020 to 2023) instead of the 0-100 score in its description;
+    the pipeline divides by the year's maximum and multiplies by 100. The question set changed in 2020 and 2022.
+- id: ilo_labour_force
+  publisher: International Labour Organization (ILOSTAT), published through World Bank WDI
+  title: Labor force participation rate, female and male, modeled ILO estimate (SL.TLF.CACT.FE.ZS, SL.TLF.CACT.MA.ZS)
+  url: https://api.worldbank.org/v2/en/indicator/SL.TLF.CACT.FE.ZS?downloadformat=csv
+  licence: Creative Commons Attribution 4.0 (CC BY 4.0)
+  retrieved: '2026-10-16'
+  cadence: Updated by the ILO and republished in WDI releases; a fixed snapshot of the 2026-10-08 WDI release is used
+  status: snapshot
+  notes: Modelled estimates, % of the population aged 15 and over. Model output rather than a national count, which is why
+    almost every country has a value.
+- id: unesco_enrolment
+  publisher: UNESCO Institute for Statistics, published through World Bank WDI
+  title: School enrollment, secondary, female (% gross) (SE.SEC.ENRR.FE)
+  url: https://api.worldbank.org/v2/en/indicator/SE.SEC.ENRR.FE?downloadformat=csv
+  licence: Creative Commons Attribution 4.0 (CC BY 4.0)
+  retrieved: '2026-10-16'
+  cadence: Annual; a fixed snapshot of the 2026-10-08 WDI release is used
+  status: snapshot
+  notes: Gross enrolment ratio, so values above 100% occur.
+- id: ipu_parliament
+  publisher: Inter-Parliamentary Union, published through World Bank WDI
+  title: Proportion of seats held by women in national parliaments (SG.GEN.PARL.ZS)
+  url: https://api.worldbank.org/v2/en/indicator/SG.GEN.PARL.ZS?downloadformat=csv
+  licence: Creative Commons Attribution 4.0 (CC BY 4.0)
+  retrieved: '2026-10-16'
+  cadence: Monthly at the IPU; a fixed snapshot of the 2026-10-08 WDI release is used
+  status: snapshot
+  notes: Single or lower chamber.
+- id: global_findex
+  publisher: Global Findex Database, World Bank
+  title: Account ownership at a financial institution or with a mobile-money-service provider, female (FX.OWN.TOTL.FE.ZS)
+  url: https://api.worldbank.org/v2/en/indicator/FX.OWN.TOTL.FE.ZS?downloadformat=csv
+  licence: Creative Commons Attribution 4.0 (CC BY 4.0)
+  retrieved: '2026-10-16'
+  cadence: Survey roughly every three years; a fixed snapshot of the 2026-10-08 WDI release is used
+  status: snapshot
+  notes: Values exist only for the survey years 2011, 2014, 2017, 2021, 2022 and 2024.
+- id: wdi_country_metadata
+  publisher: World Bank
+  title: 'World Development Indicators country metadata: region and income group (Metadata_Country)'
+  url: https://api.worldbank.org/v2/en/indicator/SL.TLF.CACT.FE.ZS?downloadformat=csv
+  licence: Creative Commons Attribution 4.0 (CC BY 4.0)
+  retrieved: '2026-10-16'
+  cadence: Income groups are reclassified each 1 July; a fixed snapshot is used
+  status: snapshot
+  notes: Region and income group (fiscal year 2027, 2025 GNI per capita). Rows without a region are aggregates and are excluded.
+datasets:
+- id: observations
+  source_ids: &id001
+  - wbl_law_index
+  - ilo_labour_force
+  - unesco_enrolment
+  - ipu_parliament
+  - global_findex
+  - wdi_country_metadata
+  sample: data/sample.csv
+  processed_output: data/processed.csv
+  format: csv
+  date_column: date
+  primary_key:
+  - date
+  - country_code
+  - indicator_code
+  minimum_rows: 1000
+  latest_observation: '2025-12-31'
+  columns:
+    date:
+      type: date
+      role: time
+      nullable: false
+      date_minimum: '2000-12-31'
+      date_maximum: '2025-12-31'
+    country_code:
+      type: string
+      role: geography
+      nullable: false
+    country:
+      type: string
+      role: geography
+      nullable: false
+    region:
+      type: string
+      role: dimension
+      nullable: false
+      allowed_values: &id002
+      - East Asia & Pacific
+      - Europe & Central Asia
+      - Latin America & Caribbean
+      - Middle East & North Africa
+      - North America
+      - South Asia
+      - Sub-Saharan Africa
+    income_group:
+      type: string
+      role: dimension
+      nullable: false
+      allowed_values: &id003
+      - Low income
+      - Lower middle income
+      - Upper middle income
+      - High income
+    indicator_code:
+      type: string
+      role: dimension
+      nullable: false
+      allowed_values: &id004
+      - SG.LAW.INDX
+      - SL.TLF.CACT.FE.ZS
+      - SL.TLF.CACT.MA.ZS
+      - SE.SEC.ENRR.FE
+      - SG.GEN.PARL.ZS
+      - FX.OWN.TOTL.FE.ZS
+    indicator:
+      type: string
+      role: dimension
+      nullable: false
+      allowed_values: &id005
+      - Law score (WBL 1.0)
+      - Women in the labour force
+      - Men in the labour force
+      - Girls in secondary school
+      - Women in parliament
+      - Women with an account
+    value:
+      type: number
+      role: measure
+      nullable: false
+      unit: score 0 to 100 for the law score; percent for the other indicators (see unit column)
+      minimum: 0
+      maximum: 200
+    unit:
+      type: string
+      role: dimension
+      nullable: false
+      allowed_values:
+      - '% gross enrolment ratio'
+      - '% of men aged 15+'
+      - '% of seats'
+      - '% of women aged 15+'
+      - score, 0 to 100
+- id: country_status
+  source_ids: *id001
+  sample: data/sample_status.csv
+  processed_output: data/processed_status.csv
+  format: csv
+  date_column: latest_date
+  primary_key:
+  - country_code
+  - indicator_code
+  minimum_rows: 200
+  latest_observation: '2025-12-31'
+  columns:
+    country_code:
+      type: string
+      role: geography
+      nullable: false
+    country:
+      type: string
+      role: geography
+      nullable: false
+    region:
+      type: string
+      role: dimension
+      nullable: false
+      allowed_values: *id002
+    income_group:
+      type: string
+      role: dimension
+      nullable: false
+      allowed_values: *id003
+    indicator_code:
+      type: string
+      role: dimension
+      nullable: false
+      allowed_values: *id004
+    indicator:
+      type: string
+      role: dimension
+      nullable: false
+      allowed_values: *id005
+    kind:
+      type: string
+      role: dimension
+      nullable: false
+      allowed_values:
+      - law
+      - outcome
+    latest_date:
+      type: date
+      role: time
+      nullable: true
+      date_minimum: '1970-12-31'
+      date_maximum: '2025-12-31'
+    latest_year:
+      type: integer
+      role: dimension
+      nullable: true
+      unit: calendar year
+      minimum: 1970
+      maximum: 2025
+    latest_value:
+      type: number
+      role: measure
+      nullable: true
+      unit: score 0 to 100 or percent (see indicator)
+      minimum: 0
+      maximum: 200
+    first_year:
+      type: integer
+      role: dimension
+      nullable: true
+      unit: calendar year
+      minimum: 1960
+      maximum: 2025
+    years_with_value:
+      type: integer
+      role: measure
+      nullable: true
+      unit: years with a value, whole history
+      minimum: 1
+      maximum: 70
+    newest_year_in_wdi:
+      type: integer
+      role: dimension
+      nullable: false
+      unit: calendar year
+      minimum: 2023
+      maximum: 2025
+    years_behind:
+      type: integer
+      role: measure
+      nullable: true
+      unit: years behind the newest year for that indicator
+      minimum: 0
+      maximum: 70
+    status:
+      type: string
+      role: dimension
+      nullable: false
+      allowed_values:
+      - Current
+      - Behind
+      - No value in WDI
+views:
+- id: what_can_we_see
+  dataset_id: country_status
+  page: q1_page.py
+  title: What can we actually see?
+  unit: year of the latest value; years behind the newest year found for that indicator in the database
+  source_ids: *id001
+  controls:
+  - key: q1_find
+    type: text_input
+    label: Find a country (starts with a capital, e.g. Ken)
+    default_value: ''
+    test_value: Ken
+    empty_test_value: zzzz
+    empty_expected_text: No observations match the selected filters.
+    filter:
+      column: country
+      operator: contains
+  - key: q1_sort
+    type: selectbox
+    label: Sort countries by
+    default_value: Most gaps first
+    test_value: Name
+  - key: q1_rows
+    type: selectbox
+    label: Rows drawn
+    default_value: 30 countries
+    test_value: 60 countries
+  - key: q1_region
+    type: multiselect
+    label: Region
+    default_value:
+    - East Asia & Pacific
+    - Europe & Central Asia
+    - Latin America & Caribbean
+    - Middle East & North Africa
+    - North America
+    - South Asia
+    - Sub-Saharan Africa
+    test_value:
+    - Sub-Saharan Africa
+    empty_test_value: []
+    empty_expected_text: No observations match the selected filters.
+    filter:
+      column: region
+      operator: isin
+  - key: q1_income
+    type: multiselect
+    label: Income group
+    default_value:
+    - Low income
+    - Lower middle income
+    - Upper middle income
+    - High income
+    test_value:
+    - Low income
+    empty_test_value: []
+    empty_expected_text: No observations match the selected filters.
+    filter:
+      column: income_group
+      operator: isin
+  outputs:
+  - chart
+  - metric
+  - table
+  - download
+- id: law_vs_outcomes
+  dataset_id: observations
+  page: q2_page.py
+  title: Do laws change faster than outcomes?
+  unit: law score 0 to 100 (WBL 1.0 points rescaled); outcomes in percent
+  source_ids: *id001
+  controls:
+  - key: q2_countries
+    type: multiselect
+    label: Countries (up to three)
+    default_value:
+    - Kenya
+    test_value:
+    - Brazil
+    empty_test_value: []
+    empty_expected_text: No observations match the selected filters.
+    filter:
+      column: country
+      operator: isin
+  - key: q2_outcome
+    type: selectbox
+    label: Outcome indicator
+    default_value: Women in the labour force
+    test_value: Girls in secondary school
+  outputs:
+  - chart
+  - metric
+  - download
+- id: law_vs_reality
+  dataset_id: country_status
+  page: q3_page.py
+  title: Where do law and reality seem out of step?
+  unit: rank among countries with both values (1 is highest); law score 0 to 100; outcomes in percent
+  source_ids: *id001
+  controls:
+  - key: q3_outcome
+    type: selectbox
+    label: Outcome indicator
+    default_value: Women in the labour force
+    test_value: Women in parliament
+  - key: q3_direction
+    type: radio
+    label: Show
+    default_value: Law ranks better than the outcome
+    test_value: Outcome ranks better than law
+  - key: q3_region
+    type: multiselect
+    label: Region
+    default_value:
+    - East Asia & Pacific
+    - Europe & Central Asia
+    - Latin America & Caribbean
+    - Middle East & North Africa
+    - North America
+    - South Asia
+    - Sub-Saharan Africa
+    test_value:
+    - Sub-Saharan Africa
+    empty_test_value: []
+    empty_expected_text: No observations match the selected filters.
+    filter:
+      column: region
+      operator: isin
+  - key: q3_income
+    type: multiselect
+    label: Income group
+    default_value:
+    - Low income
+    - Lower middle income
+    - Upper middle income
+    - High income
+    test_value:
+    - Low income
+    empty_test_value: []
+    empty_expected_text: No observations match the selected filters.
+    filter:
+      column: income_group
+      operator: isin
+  outputs:
+  - chart
+  - metric
+  - table
+  - download
+- id: evidence_breaks
+  dataset_id: observations
+  page: q4_page.py
+  title: Where does the evidence break off?
+  unit: calendar years with a recorded value, 2000 to 2025
+  source_ids: *id001
+  controls:
+  - key: q4_countries
+    type: multiselect
+    label: Countries
+    default_value:
+    - Afghanistan
+    - Brazil
+    - India
+    - Nigeria
+    - Somalia, Fed. Rep.
+    - Yemen, Rep.
+    test_value:
+    - Brazil
+    - India
+    empty_test_value: []
+    empty_expected_text: No observations match the selected filters.
+    filter:
+      column: country
+      operator: isin
+  - key: q4_indicators
+    type: multiselect
+    label: Indicators
+    default_value:
+    - Law score (WBL 1.0)
+    - Women in the labour force
+    - Men in the labour force
+    - Girls in secondary school
+    - Women in parliament
+    - Women with an account
+    test_value:
+    - Law score (WBL 1.0)
+    empty_test_value: []
+    empty_expected_text: No observations match the selected filters.
+    filter:
+      column: indicator
+      operator: isin
+  - key: q4_from
+    type: selectbox
+    label: First year shown
+    default_value: 2000
+    test_value: 2010
+  outputs:
+  - chart
+  - metric
+  - download
+pipeline:
+  acquisition_method: script
+  acquisition_path: src/data.py
+  transform_command:
+  - python
+  - -m
+  - src.data
+  download_declared: true
+  download_label: Download filtered data
+  date_label: Latest observation
+topic_integrity:
+  indicator_codes: *id004
+  original_source_organizations:
+  - Women, Business and the Law (World Bank)
+  - International Labour Organization (ILOSTAT)
+  - UNESCO Institute for Statistics
+  - Inter-Parliamentary Union
+  - Global Findex Database (World Bank)
+  latest_observation_year: 2025
+  indicator_definition: 'Law score: Women, Business and the Law WBL 1.0 index, 0 to 100, about what laws say, not enforcement.
+    Women and men in the labour force: modelled ILO estimate, share of the population aged 15+ in the labour force. Girls
+    in secondary school: gross enrolment ratio, can exceed 100%. Women in parliament: share of seats in the single or lower
+    chamber. Women with an account: share of women aged 15+ with an account at a financial institution or a mobile-money provider
+    (survey).'
+  aggregation_method: No World Bank aggregates are used (regional and income-group aggregate rows are removed). Counts, shares
+    and medians in the dashboard are descriptive statistics across the countries in the current selection; no values are averaged
+    into a combined score.
+  coverage_rule: Coverage is the share of countries in the selection with any value for an indicator, however old. A value
+    counts as behind when its year is more than 4 years behind the newest year found for that indicator in the database (6
+    years for the account survey). Ranks use only countries with both values.
+  classification_vintage: 'World Bank country classification as published in the WDI Metadata_Country file of the 2026-10-08
+    release: income groups for fiscal year 2027 (2025 GNI per capita, Atlas method) and regions as of 1 July 2025 (Afghanistan
+    and Pakistan in Middle East & North Africa). Classification is applied to all years, so a country''s past income group
+    is not reconstructed.'

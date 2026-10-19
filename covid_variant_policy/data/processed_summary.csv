@@ -1,0 +1,242 @@
+country_code,country,continent,median_age,variant,event_week,baseline_stringency,baseline_cases_per_million,policy_week,cases_week,policy_minus_cases,sequence,peak_cases_week,peak_growth
+ABW,Aruba,North America,41.2,Alpha,2021-03-15,48.215,404.595,-4,,,"Containment tightened, cases did not rise",2,1.46
+AUT,Austria,Europe,44.4,Alpha,2021-02-01,74.871,283.053,-4,,,"Containment tightened, cases did not rise",8,1.2
+BEL,Belgium,Europe,41.8,Alpha,2021-02-15,60.19,163.703,6,4,2,Cases rose first,6,2.49
+BGR,Bulgaria,Europe,44.7,Alpha,2021-02-01,53.933,280.939,7,7,0,Same week,8,1.88
+CAN,Canada,North America,41.4,Alpha,2021-04-12,75.196,77.132,,-1,,"Cases rose, containment did not tighten",1,2.88
+HRV,Croatia,Europe,44.0,Alpha,2021-03-01,52.516,215.943,,4,,"Cases rose, containment did not tighten",7,2.59
+CYP,Cyprus,Europe,37.3,Alpha,2021-02-15,77.446,336.463,-4,,,"Containment tightened, cases did not rise",8,1.23
+CZE,Czechia,Europe,43.3,Alpha,2021-02-01,67.726,536.315,-4,-4,0,Same week,5,2.15
+DNK,Denmark,Europe,42.3,Alpha,2021-02-15,60.614,428.134,-4,,,"Containment tightened, cases did not rise",4,0.31
+EST,Estonia,Europe,42.7,Alpha,2021-03-01,46.226,400.61,1,-1,2,Cases rose first,2,2.63
+FIN,Finland,Europe,42.8,Alpha,2021-02-01,52.31,51.347,,1,,"Cases rose, containment did not tighten",5,2.4
+FRA,France,Europe,42.0,Alpha,2021-02-01,67.064,182.445,,-1,,"Cases rose, containment did not tighten",8,2.76
+GEO,Georgia,Asia,38.7,Alpha,2021-03-15,81.548,207.755,,6,,"Cases rose, containment did not tighten",8,1.69
+DEU,Germany,Europe,46.6,Alpha,2021-02-15,83.169,243.765,,,,Neither moved,8,0.85
+GRC,Greece,Europe,45.3,Alpha,2021-02-15,83.335,65.448,2,-1,3,Cases rose first,7,4.62
+ISL,Iceland,Europe,37.3,Alpha,2021-03-29,41.665,5.379,-1,-2,1,Cases rose first,4,4.43
+IRL,Ireland,Europe,38.7,Alpha,2021-01-04,80.488,72.68,0,-1,1,Cases rose first,1,15.65
+ISR,Israel,Asia,30.6,Alpha,2021-01-04,65.74,83.216,-2,-4,2,Cases rose first,2,10.76
+ITA,Italy,Europe,47.9,Alpha,2021-02-15,79.497,258.476,,,,Neither moved,4,1.44
+JPN,Japan,Asia,48.2,Alpha,2021-03-29,49.639,16.652,,2,,"Cases rose, containment did not tighten",7,2.89
+KEN,Kenya,Africa,20.0,Alpha,2021-02-01,57.41,8.288,8,6,2,Cases rose first,8,2.89
+LVA,Latvia,Europe,43.9,Alpha,2021-03-15,59.258,418.838,,,,Neither moved,7,0.8
+LBN,Lebanon,Asia,31.1,Alpha,2021-02-01,84.856,278.475,0,-4,4,Cases rose first,6,1.97
+LTU,Lithuania,Europe,43.5,Alpha,2021-03-15,75.002,304.304,,,,Neither moved,7,1.39
+LUX,Luxembourg,Europe,39.7,Alpha,2021-02-01,62.04,569.935,,,,Neither moved,8,0.67
+MNG,Mongolia,Asia,28.6,Alpha,2021-05-24,84.89,195.792,-4,-4,0,Same week,4,3.71
+NLD,Netherlands,Europe,43.2,Alpha,2021-02-15,78.7,489.764,,,,Neither moved,6,0.83
+NOR,Norway,Europe,39.7,Alpha,2021-02-15,58.962,95.776,-4,4,-8,Containment tightened first,5,1.79
+POL,Poland,Europe,41.8,Alpha,2021-02-15,75.397,230.604,,4,,"Cases rose, containment did not tighten",6,3.08
+PRT,Portugal,Europe,46.2,Alpha,2021-02-15,66.203,469.77,-4,-4,0,Same week,0,0.63
+PRI,Puerto Rico,North America,38.2,Alpha,2021-03-15,70.37,117.554,,3,,"Cases rose, containment did not tighten",4,2.91
+ROU,Romania,Europe,43.0,Alpha,2021-02-01,76.85,270.377,,,,Neither moved,8,1.08
+SVK,Slovakia,Europe,41.2,Alpha,2021-01-18,66.267,309.854,-1,-4,3,Cases rose first,6,1.34
+SVN,Slovenia,Europe,44.5,Alpha,2021-03-15,75.73,567.617,3,,,"Containment tightened, cases did not rise",3,0.87
+ESP,Spain,Europe,45.5,Alpha,2021-02-15,75.264,311.96,,-4,,"Cases rose, containment did not tighten",0,0.69
+LKA,Sri Lanka,Asia,34.1,Alpha,2021-05-10,60.435,11.989,-1,-2,1,Cases rose first,4,11.15
+SWE,Sweden,Europe,41.0,Alpha,2021-02-15,69.44,553.756,,,,Neither moved,8,0.99
+CHE,Switzerland,Europe,43.1,Alpha,2021-02-01,59.694,444.888,,,,Neither moved,8,0.45
+THA,Thailand,Asia,40.1,Alpha,2021-04-12,50.0,1.447,1,0,1,Cases rose first,6,37.97
+TUN,Tunisia,Africa,32.7,Alpha,2021-04-26,62.502,52.061,0,-3,3,Cases rose first,8,3.46
+ARE,United Arab Emirates,Asia,34.0,Alpha,2021-01-04,49.07,118.298,0,1,-1,Containment tightened first,4,3.04
+GBR,United Kingdom,Europe,40.8,Alpha,2020-12-21,69.971,336.038,0,1,-1,Containment tightened first,3,2.54
+USA,United States,North America,38.3,Alpha,2021-03-29,68.324,312.017,,,,Neither moved,3,0.61
+AGO,Angola,Africa,16.8,Delta,2021-07-05,33.926,7.344,-4,,,"Containment tightened, cases did not rise",7,0.7
+ARG,Argentina,South America,31.9,Delta,2021-10-11,74.281,133.936,,,,Neither moved,8,0.39
+ABW,Aruba,North America,41.2,Delta,2021-07-19,41.732,78.806,5,1,4,Cases rose first,4,13.44
+AUS,Australia,Oceania,37.9,Delta,2021-06-07,49.504,0.658,-2,0,-2,Containment tightened first,8,14.58
+AUT,Austria,Europe,44.4,Delta,2021-06-07,77.312,249.728,,,,Neither moved,8,0.2
+BHR,Bahrain,Asia,32.4,Delta,2021-05-24,56.282,652.918,1,-1,2,Cases rose first,1,2.83
+BGD,Bangladesh,Asia,27.5,Delta,2021-05-24,83.247,31.268,,6,,"Cases rose, containment did not tighten",8,2.15
+BEL,Belgium,Europe,41.8,Delta,2021-06-21,53.509,249.444,,,,Neither moved,8,0.66
+BLZ,Belize,North America,25.0,Delta,2021-08-02,62.529,32.405,,-4,,"Cases rose, containment did not tighten",7,12.24
+BWA,Botswana,Africa,25.8,Delta,2021-06-07,62.04,125.116,6,1,5,Cases rose first,8,6.29
+BRA,Brazil,South America,33.5,Delta,2021-08-16,59.06,287.553,,,,Neither moved,6,0.54
+BGR,Bulgaria,Europe,44.7,Delta,2021-06-21,48.348,140.472,-3,,,"Containment tightened, cases did not rise",8,0.82
+KHM,Cambodia,Asia,25.6,Delta,2021-09-27,80.457,33.262,,,,Neither moved,0,1.22
+CMR,Cameroon,Africa,18.8,Delta,2021-08-30,29.762,1.56,4,-1,5,Cases rose first,4,13.17
+CAN,Canada,North America,41.4,Delta,2021-07-05,74.865,137.4,,,,Neither moved,8,0.57
+CHL,Chile,South America,35.4,Delta,2021-08-30,71.726,114.796,,,,Neither moved,8,0.71
+CHN,China,Asia,38.7,Delta,2021-05-24,70.783,0.02,-4,,,"Containment tightened, cases did not rise",1,19.65
+COL,Colombia,South America,32.2,Delta,2021-08-30,52.843,409.926,,,,Neither moved,0,0.11
+CRI,Costa Rica,North America,33.6,Delta,2021-07-05,62.965,442.92,,,,Neither moved,8,0.97
+HRV,Croatia,Europe,44.0,Delta,2021-06-21,48.807,384.543,,,,Neither moved,8,0.19
+CYP,Cyprus,Europe,37.3,Delta,2021-07-05,64.645,151.67,,0,,"Cases rose, containment did not tighten",2,4.87
+CZE,Czechia,Europe,43.3,Delta,2021-06-21,60.65,168.343,,,,Neither moved,4,0.13
+COD,Democratic Republic of Congo,Africa,17.0,Delta,2021-06-07,32.076,0.575,1,-1,2,Cases rose first,2,6.21
+DNK,Denmark,Europe,42.3,Delta,2021-06-21,61.938,145.636,,,,Neither moved,8,1.15
+DOM,Dominican Republic,North America,27.6,Delta,2021-11-22,60.816,48.488,,-4,,"Cases rose, containment did not tighten",8,11.34
+ECU,Ecuador,South America,28.1,Delta,2021-08-16,54.976,59.779,-3,,,"Containment tightened, cases did not rise",1,0.48
+EST,Estonia,Europe,42.7,Delta,2021-06-21,47.817,237.981,,,,Neither moved,8,0.87
+FIN,Finland,Europe,42.8,Delta,2021-06-21,52.31,33.403,,2,,"Cases rose, containment did not tighten",6,3.97
+FRA,France,Europe,42.0,Delta,2021-06-21,65.014,275.674,,,,Neither moved,8,1.2
+GMB,Gambia,Africa,17.5,Delta,2021-07-19,36.507,0.942,,-4,,"Cases rose, containment did not tighten",2,51.32
+GEO,Georgia,Asia,38.7,Delta,2021-06-21,64.81,327.953,,5,,"Cases rose, containment did not tighten",8,3.86
+DEU,Germany,Europe,46.6,Delta,2021-06-21,75.0,181.704,,,,Neither moved,8,0.32
+GHA,Ghana,Africa,21.1,Delta,2021-06-07,47.652,1.837,,3,,"Cases rose, containment did not tighten",7,5.85
+GRC,Greece,Europe,45.3,Delta,2021-07-19,58.608,118.474,5,-1,6,Cases rose first,4,2.61
+GTM,Guatemala,North America,22.9,Delta,2021-07-19,51.85,60.868,5,-1,6,Cases rose first,5,3.44
+ISL,Iceland,Europe,37.3,Delta,2021-07-05,37.96,9.484,,2,,"Cases rose, containment did not tighten",4,32.05
+IND,India,Asia,28.2,Delta,2021-04-12,61.641,9.882,-1,-4,3,Cases rose first,4,27.27
+IDN,Indonesia,Asia,29.3,Delta,2021-05-24,71.76,18.482,,3,,"Cases rose, containment did not tighten",8,9.47
+IRQ,Iraq,Asia,20.0,Delta,2021-07-19,71.506,92.823,,-2,,"Cases rose, containment did not tighten",2,2.88
+IRL,Ireland,Europe,38.7,Delta,2021-06-21,68.06,84.41,,4,,"Cases rose, containment did not tighten",8,4.03
+ISR,Israel,Asia,30.6,Delta,2021-06-07,51.422,16.325,,4,,"Cases rose, containment did not tighten",8,15.47
+ITA,Italy,Europe,47.9,Delta,2021-07-05,69.874,101.993,,,,Neither moved,8,1.06
+JAM,Jamaica,North America,31.4,Delta,2021-08-02,71.444,19.555,6,-1,7,Cases rose first,5,12.56
+JPN,Japan,Asia,48.2,Delta,2021-07-19,52.08,25.254,,1,,"Cases rose, containment did not tighten",5,7.04
+JOR,Jordan,Asia,23.2,Delta,2021-09-13,54.432,63.73,,5,,"Cases rose, containment did not tighten",8,2.65
+KAZ,Kazakhstan,Asia,30.6,Delta,2021-08-30,63.162,212.176,0,-4,4,Cases rose first,0,1.46
+KEN,Kenya,Africa,20.0,Delta,2021-05-24,69.643,20.098,,,,Neither moved,8,0.52
+LVA,Latvia,Europe,43.9,Delta,2021-06-21,56.48,313.254,,,,Neither moved,8,0.18
+LBN,Lebanon,Asia,31.1,Delta,2021-07-19,71.152,42.291,,0,,"Cases rose, containment did not tighten",4,6.54
+LTU,Lithuania,Europe,43.5,Delta,2021-07-05,46.138,301.471,,,,Neither moved,8,0.72
+LUX,Luxembourg,Europe,39.7,Delta,2021-07-19,44.577,75.197,,-2,,"Cases rose, containment did not tighten",0,2.26
+MWI,Malawi,Africa,18.1,Delta,2021-06-07,47.487,0.758,,2,,"Cases rose, containment did not tighten",7,45.04
+MYS,Malaysia,Asia,29.9,Delta,2021-06-07,61.31,68.251,-4,-4,0,Same week,8,7.19
+MUS,Mauritius,Africa,37.4,Delta,2021-10-11,49.169,197.824,,-3,,"Cases rose, containment did not tighten",5,6.54
+MEX,Mexico,North America,29.3,Delta,2021-06-21,44.44,19.395,5,1,4,Cases rose first,8,7.62
+MNG,Mongolia,Asia,28.6,Delta,2021-08-16,59.26,632.156,,3,,"Cases rose, containment did not tighten",6,3.35
+MOZ,Mozambique,Africa,17.7,Delta,2021-06-21,54.93,1.342,,0,,"Cases rose, containment did not tighten",6,41.6
+NLD,Netherlands,Europe,43.2,Delta,2021-06-21,67.855,371.007,,,,Neither moved,4,1.4
+NZL,New Zealand,Oceania,37.9,Delta,2021-07-19,22.22,0.39,4,0,4,Cases rose first,6,31.21
+NGA,Nigeria,Africa,18.1,Delta,2021-07-19,41.67,0.213,0,1,-1,Containment tightened first,5,13.9
+NOR,Norway,Europe,39.7,Delta,2021-07-05,59.193,72.94,,7,,"Cases rose, containment did not tighten",8,3.08
+PAK,Pakistan,Asia,23.5,Delta,2021-06-21,71.791,17.899,,,,Neither moved,7,1.08
+PAN,Panama,North America,29.7,Delta,2021-08-30,69.445,235.87,-1,,,"Containment tightened, cases did not rise",0,0.57
+PNG,Papua New Guinea,Oceania,22.6,Delta,2021-08-30,49.302,1.602,7,1,6,Cases rose first,8,25.16
+PRY,Paraguay,South America,26.5,Delta,2021-08-16,49.07,246.779,,,,Neither moved,0,0.15
+PER,Peru,South America,29.1,Delta,2021-09-13,63.658,50.506,,,,Neither moved,0,0.53
+PHL,Philippines,Asia,25.2,Delta,2021-07-19,74.077,54.137,,4,,"Cases rose, containment did not tighten",8,3.37
+POL,Poland,Europe,41.8,Delta,2021-06-21,66.072,146.979,,,,Neither moved,8,0.03
+PRT,Portugal,Europe,46.2,Delta,2021-06-07,69.873,56.233,,2,,"Cases rose, containment did not tighten",6,6.2
+PRI,Puerto Rico,North America,38.2,Delta,2021-06-21,60.717,124.146,,7,,"Cases rose, containment did not tighten",8,2.45
+QAT,Qatar,Asia,31.9,Delta,2021-05-24,82.076,281.638,-4,,,"Containment tightened, cases did not rise",0,0.38
+ROU,Romania,Europe,43.0,Delta,2021-06-21,61.638,78.869,,,,Neither moved,8,0.22
+RUS,Russia,Europe,39.6,Delta,2021-05-24,39.549,60.073,3,4,-1,Containment tightened first,8,2.84
+RWA,Rwanda,Africa,20.3,Delta,2021-06-21,66.142,5.343,,-1,,"Cases rose, containment did not tighten",5,18.59
+SEN,Senegal,Africa,18.7,Delta,2021-06-21,19.44,2.186,,1,,"Cases rose, containment did not tighten",5,22.69
+SGP,Singapore,Asia,42.4,Delta,2021-04-26,50.93,2.099,3,-3,6,Cases rose first,4,2.82
+SVK,Slovakia,Europe,41.2,Delta,2021-07-05,53.888,41.494,,,,Neither moved,8,0.48
+SVN,Slovenia,Europe,44.5,Delta,2021-07-05,45.262,192.736,,,,Neither moved,8,1.1
+ZAF,South Africa,Africa,27.3,Delta,2021-06-07,45.37,18.429,2,-4,6,Cases rose first,4,16.47
+KOR,South Korea,Asia,43.4,Delta,2021-07-05,50.0,11.488,,1,,"Cases rose, containment did not tighten",6,3.11
+ESP,Spain,Europe,45.5,Delta,2021-06-21,66.22,137.248,,2,,"Cases rose, containment did not tighten",5,3.95
+LKA,Sri Lanka,Asia,34.1,Delta,2021-07-19,84.593,125.31,,5,,"Cases rose, containment did not tighten",6,2.0
+SUR,Suriname,South America,29.6,Delta,2021-08-16,89.09,300.463,,4,,"Cases rose, containment did not tighten",5,2.74
+SWE,Sweden,Europe,41.0,Delta,2021-06-21,65.179,440.97,,,,Neither moved,8,0.18
+CHE,Switzerland,Europe,43.1,Delta,2021-06-21,50.93,178.472,,,,Neither moved,8,1.29
+THA,Thailand,Asia,40.1,Delta,2021-06-21,59.161,30.483,5,-4,9,Cases rose first,8,9.76
+TGO,Togo,Africa,19.4,Delta,2021-08-02,53.7,1.527,,-4,,"Cases rose, containment did not tighten",3,16.79
+TTO,Trinidad and Tobago,North America,36.2,Delta,2021-10-11,84.917,129.595,,5,,"Cases rose, containment did not tighten",8,3.58
+TUN,Tunisia,Africa,32.7,Delta,2021-06-21,72.553,120.68,5,1,4,Cases rose first,3,5.05
+TUR,Turkey,Asia,31.6,Delta,2021-06-21,74.305,348.849,,,,Neither moved,7,0.79
+UGA,Uganda,Africa,16.4,Delta,2021-06-07,45.205,0.756,1,-4,5,Cases rose first,1,36.72
+ARE,United Arab Emirates,Asia,34.0,Delta,2021-06-07,55.884,187.329,,,,Neither moved,1,1.1
+GBR,United Kingdom,Europe,40.8,Delta,2021-05-10,73.94,73.722,,6,,"Cases rose, containment did not tighten",8,5.19
+USA,United States,North America,38.3,Delta,2021-06-21,57.071,129.469,,6,,"Cases rose, containment did not tighten",8,2.93
+URY,Uruguay,South America,35.6,Delta,2021-07-19,60.25,1026.915,,,,Neither moved,0,0.1
+VNM,Vietnam,Asia,32.6,Delta,2021-07-19,77.31,2.38,,-4,,"Cases rose, containment did not tighten",7,53.61
+ZMB,Zambia,Africa,17.7,Delta,2021-06-07,39.81,4.898,1,-1,2,Cases rose first,3,27.05
+ALB,Albania,Europe,38.0,Omicron,2022-01-31,49.868,108.465,,-4,,"Cases rose, containment did not tighten",0,5.11
+ARG,Argentina,South America,31.9,Omicron,2021-12-20,40.372,28.248,,-2,,"Cases rose, containment did not tighten",4,85.15
+AUS,Australia,Oceania,37.9,Omicron,2021-12-20,63.633,56.62,-4,-1,-3,Containment tightened first,3,54.96
+AUT,Austria,Europe,44.4,Omicron,2021-12-20,49.822,730.376,2,-4,6,Cases rose first,7,4.97
+BHR,Bahrain,Asia,32.4,Omicron,2021-12-20,23.766,26.114,0,0,0,Same week,7,180.04
+BGD,Bangladesh,Asia,27.5,Omicron,2022-01-03,36.776,1.321,1,0,1,Cases rose first,4,61.79
+BEL,Belgium,Europe,41.8,Omicron,2021-12-20,32.839,695.531,,-4,,"Cases rose, containment did not tighten",5,5.91
+BLZ,Belize,North America,25.0,Omicron,2022-01-03,61.28,291.22,0,0,0,Same week,3,6.19
+BEN,Benin,Africa,18.8,Omicron,2021-12-20,50.0,0.658,,2,,"Cases rose, containment did not tighten",3,7.62
+BWA,Botswana,Africa,25.8,Omicron,2021-11-22,24.074,145.357,,-2,,"Cases rose, containment did not tighten",7,4.01
+BRA,Brazil,South America,33.5,Omicron,2021-12-20,45.265,52.446,-2,3,-5,Containment tightened first,6,16.54
+BRN,Brunei,Asia,32.4,Omicron,2022-01-03,76.85,143.861,,5,,"Cases rose, containment did not tighten",8,54.89
+BGR,Bulgaria,Europe,44.7,Omicron,2022-01-03,48.549,445.861,,2,,"Cases rose, containment did not tighten",4,2.85
+KHM,Cambodia,Asia,25.6,Omicron,2022-01-03,58.83,3.131,,5,,"Cases rose, containment did not tighten",8,8.74
+CMR,Cameroon,Africa,18.8,Omicron,2021-12-20,31.548,7.331,,4,,"Cases rose, containment did not tighten",4,1.88
+CAN,Canada,North America,41.4,Omicron,2021-12-20,63.167,62.759,2,-1,3,Cases rose first,3,16.76
+CPV,Cape Verde,Africa,25.7,Omicron,2022-01-03,48.687,10.718,1,-4,5,Cases rose first,1,177.52
+CHL,Chile,South America,35.4,Omicron,2021-12-20,33.055,101.095,,4,,"Cases rose, containment did not tighten",8,17.8
+CHN,China,Asia,38.7,Omicron,2021-12-20,79.17,0.049,,8,,"Cases rose, containment did not tighten",8,23.9
+COL,Colombia,South America,32.2,Omicron,2021-12-20,47.387,33.885,,1,,"Cases rose, containment did not tighten",4,16.91
+CRI,Costa Rica,North America,33.6,Omicron,2021-12-20,51.009,88.019,,3,,"Cases rose, containment did not tighten",6,12.47
+HRV,Croatia,Europe,44.0,Omicron,2022-01-03,34.759,1212.832,,2,,"Cases rose, containment did not tighten",3,1.76
+CYP,Cyprus,Europe,37.3,Omicron,2021-12-20,46.415,145.251,,-4,,"Cases rose, containment did not tighten",3,18.65
+CZE,Czechia,Europe,43.3,Omicron,2022-01-03,43.438,1268.959,,3,,"Cases rose, containment did not tighten",4,2.96
+DNK,Denmark,Europe,42.3,Omicron,2021-12-20,22.924,331.767,-4,-4,0,Same week,6,23.11
+DJI,Djibouti,Africa,25.4,Omicron,2022-01-03,49.07,0.775,,-2,,"Cases rose, containment did not tighten",2,115.17
+ECU,Ecuador,South America,28.1,Omicron,2021-12-20,47.094,16.142,1,-1,2,Cases rose first,5,29.99
+SLV,El Salvador,North America,27.6,Omicron,2022-01-17,31.48,12.942,-1,-4,3,Cases rose first,5,19.1
+EST,Estonia,Europe,42.7,Omicron,2022-01-03,37.437,439.742,0,1,-1,Containment tightened first,5,11.21
+SWZ,Eswatini,Africa,21.5,Omicron,2021-12-06,57.076,11.017,,-1,,"Cases rose, containment did not tighten",2,75.84
+FIN,Finland,Europe,42.8,Omicron,2021-12-20,23.123,167.014,-4,-3,-1,Containment tightened first,2,9.4
+FRA,France,Europe,42.0,Omicron,2021-12-20,41.193,110.734,2,-4,6,Cases rose first,5,48.26
+GEO,Georgia,Asia,38.7,Omicron,2021-12-06,45.632,978.473,,7,,"Cases rose, containment did not tighten",8,4.51
+DEU,Germany,Europe,46.6,Omicron,2022-01-03,40.269,524.154,,2,,"Cases rose, containment did not tighten",5,4.2
+GHA,Ghana,Africa,21.1,Omicron,2021-12-06,40.74,2.295,1,2,-1,Containment tightened first,3,13.5
+GRC,Greece,Europe,45.3,Omicron,2021-12-20,71.319,489.326,,1,,"Cases rose, containment did not tighten",3,6.38
+GTM,Guatemala,North America,22.9,Omicron,2021-12-20,46.76,42.579,-3,3,-6,Containment tightened first,8,4.55
+ISL,Iceland,Europe,37.3,Omicron,2021-12-20,30.656,300.849,-4,0,-4,Containment tightened first,8,17.86
+IND,India,Asia,28.2,Omicron,2021-12-20,51.514,9.136,-4,2,-6,Containment tightened first,5,22.8
+IDN,Indonesia,Asia,29.3,Omicron,2021-12-20,60.046,2.013,0,4,-4,Containment tightened first,8,77.73
+IRN,Iran,Asia,32.4,Omicron,2022-01-31,58.465,30.256,,-1,,"Cases rose, containment did not tighten",1,11.8
+IRQ,Iraq,Asia,20.0,Omicron,2022-01-03,68.52,19.826,,2,,"Cases rose, containment did not tighten",4,7.89
+IRL,Ireland,Europe,38.7,Omicron,2021-12-20,41.624,562.901,,-3,,"Cases rose, containment did not tighten",3,7.08
+ISR,Israel,Asia,30.6,Omicron,2021-12-20,50.808,71.318,,1,,"Cases rose, containment did not tighten",5,108.22
+ITA,Italy,Europe,47.9,Omicron,2021-12-20,49.991,85.638,,-4,,"Cases rose, containment did not tighten",4,35.34
+JAM,Jamaica,North America,31.4,Omicron,2021-12-20,73.776,35.893,-3,2,-5,Containment tightened first,4,12.74
+JPN,Japan,Asia,48.2,Omicron,2021-12-20,47.22,3.023,,2,,"Cases rose, containment did not tighten",7,237.51
+KAZ,Kazakhstan,Asia,30.6,Omicron,2022-01-03,65.343,59.05,,1,,"Cases rose, containment did not tighten",3,11.45
+KEN,Kenya,Africa,20.0,Omicron,2021-11-22,49.985,3.596,,4,,"Cases rose, containment did not tighten",5,13.59
+LAO,Laos,Asia,24.4,Omicron,2022-03-14,67.035,80.756,1,1,0,Same week,2,3.54
+LVA,Latvia,Europe,43.9,Omicron,2022-01-03,46.939,610.678,,2,,"Cases rose, containment did not tighten",6,8.5
+LBN,Lebanon,Asia,31.1,Omicron,2022-01-03,31.48,163.371,-2,-4,2,Cases rose first,5,8.55
+LTU,Lithuania,Europe,43.5,Omicron,2022-01-03,35.129,754.11,,1,,"Cases rose, containment did not tighten",5,5.84
+LUX,Luxembourg,Europe,39.7,Omicron,2021-12-20,45.65,285.802,2,-4,6,Cases rose first,5,14.01
+MWI,Malawi,Africa,18.1,Omicron,2021-12-20,36.11,0.221,,-1,,"Cases rose, containment did not tighten",1,191.58
+MYS,Malaysia,Asia,29.9,Omicron,2021-12-20,55.105,160.084,,7,,"Cases rose, containment did not tighten",8,3.44
+MLT,Malta,Europe,42.4,Omicron,2021-12-20,43.52,57.27,,-4,,"Cases rose, containment did not tighten",2,36.55
+MUS,Mauritius,Africa,37.4,Omicron,2022-01-03,40.068,992.284,,6,,"Cases rose, containment did not tighten",7,2.17
+MEX,Mexico,North America,29.3,Omicron,2021-12-20,38.89,24.131,5,2,3,Cases rose first,4,18.72
+MDA,Moldova,Europe,37.6,Omicron,2022-01-17,45.048,192.527,,0,,"Cases rose, containment did not tighten",2,7.55
+MAR,Morocco,Africa,29.6,Omicron,2022-01-03,54.425,3.462,,-2,,"Cases rose, containment did not tighten",3,53.64
+MOZ,Mozambique,Africa,17.7,Omicron,2021-12-06,48.15,0.533,,0,,"Cases rose, containment did not tighten",4,209.67
+NAM,Namibia,Africa,22.0,Omicron,2021-12-20,33.601,7.941,,-2,,"Cases rose, containment did not tighten",0,40.15
+NPL,Nepal,Asia,25.0,Omicron,2021-12-20,33.33,14.0,3,3,0,Same week,5,18.64
+NLD,Netherlands,Europe,43.2,Omicron,2022-01-03,46.17,1015.366,-4,1,-5,Containment tightened first,5,4.8
+NZL,New Zealand,Oceania,37.9,Omicron,2022-01-03,75.761,33.506,,5,,"Cases rose, containment did not tighten",8,63.6
+NGA,Nigeria,Africa,18.1,Omicron,2021-11-22,43.849,1.177,,3,,"Cases rose, containment did not tighten",5,6.37
+NOR,Norway,Europe,39.7,Omicron,2021-12-20,20.37,220.808,-3,-4,1,Cases rose first,8,16.12
+PAK,Pakistan,Asia,23.5,Omicron,2021-12-20,41.732,2.258,-2,3,-5,Containment tightened first,6,12.79
+PAN,Panama,North America,29.7,Omicron,2021-12-20,56.251,34.458,,-1,,"Cases rose, containment did not tighten",5,62.99
+PNG,Papua New Guinea,Oceania,22.6,Omicron,2022-01-31,58.407,3.433,,0,,"Cases rose, containment did not tighten",3,5.7
+PRY,Paraguay,South America,26.5,Omicron,2021-12-20,39.154,8.132,-3,-2,-1,Containment tightened first,6,95.25
+PER,Peru,South America,29.1,Omicron,2021-12-20,56.323,26.213,,-3,,"Cases rose, containment did not tighten",5,53.06
+PHL,Philippines,Asia,25.2,Omicron,2022-01-03,64.314,13.343,,0,,"Cases rose, containment did not tighten",2,22.16
+POL,Poland,Europe,41.8,Omicron,2022-01-03,39.271,459.937,-3,3,-6,Containment tightened first,4,2.68
+PRT,Portugal,Europe,46.2,Omicron,2021-12-20,39.103,101.486,1,-4,5,Cases rose first,6,52.89
+PRI,Puerto Rico,North America,38.2,Omicron,2021-12-06,25.671,34.239,4,1,3,Cases rose first,4,92.26
+QAT,Qatar,Asia,31.9,Omicron,2021-12-20,51.97,39.02,,0,,"Cases rose, containment did not tighten",4,35.21
+ROU,Romania,Europe,43.0,Omicron,2021-12-20,72.198,524.926,,5,,"Cases rose, containment did not tighten",7,2.88
+RUS,Russia,Europe,39.6,Omicron,2022-01-03,51.986,257.448,,4,,"Cases rose, containment did not tighten",6,5.0
+SAU,Saudi Arabia,Asia,31.9,Omicron,2022-01-03,45.973,1.202,6,-2,8,Cases rose first,3,136.51
+SEN,Senegal,Africa,18.7,Omicron,2022-01-03,13.89,0.134,,-1,,"Cases rose, containment did not tighten",2,204.77
+SYC,Seychelles,Africa,36.2,Omicron,2021-12-20,71.628,207.445,,-4,,"Cases rose, containment did not tighten",4,20.85
+SGP,Singapore,Asia,42.4,Omicron,2021-12-20,42.897,554.186,,6,,"Cases rose, containment did not tighten",8,3.54
+SVK,Slovakia,Europe,41.2,Omicron,2022-01-03,43.118,1226.73,-4,4,-8,Containment tightened first,6,2.61
+SVN,Slovenia,Europe,44.5,Omicron,2021-12-20,47.664,1231.184,-3,3,-6,Containment tightened first,6,5.35
+ZAF,South Africa,Africa,27.3,Omicron,2021-11-08,46.363,49.637,3,3,0,Same week,6,7.21
+KOR,South Korea,Asia,43.4,Omicron,2022-01-03,42.296,55.426,,-4,,"Cases rose, containment did not tighten",8,56.82
+ESP,Spain,Europe,45.5,Omicron,2021-12-20,41.2,53.255,,-4,,"Cases rose, containment did not tighten",4,52.77
+LKA,Sri Lanka,Asia,34.1,Omicron,2021-12-20,55.987,31.26,,6,,"Cases rose, containment did not tighten",8,1.9
+SWE,Sweden,Europe,41.0,Omicron,2021-12-20,15.851,74.886,0,-3,3,Cases rose first,6,48.77
+CHE,Switzerland,Europe,43.1,Omicron,2021-12-20,50.0,263.348,2,-4,6,Cases rose first,6,14.97
+THA,Thailand,Asia,40.1,Omicron,2021-12-20,58.8,115.387,,8,,"Cases rose, containment did not tighten",8,1.72
+TTO,Trinidad and Tobago,North America,36.2,Omicron,2022-01-17,56.098,430.45,,,,Neither moved,1,1.33
+TUN,Tunisia,Africa,32.7,Omicron,2022-01-17,36.794,11.558,-1,-4,3,Cases rose first,1,65.63
+TUR,Turkey,Asia,31.6,Omicron,2022-01-03,36.298,291.12,,1,,"Cases rose, containment did not tighten",5,3.99
+ARE,United Arab Emirates,Asia,34.0,Omicron,2021-12-20,40.74,8.232,-3,0,-3,Containment tightened first,5,34.39
+GBR,United Kingdom,Europe,40.8,Omicron,2021-12-20,43.614,590.496,,0,,"Cases rose, containment did not tighten",2,4.6
+USA,United States,North America,38.3,Omicron,2021-12-20,51.381,222.332,,-1,,"Cases rose, containment did not tighten",4,10.47
+VNM,Vietnam,Asia,32.6,Omicron,2022-01-17,70.334,141.532,,4,,"Cases rose, containment did not tighten",8,17.23
+ZMB,Zambia,Africa,17.7,Omicron,2021-12-20,39.019,0.815,,-2,,"Cases rose, containment did not tighten",2,225.86

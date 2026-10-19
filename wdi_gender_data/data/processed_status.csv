@@ -1,0 +1,1303 @@
+country_code,country,region,income_group,indicator_code,indicator,kind,latest_date,latest_year,latest_value,first_year,years_with_value,newest_year_in_wdi,years_behind,status
+AFG,Afghanistan,Middle East & North Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2017-12-31,2017,7.1607,2017,1,2024,7,Behind
+ALB,Albania,Europe & Central Asia,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,41.156,2011,5,2024,0,Current
+DZA,Algeria,Middle East & North Africa,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,18.071,2011,5,2024,0,Current
+ASM,American Samoa,East Asia & Pacific,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+AND,Andorra,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+AGO,Angola,Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2014-12-31,2014,22.3316,2011,2,2024,10,Behind
+ATG,Antigua and Barbuda,Latin America & Caribbean,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+ARG,Argentina,Latin America & Caribbean,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,84.2497,2011,5,2024,0,Current
+ARM,Armenia,Europe & Central Asia,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,67.988,2011,5,2024,0,Current
+ABW,Aruba,Latin America & Caribbean,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+AUS,Australia,East Asia & Pacific,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,97.7243,2011,5,2024,0,Current
+AUT,Austria,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,99.1873,2011,5,2024,0,Current
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,46.1733,2011,5,2024,0,Current
+BHS,"Bahamas, The",Latin America & Caribbean,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+BHR,Bahrain,Middle East & North Africa,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,83.0179,2011,4,2024,0,Current
+BGD,Bangladesh,South Asia,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,33.346,2011,5,2024,0,Current
+BRB,Barbados,Latin America & Caribbean,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+BLR,Belarus,Europe & Central Asia,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2017-12-31,2017,81.3382,2011,3,2024,7,Behind
+BEL,Belgium,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,97.9206,2011,5,2024,0,Current
+BLZ,Belize,Latin America & Caribbean,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,65.1819,2014,2,2024,0,Current
+BEN,Benin,Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,49.0557,2011,5,2024,0,Current
+BMU,Bermuda,North America,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+BTN,Bhutan,South Asia,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2014-12-31,2014,27.6819,2014,1,2024,10,Behind
+BOL,Bolivia,Latin America & Caribbean,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,53.4638,2011,5,2024,0,Current
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,75.7476,2011,5,2024,0,Current
+BWA,Botswana,Sub-Saharan Africa,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,59.6866,2011,5,2024,0,Current
+BRA,Brazil,Latin America & Caribbean,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,82.2764,2011,5,2024,0,Current
+VGB,British Virgin Islands,Latin America & Caribbean,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+BRN,Brunei Darussalam,East Asia & Pacific,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+BGR,Bulgaria,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,85.043,2011,5,2024,0,Current
+BFA,Burkina Faso,Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,43.989,2011,5,2024,0,Current
+BDI,Burundi,Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+CPV,Cabo Verde,Sub-Saharan Africa,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+KHM,Cambodia,East Asia & Pacific,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,36.7989,2014,4,2024,0,Current
+CMR,Cameroon,Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,52.8997,2011,5,2024,0,Current
+CAN,Canada,North America,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,98.7514,2011,5,2024,0,Current
+CYM,Cayman Islands,Latin America & Caribbean,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+CAF,Central African Republic,Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2017-12-31,2017,9.7176,2017,1,2024,7,Behind
+TCD,Chad,Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,20.1402,2014,4,2024,0,Current
+CHI,Channel Islands,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+CHL,Chile,Latin America & Caribbean,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,83.1704,2011,5,2024,0,Current
+CHN,China,East Asia & Pacific,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,89.2021,2011,5,2024,0,Current
+COL,Colombia,Latin America & Caribbean,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,50.9915,2011,5,2024,0,Current
+COM,Comoros,Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,41.8394,2011,3,2024,0,Current
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,33.4561,2014,4,2024,0,Current
+COG,"Congo, Rep.",Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,50.5916,2011,5,2024,0,Current
+CRI,Costa Rica,Latin America & Caribbean,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,68.2829,2011,5,2024,0,Current
+HRV,Croatia,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,92.0623,2011,5,2024,0,Current
+CUB,Cuba,Latin America & Caribbean,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+CUW,Curaçao,Latin America & Caribbean,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+CYP,Cyprus,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,98.0309,2011,5,2024,0,Current
+CZE,Czechia,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,89.68,2011,5,2024,0,Current
+CIV,Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,53.8175,2014,4,2024,0,Current
+DNK,Denmark,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,98.1098,2011,5,2024,0,Current
+DJI,Djibouti,Middle East & North Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2011-12-31,2011,8.7628,2011,1,2024,13,Behind
+DMA,Dominica,Latin America & Caribbean,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,61.4376,2011,5,2024,0,Current
+ECU,Ecuador,Latin America & Caribbean,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,63.5127,2011,5,2024,0,Current
+EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,40.2142,2014,4,2024,0,Current
+SLV,El Salvador,Latin America & Caribbean,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,34.4359,2011,5,2024,0,Current
+GNQ,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+ERI,Eritrea,Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+EST,Estonia,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,99.766,2011,5,2024,0,Current
+SWZ,Eswatini,Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,65.3509,2011,3,2024,0,Current
+ETH,Ethiopia,Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,41.616,2014,4,2024,0,Current
+FRO,Faroe Islands,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+FJI,Fiji,East Asia & Pacific,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+FIN,Finland,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,99.6891,2011,5,2024,0,Current
+FRA,France,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,99.8485,2011,5,2024,0,Current
+PYF,French Polynesia,East Asia & Pacific,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+GAB,Gabon,Sub-Saharan Africa,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,63.7213,2011,5,2024,0,Current
+GMB,"Gambia, The",Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,34.8625,2017,3,2024,0,Current
+GEO,Georgia,Europe & Central Asia,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,81.295,2011,5,2024,0,Current
+DEU,Germany,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,98.8731,2011,5,2024,0,Current
+GHA,Ghana,Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,78.3104,2011,5,2024,0,Current
+GIB,Gibraltar,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+GRC,Greece,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,84.0949,2011,5,2024,0,Current
+GRL,Greenland,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+GRD,Grenada,Latin America & Caribbean,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+GUM,Guam,East Asia & Pacific,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+GTM,Guatemala,Latin America & Caribbean,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,32.5013,2011,5,2024,0,Current
+GIN,Guinea,Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,31.2381,2017,3,2024,0,Current
+GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+GUY,Guyana,Latin America & Caribbean,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+HTI,Haiti,Latin America & Caribbean,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2017-12-31,2017,30.0456,2011,3,2024,7,Behind
+HND,Honduras,Latin America & Caribbean,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,34.0839,2011,5,2024,0,Current
+HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,96.7511,2011,5,2024,0,Current
+HUN,Hungary,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,83.7097,2011,5,2024,0,Current
+ISL,Iceland,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,99.7045,2021,2,2024,0,Current
+IND,India,South Asia,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,89.2482,2011,5,2024,0,Current
+IDN,Indonesia,East Asia & Pacific,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,58.0308,2011,5,2024,0,Current
+IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,86.7881,2011,5,2024,0,Current
+IRQ,Iraq,Middle East & North Africa,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,18.8101,2011,5,2024,0,Current
+IRL,Ireland,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,96.9298,2011,5,2024,0,Current
+IMN,Isle of Man,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+ISR,Israel,Middle East & North Africa,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,88.0997,2011,5,2024,0,Current
+ITA,Italy,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,79.7947,2011,5,2024,0,Current
+JAM,Jamaica,Latin America & Caribbean,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2021-12-31,2021,71.5532,2011,3,2024,3,Current
+JPN,Japan,East Asia & Pacific,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,98.7231,2011,5,2024,0,Current
+JOR,Jordan,Middle East & North Africa,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,36.2235,2011,5,2024,0,Current
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,85.7421,2011,5,2024,0,Current
+KEN,Kenya,Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,86.5155,2011,5,2024,0,Current
+KIR,Kiribati,East Asia & Pacific,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+PRK,"Korea, Dem. People's Rep.",East Asia & Pacific,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+KOR,"Korea, Rep.",East Asia & Pacific,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,97.1396,2011,5,2024,0,Current
+XKX,Kosovo,Europe & Central Asia,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,59.7945,2011,5,2024,0,Current
+KWT,Kuwait,Middle East & North Africa,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,71.489,2011,4,2024,0,Current
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,71.2351,2014,4,2024,0,Current
+LAO,Lao PDR,East Asia & Pacific,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,43.5865,2011,4,2024,0,Current
+LVA,Latvia,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,95.4064,2011,5,2024,0,Current
+LBN,Lebanon,Middle East & North Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,15.3396,2011,5,2024,0,Current
+LSO,Lesotho,Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,60.426,2011,4,2024,0,Current
+LBR,Liberia,Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,46.2795,2011,4,2024,0,Current
+LBY,Libya,Middle East & North Africa,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,24.696,2017,2,2024,0,Current
+LIE,Liechtenstein,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+LTU,Lithuania,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,98.4002,2011,5,2024,0,Current
+LUX,Luxembourg,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2017-12-31,2017,98.1775,2011,3,2024,7,Behind
+MAC,"Macao SAR, China",East Asia & Pacific,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+MDG,Madagascar,Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,20.2965,2017,3,2024,0,Current
+MWI,Malawi,Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,46.2798,2011,5,2024,0,Current
+MYS,Malaysia,East Asia & Pacific,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,88.2265,2011,5,2024,0,Current
+MDV,Maldives,South Asia,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2017-12-31,2017,74.1816,2017,1,2024,7,Behind
+MLI,Mali,Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,45.6046,2014,4,2024,0,Current
+MLT,Malta,Middle East & North Africa,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,96.0512,2011,5,2024,0,Current
+MHL,Marshall Islands,East Asia & Pacific,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+MRT,Mauritania,Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,24.6801,2011,5,2024,0,Current
+MUS,Mauritius,Sub-Saharan Africa,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,87.4428,2011,5,2024,0,Current
+MEX,Mexico,Latin America & Caribbean,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,47.4017,2011,5,2024,0,Current
+FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+MDA,Moldova,Europe & Central Asia,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,54.5479,2011,5,2024,0,Current
+MCO,Monaco,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+MNG,Mongolia,East Asia & Pacific,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,98.9739,2011,5,2024,0,Current
+MNE,Montenegro,Europe & Central Asia,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,73.3748,2011,4,2024,0,Current
+MAR,Morocco,Middle East & North Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,34.6829,2021,2,2024,0,Current
+MOZ,Mozambique,Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,45.4884,2017,3,2024,0,Current
+MMR,Myanmar,East Asia & Pacific,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2021-12-31,2021,46.1505,2014,3,2024,3,Current
+NAM,Namibia,Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,75.0382,2014,4,2024,0,Current
+NRU,Naoero,East Asia & Pacific,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+NPL,Nepal,South Asia,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,59.7778,2011,5,2024,0,Current
+NLD,Netherlands,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,99.2546,2011,5,2024,0,Current
+NCL,New Caledonia,East Asia & Pacific,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+NZL,New Zealand,East Asia & Pacific,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,98.5352,2011,5,2024,0,Current
+NIC,Nicaragua,Latin America & Caribbean,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,21.2321,2011,5,2024,0,Current
+NER,Niger,Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,12.203,2017,3,2024,0,Current
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,52.2156,2011,5,2024,0,Current
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,77.2295,2011,5,2024,0,Current
+MNP,Northern Mariana Islands,East Asia & Pacific,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+NOR,Norway,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,97.8239,2014,4,2024,0,Current
+OMN,Oman,Middle East & North Africa,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,67.0833,2011,2,2024,0,Current
+PAK,Pakistan,Middle East & North Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,11.9122,2011,5,2024,0,Current
+PLW,Palau,East Asia & Pacific,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+PAN,Panama,Latin America & Caribbean,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,58.1188,2011,5,2024,0,Current
+PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+PRY,Paraguay,Latin America & Caribbean,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,60.1097,2011,4,2024,0,Current
+PER,Peru,Latin America & Caribbean,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,56.1786,2011,5,2024,0,Current
+PHL,Philippines,East Asia & Pacific,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,57.1016,2011,5,2024,0,Current
+POL,Poland,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,86.3297,2011,5,2024,0,Current
+PRT,Portugal,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,88.1661,2011,5,2024,0,Current
+PRI,Puerto Rico (US),Latin America & Caribbean,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2014-12-31,2014,66.0933,2014,1,2024,10,Behind
+QAT,Qatar,Middle East & North Africa,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2011-12-31,2011,61.5695,2011,1,2024,13,Behind
+ROU,Romania,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,69.8503,2011,5,2024,0,Current
+RUS,Russian Federation,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,77.2674,2011,5,2024,0,Current
+RWA,Rwanda,Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2017-12-31,2017,44.9605,2011,3,2024,7,Behind
+WSM,Samoa,East Asia & Pacific,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+SMR,San Marino,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+SAU,Saudi Arabia,Middle East & North Africa,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,73.4619,2011,5,2024,0,Current
+SEN,Senegal,Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,73.5941,2014,4,2024,0,Current
+SRB,Serbia,Europe & Central Asia,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,81.0618,2011,5,2024,0,Current
+SYC,Seychelles,Sub-Saharan Africa,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+SLE,Sierra Leone,Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,35.9347,2011,5,2024,0,Current
+SGP,Singapore,East Asia & Pacific,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,97.6078,2011,5,2024,0,Current
+SXM,Sint Maarten (Dutch part),Latin America & Caribbean,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+SVK,Slovak Republic,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,91.0941,2011,5,2024,0,Current
+SVN,Slovenia,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,98.9428,2011,5,2024,0,Current
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2014-12-31,2014,33.6626,2014,1,2024,10,Behind
+ZAF,South Africa,Sub-Saharan Africa,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,80.9924,2011,5,2024,0,Current
+SSD,South Sudan,Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+ESP,Spain,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,97.8029,2011,5,2024,0,Current
+LKA,Sri Lanka,South Asia,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,80.2019,2011,5,2024,0,Current
+KNA,St. Kitts and Nevis,Latin America & Caribbean,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+LCA,St. Lucia,Latin America & Caribbean,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+MAF,St. Martin (French part),Latin America & Caribbean,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+SDN,Sudan,Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2014-12-31,2014,9.9832,2014,1,2024,10,Behind
+SUR,Suriname,Latin America & Caribbean,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+SWE,Sweden,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,97.6052,2011,5,2024,0,Current
+CHE,Switzerland,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,97.6132,2014,4,2024,0,Current
+SYR,Syrian Arab Republic,Middle East & North Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2011-12-31,2011,19.588,2011,1,2024,13,Behind
+STP,São Tomé and Principe,Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+TJK,Tajikistan,Europe & Central Asia,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,46.9005,2014,4,2024,0,Current
+TZA,Tanzania,Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,54.9346,2011,5,2024,0,Current
+THA,Thailand,East Asia & Pacific,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,92.7001,2011,5,2024,0,Current
+TLS,Timor-Leste,East Asia & Pacific,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+TGO,Togo,Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,45.3495,2011,5,2024,0,Current
+TON,Tonga,East Asia & Pacific,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+TTO,Trinidad and Tobago,Latin America & Caribbean,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,73.2927,2011,3,2024,0,Current
+TUN,Tunisia,Middle East & North Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,26.6075,2014,4,2024,0,Current
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2017-12-31,2017,35.5171,2017,1,2024,7,Behind
+TCA,Turks and Caicos Islands,Latin America & Caribbean,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+TUV,Tuvalu,East Asia & Pacific,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+TUR,Türkiye,Europe & Central Asia,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,71.6676,2011,5,2024,0,Current
+UGA,Uganda,Sub-Saharan Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,66.3671,2011,5,2024,0,Current
+UKR,Ukraine,Europe & Central Asia,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,83.8856,2011,5,2024,0,Current
+ARE,United Arab Emirates,Middle East & North Africa,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2021-12-31,2021,86.6829,2011,4,2024,3,Current
+GBR,United Kingdom,Europe & Central Asia,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,99.269,2011,5,2024,0,Current
+USA,United States,North America,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,97.1092,2011,5,2024,0,Current
+URY,Uruguay,Latin America & Caribbean,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,73.2857,2011,5,2024,0,Current
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,60.7039,2011,5,2024,0,Current
+VUT,Vanuatu,East Asia & Pacific,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+VEN,"Venezuela, RB",Latin America & Caribbean,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,87.7033,2011,5,2024,0,Current
+VNM,Viet Nam,East Asia & Pacific,Upper middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,69.8844,2011,5,2024,0,Current
+VIR,Virgin Islands (US),Latin America & Caribbean,High income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,,,,,,2024,,No value in WDI
+PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,27.7345,2011,5,2024,0,Current
+YEM,"Yemen, Rep.",Middle East & North Africa,Low income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2022-12-31,2022,5.4363,2022,1,2024,2,Current
+ZMB,Zambia,Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,70.1721,2011,5,2024,0,Current
+ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income,FX.OWN.TOTL.FE.ZS,Women with an account,outcome,2024-12-31,2024,46.994,2011,5,2024,0,Current
+AFG,Afghanistan,Middle East & North Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,45.1597,1970,37,2025,2,Current
+ALB,Albania,Europe & Central Asia,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,106.7157,1976,45,2025,1,Current
+DZA,Algeria,Middle East & North Africa,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,106.5338,1971,42,2025,1,Current
+ASM,American Samoa,East Asia & Pacific,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,1992-12-31,1992,92.613,1989,4,2025,33,Behind
+AND,Andorra,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,101.4759,1971,30,2025,1,Current
+AGO,Angola,Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,48.1175,1971,16,2025,2,Current
+ATG,Antigua and Barbuda,Latin America & Caribbean,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,109.004,1972,19,2025,2,Current
+ARG,Argentina,Latin America & Caribbean,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,107.9807,1970,47,2025,2,Current
+ARM,Armenia,Europe & Central Asia,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,90.1347,2000,16,2025,1,Current
+ABW,Aruba,Latin America & Caribbean,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,128.7485,1999,20,2025,1,Current
+AUS,Australia,East Asia & Pacific,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,129.0891,2015,10,2025,1,Current
+AUT,Austria,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,99.9566,2001,24,2025,1,Current
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,89.6075,2018,7,2025,1,Current
+BHS,"Bahamas, The",Latin America & Caribbean,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,80.9443,1982,30,2025,1,Current
+BHR,Bahrain,Middle East & North Africa,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,97.5734,1971,51,2025,1,Current
+BGD,Bangladesh,South Asia,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,70.472,1973,39,2025,1,Current
+BRB,Barbados,Latin America & Caribbean,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,106.3366,1971,41,2025,1,Current
+BLR,Belarus,Europe & Central Asia,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,95.0768,1971,32,2025,1,Current
+BEL,Belgium,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,152.5778,2001,23,2025,2,Current
+BLZ,Belize,Latin America & Caribbean,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,87.4233,1986,30,2025,1,Current
+BEN,Benin,Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2022-12-31,2022,40.2818,1971,22,2025,3,Current
+BMU,Bermuda,North America,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,79.9731,1971,23,2025,2,Current
+BTN,Bhutan,South Asia,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,94.0369,1970,31,2025,1,Current
+BOL,Bolivia,Latin America & Caribbean,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,90.2158,1971,28,2025,1,Current
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,90.4367,2007,17,2025,2,Current
+BWA,Botswana,Sub-Saharan Africa,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2021-12-31,2021,74.0652,1970,37,2025,4,Current
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,105.2515,2012,12,2025,1,Current
+VGB,British Virgin Islands,Latin America & Caribbean,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,73.7793,1971,39,2025,1,Current
+BRN,Brunei Darussalam,East Asia & Pacific,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,93.2726,1970,43,2025,2,Current
+BGR,Bulgaria,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,93.8516,2001,24,2025,1,Current
+BFA,Burkina Faso,Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,33.2389,1971,41,2025,1,Current
+BDI,Burundi,Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2025-12-31,2025,26.3813,1971,41,2025,0,Current
+CPV,Cabo Verde,Sub-Saharan Africa,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2022-12-31,2022,103.5826,1972,28,2025,3,Current
+KHM,Cambodia,East Asia & Pacific,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,63.0987,1971,19,2025,1,Current
+CMR,Cameroon,Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,42.4944,1971,44,2025,2,Current
+CAN,Canada,North America,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,104.4617,2000,20,2025,2,Current
+CYM,Cayman Islands,Latin America & Caribbean,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,84.3549,1972,27,2025,1,Current
+CAF,Central African Republic,Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2017-12-31,2017,12.7931,1971,23,2025,8,Behind
+TCD,Chad,Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,19.439,1971,36,2025,1,Current
+CHI,Channel Islands,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,,,,,,2025,,No value in WDI
+CHL,Chile,Latin America & Caribbean,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,104.4532,2000,24,2025,1,Current
+CHN,China,East Asia & Pacific,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2012-12-31,2012,93.6777,1976,31,2025,13,Behind
+COL,Colombia,Latin America & Caribbean,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2022-12-31,2022,103.5877,2000,21,2025,3,Current
+COM,Comoros,Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2022-12-31,2022,56.4126,1971,14,2025,3,Current
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2021-12-31,2021,42.9527,1971,32,2025,4,Current
+COG,"Congo, Rep.",Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2012-12-31,2012,46.8735,1971,25,2025,13,Behind
+CRI,Costa Rica,Latin America & Caribbean,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,126.3219,2002,22,2025,1,Current
+HRV,Croatia,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,108.5461,2001,22,2025,2,Current
+CUB,Cuba,Latin America & Caribbean,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,92.6144,1972,50,2025,1,Current
+CUW,Curaçao,Latin America & Caribbean,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,94.2308,2013,4,2025,1,Current
+CYP,Cyprus,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,106.7172,2001,24,2025,1,Current
+CZE,Czechia,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,98.0195,2001,23,2025,2,Current
+CIV,Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,64.4785,1971,19,2025,1,Current
+DNK,Denmark,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,124.967,2001,24,2025,1,Current
+DJI,Djibouti,Middle East & North Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,,,,,,2025,,No value in WDI
+DMA,Dominica,Latin America & Caribbean,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,96.3274,1973,31,2025,2,Current
+DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,80.5245,1998,24,2025,1,Current
+ECU,Ecuador,Latin America & Caribbean,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,94.1828,2000,23,2025,2,Current
+EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,83.9217,1971,46,2025,1,Current
+SLV,El Salvador,Latin America & Caribbean,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,61.1295,1970,45,2025,1,Current
+GNQ,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2005-12-31,2005,15.3268,1971,8,2025,20,Behind
+ERI,Eritrea,Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2022-12-31,2022,40.2761,1993,25,2025,3,Current
+EST,Estonia,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,111.4026,2001,24,2025,1,Current
+SWZ,Eswatini,Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2016-12-31,2016,82.1737,1970,26,2025,9,Behind
+ETH,Ethiopia,Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2015-12-31,2015,33.321,1971,25,2025,10,Behind
+FRO,Faroe Islands,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,,,,,,2025,,No value in WDI
+FJI,Fiji,East Asia & Pacific,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,99.1616,1970,40,2025,1,Current
+FIN,Finland,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,150.7363,2001,24,2025,1,Current
+FRA,France,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,104.3671,2001,24,2025,1,Current
+PYF,French Polynesia,East Asia & Pacific,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,1993-12-31,1993,83.431,1989,5,2025,32,Behind
+GAB,Gabon,Sub-Saharan Africa,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2019-12-31,2019,72.0511,1971,24,2025,6,Behind
+GMB,"Gambia, The",Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2021-12-31,2021,116.3728,1971,28,2025,4,Current
+GEO,Georgia,Europe & Central Asia,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,97.828,1981,30,2025,1,Current
+DEU,Germany,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,97.7091,2001,24,2025,1,Current
+GHA,Ghana,Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,76.4284,1971,43,2025,1,Current
+GIB,Gibraltar,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,80.2615,1971,28,2025,1,Current
+GRC,Greece,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,104.0252,2000,22,2025,2,Current
+GRL,Greenland,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,,,,,,2025,,No value in WDI
+GRD,Grenada,Latin America & Caribbean,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,101.7052,1971,37,2025,1,Current
+GUM,Guam,East Asia & Pacific,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,,,,,,2025,,No value in WDI
+GTM,Guatemala,Latin America & Caribbean,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,50.4822,1970,42,2025,1,Current
+GIN,Guinea,Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2014-12-31,2014,30.6022,1971,25,2025,11,Behind
+GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2000-12-31,2000,12.7837,1971,16,2025,25,Behind
+GUY,Guyana,Latin America & Caribbean,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,91.9957,1971,22,2025,1,Current
+HTI,Haiti,Latin America & Caribbean,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,,,,,,2025,,No value in WDI
+HND,Honduras,Latin America & Caribbean,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,56.2056,1970,23,2025,1,Current
+HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,105.6439,2001,23,2025,1,Current
+HUN,Hungary,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,106.5236,2001,24,2025,1,Current
+ISL,Iceland,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,106.3208,1971,43,2025,2,Current
+IND,India,South Asia,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2025-12-31,2025,81.0167,1971,48,2025,0,Current
+IDN,Indonesia,East Asia & Pacific,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2025-12-31,2025,95.4767,1970,49,2025,0,Current
+IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,86.1972,1971,38,2025,2,Current
+IRQ,Iraq,Middle East & North Africa,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2007-12-31,2007,42.7504,1971,27,2025,18,Behind
+IRL,Ireland,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2022-12-31,2022,136.1291,2001,21,2025,3,Current
+IMN,Isle of Man,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,,,,,,2025,,No value in WDI
+ISR,Israel,Middle East & North Africa,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,98.6832,2001,24,2025,1,Current
+ITA,Italy,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,100.4019,2001,23,2025,2,Current
+JAM,Jamaica,Latin America & Caribbean,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,84.6436,1973,41,2025,1,Current
+JPN,Japan,East Asia & Pacific,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,101.637,2013,11,2025,2,Current
+JOR,Jordan,Middle East & North Africa,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,92.9268,1971,47,2025,1,Current
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2025-12-31,2025,97.0683,1993,22,2025,0,Current
+KEN,Kenya,Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,84.7505,1970,31,2025,2,Current
+KIR,Kiribati,East Asia & Pacific,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,94.4198,1970,39,2025,1,Current
+PRK,"Korea, Dem. People's Rep.",East Asia & Pacific,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2015-12-31,2015,94.8987,2015,1,2025,10,Behind
+KOR,"Korea, Rep.",East Asia & Pacific,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,95.8913,2000,25,2025,1,Current
+XKX,Kosovo,Europe & Central Asia,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,,,,,,2025,,No value in WDI
+KWT,Kuwait,Middle East & North Africa,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2015-12-31,2015,99.7793,1971,43,2025,10,Behind
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2025-12-31,2025,93.278,1981,31,2025,0,Current
+LAO,Lao PDR,East Asia & Pacific,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2025-12-31,2025,50.0542,1971,45,2025,0,Current
+LVA,Latvia,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,102.1013,2001,24,2025,1,Current
+LBN,Lebanon,Middle East & North Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,67.545,1971,36,2025,1,Current
+LSO,Lesotho,Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2017-12-31,2017,68.1388,1970,46,2025,8,Behind
+LBR,Liberia,Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2020-12-31,2020,37.0221,1970,14,2025,5,Behind
+LBY,Libya,Middle East & North Africa,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2006-12-31,2006,105.5842,1971,17,2025,19,Behind
+LIE,Liechtenstein,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2021-12-31,2021,109.0909,2003,18,2025,4,Current
+LTU,Lithuania,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,103.8637,2001,24,2025,1,Current
+LUX,Luxembourg,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,109.8807,2001,23,2025,1,Current
+MAC,"Macao SAR, China",East Asia & Pacific,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,94.5309,2001,24,2025,1,Current
+MDG,Madagascar,Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2021-12-31,2021,35.258,1971,20,2025,4,Current
+MWI,Malawi,Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,37.2564,1972,47,2025,2,Current
+MYS,Malaysia,East Asia & Pacific,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,81.5358,1970,49,2025,1,Current
+MDV,Maldives,South Asia,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,84.9894,1970,26,2025,2,Current
+MLI,Mali,Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,37.1308,1971,42,2025,2,Current
+MLT,Malta,Middle East & North Africa,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,103.8511,2001,22,2025,2,Current
+MHL,Marshall Islands,East Asia & Pacific,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,91.2586,1999,17,2025,1,Current
+MRT,Mauritania,Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2020-12-31,2020,36.1789,1981,34,2025,5,Behind
+MUS,Mauritius,Sub-Saharan Africa,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,93.3869,1971,45,2025,1,Current
+MEX,Mexico,Latin America & Caribbean,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,109.9787,2000,25,2025,1,Current
+FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2005-12-31,2005,88.0796,1972,7,2025,20,Behind
+MDA,Moldova,Europe & Central Asia,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,99.3201,2010,15,2025,1,Current
+MCO,Monaco,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,159.4216,1972,14,2025,1,Current
+MNG,Mongolia,East Asia & Pacific,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,99.3673,1974,29,2025,2,Current
+MNE,Montenegro,Europe & Central Asia,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,95.1452,2003,19,2025,2,Current
+MAR,Morocco,Middle East & North Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,91.2537,1971,49,2025,1,Current
+MOZ,Mozambique,Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2017-12-31,2017,35.2994,1973,34,2025,8,Behind
+MMR,Myanmar,East Asia & Pacific,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2018-12-31,2018,81.8815,1971,29,2025,7,Behind
+NAM,Namibia,Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,86.3729,1990,33,2025,1,Current
+NRU,Naoero,East Asia & Pacific,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2025-12-31,2025,97.485,1971,22,2025,0,Current
+NPL,Nepal,South Asia,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,90.8899,1981,40,2025,1,Current
+NLD,Netherlands,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,140.8392,2001,21,2025,2,Current
+NCL,New Caledonia,East Asia & Pacific,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,1997-12-31,1997,99.0269,1988,5,2025,28,Behind
+NZL,New Zealand,East Asia & Pacific,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,118.3368,2000,24,2025,1,Current
+NIC,Nicaragua,Latin America & Caribbean,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,70.6666,1970,29,2025,2,Current
+NER,Niger,Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,19.538,1971,41,2025,1,Current
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,47.4062,1970,37,2025,2,Current
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,90.1737,1993,28,2025,2,Current
+MNP,Northern Mariana Islands,East Asia & Pacific,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,,,,,,2025,,No value in WDI
+NOR,Norway,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,115.4992,2001,24,2025,1,Current
+OMN,Oman,Middle East & North Africa,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,94.5395,1971,50,2025,1,Current
+PAK,Pakistan,Middle East & North Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,46.4835,1971,40,2025,1,Current
+PLW,Palau,East Asia & Pacific,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,94.8396,1999,10,2025,1,Current
+PAN,Panama,Latin America & Caribbean,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2017-12-31,2017,79.0785,1970,38,2025,8,Behind
+PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,48.178,1970,23,2025,2,Current
+PRY,Paraguay,Latin America & Caribbean,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,80.8023,1970,40,2025,1,Current
+PER,Peru,Latin America & Caribbean,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,108.9827,1970,42,2025,1,Current
+PHL,Philippines,East Asia & Pacific,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,86.1155,1981,32,2025,1,Current
+POL,Poland,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,107.1914,2001,24,2025,1,Current
+PRT,Portugal,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,121.0135,2001,23,2025,2,Current
+PRI,Puerto Rico (US),Latin America & Caribbean,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,82.9706,2009,11,2025,1,Current
+QAT,Qatar,Middle East & North Africa,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,99.5587,1971,52,2025,1,Current
+ROU,Romania,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,81.8757,2001,23,2025,2,Current
+RUS,Russian Federation,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,91.6149,1994,21,2025,2,Current
+RWA,Rwanda,Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,53.3235,1971,43,2025,1,Current
+WSM,Samoa,East Asia & Pacific,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2016-12-31,2016,91.151,1970,28,2025,9,Behind
+SMR,San Marino,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,59.5952,1971,39,2025,1,Current
+SAU,Saudi Arabia,Middle East & North Africa,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,110.7959,1979,14,2025,1,Current
+SEN,Senegal,Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,50.2151,1971,36,2025,2,Current
+SRB,Serbia,Europe & Central Asia,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,88.5399,2000,24,2025,1,Current
+SYC,Seychelles,Sub-Saharan Africa,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,73.0633,1970,51,2025,1,Current
+SLE,Sierra Leone,Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,91.7119,1971,26,2025,2,Current
+SGP,Singapore,East Asia & Pacific,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,102.6761,2016,8,2025,2,Current
+SXM,Sint Maarten (Dutch part),Latin America & Caribbean,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2014-12-31,2014,106.9401,2012,2,2025,11,Behind
+SVK,Slovak Republic,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,93.8057,2001,24,2025,1,Current
+SVN,Slovenia,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,108.571,2001,23,2025,2,Current
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2012-12-31,2012,47.6625,1970,19,2025,13,Behind
+SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,2.7585,1971,17,2025,2,Current
+ZAF,South Africa,Sub-Saharan Africa,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,107.465,1989,29,2025,2,Current
+SSD,South Sudan,Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,110.4292,2011,3,2025,1,Current
+ESP,Spain,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,120.8381,2001,24,2025,1,Current
+LKA,Sri Lanka,South Asia,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,90.4491,1976,28,2025,2,Current
+KNA,St. Kitts and Nevis,Latin America & Caribbean,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,130.7278,1984,31,2025,2,Current
+LCA,St. Lucia,Latin America & Caribbean,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,91.6218,1972,40,2025,1,Current
+MAF,St. Martin (French part),Latin America & Caribbean,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,,,,,,2025,,No value in WDI
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,125.9512,1971,32,2025,1,Current
+SDN,Sudan,Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2019-12-31,2019,44.8804,2001,19,2025,6,Behind
+SUR,Suriname,Latin America & Caribbean,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2022-12-31,2022,78.09,1971,34,2025,3,Current
+SWE,Sweden,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,141.0298,2001,24,2025,1,Current
+CHE,Switzerland,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,100.2146,2000,24,2025,1,Current
+SYR,Syrian Arab Republic,Middle East & North Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,41.81,1971,48,2025,1,Current
+STP,São Tomé and Principe,Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2017-12-31,2017,95.129,1971,18,2025,8,Behind
+TJK,Tajikistan,Europe & Central Asia,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,82.8936,1999,20,2025,1,Current
+TZA,Tanzania,Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2021-12-31,2021,29.2048,1970,35,2025,4,Current
+THA,Thailand,East Asia & Pacific,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2025-12-31,2025,95.164,1971,35,2025,0,Current
+TLS,Timor-Leste,East Asia & Pacific,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2020-12-31,2020,89.3943,2004,15,2025,5,Behind
+TGO,Togo,Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,59.085,1971,37,2025,2,Current
+TON,Tonga,East Asia & Pacific,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,96.0905,1970,36,2025,1,Current
+TTO,Trinidad and Tobago,Latin America & Caribbean,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,98.477,1971,18,2025,1,Current
+TUN,Tunisia,Middle East & North Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2016-12-31,2016,95.4877,1971,39,2025,9,Behind
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,94.7374,2019,5,2025,1,Current
+TCA,Turks and Caicos Islands,Latin America & Caribbean,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,112.6471,1973,21,2025,1,Current
+TUV,Tuvalu,East Asia & Pacific,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,104.3993,1990,13,2025,1,Current
+TUR,Türkiye,Europe & Central Asia,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,116.8727,1971,48,2025,2,Current
+UGA,Uganda,Sub-Saharan Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2007-12-31,2007,21.5002,1975,14,2025,18,Behind
+UKR,Ukraine,Europe & Central Asia,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,86.3841,1993,27,2025,1,Current
+ARE,United Arab Emirates,Middle East & North Africa,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,100.1103,1973,32,2025,1,Current
+GBR,United Kingdom,Europe & Central Asia,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,113.6584,2000,23,2025,2,Current
+USA,United States,North America,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2022-12-31,2022,98.6512,1972,27,2025,3,Current
+URY,Uruguay,Latin America & Caribbean,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,125.241,1970,28,2025,2,Current
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2025-12-31,2025,97.43,1999,25,2025,0,Current
+VUT,Vanuatu,East Asia & Pacific,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,134.9258,1970,25,2025,2,Current
+VEN,"Venezuela, RB",Latin America & Caribbean,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,102.2486,1971,36,2025,1,Current
+VNM,Viet Nam,East Asia & Pacific,Upper middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2022-12-31,2022,90.5446,1976,11,2025,3,Current
+VIR,Virgin Islands (US),Latin America & Caribbean,High income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,1997-12-31,1997,118.2275,1982,15,2025,28,Behind
+PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2023-12-31,2023,92.153,1995,28,2025,2,Current
+YEM,"Yemen, Rep.",Middle East & North Africa,Low income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2016-12-31,2016,36.8242,1999,11,2025,9,Behind
+ZMB,Zambia,Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2024-12-31,2024,59.0708,1970,10,2025,1,Current
+ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income,SE.SEC.ENRR.FE,Girls in secondary school,outcome,2013-12-31,2013,50.8856,1970,33,2025,12,Behind
+AFG,Afghanistan,Middle East & North Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2021-12-31,2021,27.0161,2005,16,2025,4,Current
+ALB,Albania,Europe & Central Asia,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,35.0,1999,27,2025,0,Current
+DZA,Algeria,Middle East & North Africa,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,7.8624,1997,29,2025,0,Current
+ASM,American Samoa,East Asia & Pacific,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+AND,Andorra,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,50.0,1997,29,2025,0,Current
+AGO,Angola,Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,39.0909,1997,29,2025,0,Current
+ATG,Antigua and Barbuda,Latin America & Caribbean,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,5.5556,1997,28,2025,0,Current
+ARG,Argentina,Latin America & Caribbean,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,41.2451,1997,26,2025,0,Current
+ARM,Armenia,Europe & Central Asia,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,38.3178,1997,29,2025,0,Current
+ABW,Aruba,Latin America & Caribbean,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+AUS,Australia,East Asia & Pacific,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,46.0,1997,28,2025,0,Current
+AUT,Austria,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,35.5191,1997,27,2025,0,Current
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,20.8,1997,28,2025,0,Current
+BHS,"Bahamas, The",Latin America & Caribbean,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,18.4211,1997,28,2025,0,Current
+BHR,Bahrain,Middle East & North Africa,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,20.0,2003,23,2025,0,Current
+BGD,Bangladesh,South Asia,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2023-12-31,2023,20.8571,1997,25,2025,2,Current
+BRB,Barbados,Latin America & Caribbean,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,26.6667,1997,29,2025,0,Current
+BLR,Belarus,Europe & Central Asia,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,33.945,2001,25,2025,0,Current
+BEL,Belgium,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,41.3333,1997,29,2025,0,Current
+BLZ,Belize,Latin America & Caribbean,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,12.5,1997,29,2025,0,Current
+BEN,Benin,Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,26.6055,1997,29,2025,0,Current
+BMU,Bermuda,North America,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+BTN,Bhutan,South Asia,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,4.2553,1997,29,2025,0,Current
+BOL,Bolivia,Latin America & Caribbean,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,50.7692,1999,27,2025,0,Current
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,19.0476,2001,24,2025,0,Current
+BWA,Botswana,Sub-Saharan Africa,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,8.9552,1997,28,2025,0,Current
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,18.1287,1997,29,2025,0,Current
+VGB,British Virgin Islands,Latin America & Caribbean,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+BRN,Brunei Darussalam,East Asia & Pacific,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,11.4286,2016,10,2025,0,Current
+BGR,Bulgaria,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,25.0,1997,29,2025,0,Current
+BFA,Burkina Faso,Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,18.3099,1997,28,2025,0,Current
+BDI,Burundi,Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,39.6396,1998,28,2025,0,Current
+CPV,Cabo Verde,Sub-Saharan Africa,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,44.4444,1997,29,2025,0,Current
+KHM,Cambodia,East Asia & Pacific,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,13.6,1997,29,2025,0,Current
+CMR,Cameroon,Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,33.8889,1997,29,2025,0,Current
+CAN,Canada,North America,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,30.3207,1997,28,2025,0,Current
+CYM,Cayman Islands,Latin America & Caribbean,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+CAF,Central African Republic,Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,11.4286,1997,24,2025,0,Current
+TCD,Chad,Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,33.5106,1997,28,2025,0,Current
+CHI,Channel Islands,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+CHL,Chile,Latin America & Caribbean,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,33.5484,1997,28,2025,0,Current
+CHN,China,East Asia & Pacific,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,26.5368,1998,28,2025,0,Current
+COL,Colombia,Latin America & Caribbean,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,29.4118,1997,28,2025,0,Current
+COM,Comoros,Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,18.1818,1997,24,2025,0,Current
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,12.8,2004,21,2025,0,Current
+COG,"Congo, Rep.",Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,14.5695,1998,27,2025,0,Current
+CRI,Costa Rica,Latin America & Caribbean,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,49.1228,1997,29,2025,0,Current
+HRV,Croatia,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,33.1126,1997,28,2025,0,Current
+CUB,Cuba,Latin America & Caribbean,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,55.7447,1997,29,2025,0,Current
+CUW,Curaçao,Latin America & Caribbean,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+CYP,Cyprus,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,14.2857,1997,29,2025,0,Current
+CZE,Czechia,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,33.5,1997,29,2025,0,Current
+CIV,Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,13.3858,1997,28,2025,0,Current
+DNK,Denmark,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,43.5754,1997,28,2025,0,Current
+DJI,Djibouti,Middle East & North Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,26.1538,1998,28,2025,0,Current
+DMA,Dominica,Latin America & Caribbean,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,40.625,1997,28,2025,0,Current
+DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,37.3684,1997,29,2025,0,Current
+ECU,Ecuador,Latin America & Caribbean,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,45.0331,1997,28,2025,0,Current
+EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,26.8456,1997,26,2025,0,Current
+SLV,El Salvador,Latin America & Caribbean,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,31.6667,1997,29,2025,0,Current
+GNQ,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,31.0,1997,28,2025,0,Current
+ERI,Eritrea,Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2019-12-31,2019,22.0,1997,23,2025,6,Behind
+EST,Estonia,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,28.7129,1997,29,2025,0,Current
+SWZ,Eswatini,Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,21.6216,1997,29,2025,0,Current
+ETH,Ethiopia,Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,41.9087,1997,29,2025,0,Current
+FRO,Faroe Islands,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+FJI,Fiji,East Asia & Pacific,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,9.0909,1997,20,2025,0,Current
+FIN,Finland,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,45.5,1997,29,2025,0,Current
+FRA,France,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,36.1739,1997,29,2025,0,Current
+PYF,French Polynesia,East Asia & Pacific,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+GAB,Gabon,Sub-Saharan Africa,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,21.5827,1997,28,2025,0,Current
+GMB,"Gambia, The",Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,8.6207,1997,28,2025,0,Current
+GEO,Georgia,Europe & Central Asia,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,16.8317,1997,28,2025,0,Current
+DEU,Germany,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,32.381,1997,29,2025,0,Current
+GHA,Ghana,Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,14.5455,1997,27,2025,0,Current
+GIB,Gibraltar,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+GRC,Greece,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,22.8956,1997,29,2025,0,Current
+GRL,Greenland,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+GRD,Grenada,Latin America & Caribbean,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,31.25,1997,28,2025,0,Current
+GUM,Guam,East Asia & Pacific,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+GTM,Guatemala,Latin America & Caribbean,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,20.0,1997,29,2025,0,Current
+GIN,Guinea,Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,29.6296,1997,21,2025,0,Current
+GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2024-12-31,2024,9.8039,1997,26,2025,1,Current
+GUY,Guyana,Latin America & Caribbean,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,36.1111,1999,27,2025,0,Current
+HTI,Haiti,Latin America & Caribbean,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2019-12-31,2019,2.5424,1997,22,2025,6,Behind
+HND,Honduras,Latin America & Caribbean,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,29.6875,1998,26,2025,0,Current
+HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+HUN,Hungary,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,15.5779,1997,29,2025,0,Current
+ISL,Iceland,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,46.0317,1997,29,2025,0,Current
+IND,India,South Asia,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,13.7868,1997,29,2025,0,Current
+IDN,Indonesia,East Asia & Pacific,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,21.8966,1997,28,2025,0,Current
+IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,4.9123,1997,29,2025,0,Current
+IRQ,Iraq,Middle East & North Africa,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,25.5319,1997,26,2025,0,Current
+IRL,Ireland,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,25.2874,1997,29,2025,0,Current
+IMN,Isle of Man,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+ISR,Israel,Middle East & North Africa,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,24.1667,1997,29,2025,0,Current
+ITA,Italy,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,32.75,1997,29,2025,0,Current
+JAM,Jamaica,Latin America & Caribbean,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,30.1587,1997,28,2025,0,Current
+JPN,Japan,East Asia & Pacific,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,15.6989,1997,29,2025,0,Current
+JOR,Jordan,Middle East & North Africa,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,19.5652,1997,29,2025,0,Current
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,18.3673,1997,29,2025,0,Current
+KEN,Kenya,Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,23.3918,1997,29,2025,0,Current
+KIR,Kiribati,East Asia & Pacific,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,11.1111,1997,28,2025,0,Current
+PRK,"Korea, Dem. People's Rep.",East Asia & Pacific,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,17.6128,1997,28,2025,0,Current
+KOR,"Korea, Rep.",East Asia & Pacific,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,20.3333,1997,29,2025,0,Current
+XKX,Kosovo,Europe & Central Asia,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+KWT,Kuwait,Middle East & North Africa,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2023-12-31,2023,3.0769,1997,27,2025,2,Current
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,33.3333,1997,29,2025,0,Current
+LAO,Lao PDR,East Asia & Pacific,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,21.9512,1998,28,2025,0,Current
+LVA,Latvia,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,31.0,1997,29,2025,0,Current
+LBN,Lebanon,Middle East & North Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,6.25,1997,29,2025,0,Current
+LSO,Lesotho,Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,25.0,1997,28,2025,0,Current
+LBR,Liberia,Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,10.9589,2000,26,2025,0,Current
+LBY,Libya,Middle East & North Africa,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,16.4706,2005,20,2025,0,Current
+LIE,Liechtenstein,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,32.0,1997,29,2025,0,Current
+LTU,Lithuania,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,28.3688,1997,29,2025,0,Current
+LUX,Luxembourg,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,35.0,1997,29,2025,0,Current
+MAC,"Macao SAR, China",East Asia & Pacific,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+MDG,Madagascar,Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,14.1104,1997,26,2025,0,Current
+MWI,Malawi,Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,21.4286,1997,29,2025,0,Current
+MYS,Malaysia,East Asia & Pacific,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,13.5135,1997,28,2025,0,Current
+MDV,Maldives,South Asia,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,3.2258,1997,28,2025,0,Current
+MLI,Mali,Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,30.0752,1997,28,2025,0,Current
+MLT,Malta,Middle East & North Africa,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,29.1139,1997,29,2025,0,Current
+MHL,Marshall Islands,East Asia & Pacific,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,12.1212,2000,26,2025,0,Current
+MRT,Mauritania,Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,23.2955,1997,25,2025,0,Current
+MUS,Mauritius,Sub-Saharan Africa,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,17.9104,1997,29,2025,0,Current
+MEX,Mexico,Latin America & Caribbean,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,50.2,1997,29,2025,0,Current
+FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,21.4286,1997,29,2025,0,Current
+MDA,Moldova,Europe & Central Asia,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,39.604,1997,28,2025,0,Current
+MCO,Monaco,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,45.8333,1997,29,2025,0,Current
+MNG,Mongolia,East Asia & Pacific,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,25.3968,1997,29,2025,0,Current
+MNE,Montenegro,Europe & Central Asia,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,27.1605,2006,20,2025,0,Current
+MAR,Morocco,Middle East & North Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,24.3038,1997,29,2025,0,Current
+MOZ,Mozambique,Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,38.3065,1997,27,2025,0,Current
+MMR,Myanmar,East Asia & Pacific,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2021-12-31,2021,15.2941,2010,12,2025,4,Current
+NAM,Namibia,Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,42.3077,1997,28,2025,0,Current
+NRU,Naoero,East Asia & Pacific,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,10.5263,1998,26,2025,0,Current
+NPL,Nepal,South Asia,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2024-12-31,2024,33.0882,1997,27,2025,1,Current
+NLD,Netherlands,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,43.3333,1997,29,2025,0,Current
+NCL,New Caledonia,East Asia & Pacific,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+NZL,New Zealand,East Asia & Pacific,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,45.5285,1997,29,2025,0,Current
+NIC,Nicaragua,Latin America & Caribbean,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,54.9451,1997,28,2025,0,Current
+NER,Niger,Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,19.5876,1997,25,2025,0,Current
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,4.2135,2000,26,2025,0,Current
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,39.1667,1997,29,2025,0,Current
+MNP,Northern Mariana Islands,East Asia & Pacific,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+NOR,Norway,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,40.2367,1997,29,2025,0,Current
+OMN,Oman,Middle East & North Africa,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,0.0,2004,22,2025,0,Current
+PAK,Pakistan,Middle East & North Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,17.0418,1997,26,2025,0,Current
+PLW,Palau,East Asia & Pacific,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,25.0,1997,29,2025,0,Current
+PAN,Panama,Latin America & Caribbean,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,21.7391,1997,28,2025,0,Current
+PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,2.7027,1997,28,2025,0,Current
+PRY,Paraguay,Latin America & Caribbean,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,23.75,1997,28,2025,0,Current
+PER,Peru,Latin America & Caribbean,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,41.5385,1997,28,2025,0,Current
+PHL,Philippines,East Asia & Pacific,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,28.3439,1997,29,2025,0,Current
+POL,Poland,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,31.3043,1997,29,2025,0,Current
+PRT,Portugal,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,35.6522,1997,29,2025,0,Current
+PRI,Puerto Rico (US),Latin America & Caribbean,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+QAT,Qatar,Middle East & North Africa,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,6.1224,2006,20,2025,0,Current
+ROU,Romania,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,22.3565,1997,28,2025,0,Current
+RUS,Russian Federation,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,16.4444,1997,28,2025,0,Current
+RWA,Rwanda,Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,63.75,1997,29,2025,0,Current
+WSM,Samoa,East Asia & Pacific,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,9.8039,1997,29,2025,0,Current
+SMR,San Marino,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,35.0,1997,29,2025,0,Current
+SAU,Saudi Arabia,Middle East & North Africa,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,19.8675,2003,23,2025,0,Current
+SEN,Senegal,Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,41.2121,1997,29,2025,0,Current
+SRB,Serbia,Europe & Central Asia,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,37.2,2006,20,2025,0,Current
+SYC,Seychelles,Sub-Saharan Africa,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,26.4706,1997,29,2025,0,Current
+SLE,Sierra Leone,Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,29.5302,1999,26,2025,0,Current
+SGP,Singapore,East Asia & Pacific,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,32.3232,1997,29,2025,0,Current
+SXM,Sint Maarten (Dutch part),Latin America & Caribbean,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+SVK,Slovak Republic,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,23.3333,1997,29,2025,0,Current
+SVN,Slovenia,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,35.5556,1997,28,2025,0,Current
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,6.0,1998,27,2025,0,Current
+SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,18.9781,2005,20,2025,0,Current
+ZAF,South Africa,Sub-Saharan Africa,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,44.8622,1997,29,2025,0,Current
+SSD,South Sudan,Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,32.3636,2011,15,2025,0,Current
+ESP,Spain,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,44.2857,1997,29,2025,0,Current
+LKA,Sri Lanka,South Asia,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,9.7778,1997,27,2025,0,Current
+KNA,St. Kitts and Nevis,Latin America & Caribbean,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,31.25,1997,29,2025,0,Current
+LCA,St. Lucia,Latin America & Caribbean,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,10.5263,1997,28,2025,0,Current
+MAF,St. Martin (French part),Latin America & Caribbean,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,13.3333,1997,27,2025,0,Current
+SDN,Sudan,Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2018-12-31,2018,30.5164,1997,20,2025,7,Behind
+SUR,Suriname,Latin America & Caribbean,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,31.3725,1997,28,2025,0,Current
+SWE,Sweden,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,44.9857,1997,29,2025,0,Current
+CHE,Switzerland,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,39.0,1997,29,2025,0,Current
+SYR,Syrian Arab Republic,Middle East & North Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,4.918,1997,29,2025,0,Current
+STP,São Tomé and Principe,Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,14.5455,1997,28,2025,0,Current
+TJK,Tajikistan,Europe & Central Asia,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,28.5714,1997,29,2025,0,Current
+TZA,Tanzania,Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,39.5349,1997,27,2025,0,Current
+THA,Thailand,East Asia & Pacific,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,19.596,1997,29,2025,0,Current
+TLS,Timor-Leste,East Asia & Pacific,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,35.3846,2002,24,2025,0,Current
+TGO,Togo,Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,15.0442,1997,28,2025,0,Current
+TON,Tonga,East Asia & Pacific,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,3.8462,1997,27,2025,0,Current
+TTO,Trinidad and Tobago,Latin America & Caribbean,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,23.8095,1997,28,2025,0,Current
+TUN,Tunisia,Middle East & North Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,15.7895,1997,29,2025,0,Current
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,25.6,1997,26,2025,0,Current
+TCA,Turks and Caicos Islands,Latin America & Caribbean,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+TUV,Tuvalu,East Asia & Pacific,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,0.0,1997,27,2025,0,Current
+TUR,Türkiye,Europe & Central Asia,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,19.8988,1997,28,2025,0,Current
+UGA,Uganda,Sub-Saharan Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,34.0541,1997,29,2025,0,Current
+UKR,Ukraine,Europe & Central Asia,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,21.197,1997,27,2025,0,Current
+ARE,United Arab Emirates,Middle East & North Africa,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,50.0,1997,29,2025,0,Current
+GBR,United Kingdom,Europe & Central Asia,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,40.4615,1997,29,2025,0,Current
+USA,United States,North America,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,28.9352,1997,28,2025,0,Current
+URY,Uruguay,Latin America & Caribbean,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,31.3131,1997,29,2025,0,Current
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,38.0,1997,28,2025,0,Current
+VUT,Vanuatu,East Asia & Pacific,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,1.9231,1999,27,2025,0,Current
+VEN,"Venezuela, RB",Latin America & Caribbean,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,32.13,1997,25,2025,0,Current
+VNM,Viet Nam,East Asia & Pacific,Upper middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,31.3808,1997,29,2025,0,Current
+VIR,Virgin Islands (US),Latin America & Caribbean,High income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,,,,,,2025,,No value in WDI
+YEM,"Yemen, Rep.",Middle East & North Africa,Low income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,0.0,1998,28,2025,0,Current
+ZMB,Zambia,Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,14.9701,1997,29,2025,0,Current
+ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income,SG.GEN.PARL.ZS,Women in parliament,outcome,2025-12-31,2025,30.1075,1997,29,2025,0,Current
+AFG,Afghanistan,Middle East & North Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,31.875,1970,54,2023,0,Current
+ALB,Albania,Europe & Central Asia,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,91.25,1970,54,2023,0,Current
+DZA,Algeria,Middle East & North Africa,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,57.5,1970,54,2023,0,Current
+ASM,American Samoa,East Asia & Pacific,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+AND,Andorra,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+AGO,Angola,Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,79.375,1970,54,2023,0,Current
+ATG,Antigua and Barbuda,Latin America & Caribbean,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,68.75,1970,54,2023,0,Current
+ARG,Argentina,Latin America & Caribbean,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,79.375,1970,54,2023,0,Current
+ARM,Armenia,Europe & Central Asia,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,90.625,1970,54,2023,0,Current
+ABW,Aruba,Latin America & Caribbean,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+AUS,Australia,East Asia & Pacific,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,96.875,1970,54,2023,0,Current
+AUT,Austria,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,96.875,1970,54,2023,0,Current
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,85.0,1970,54,2023,0,Current
+BHS,"Bahamas, The",Latin America & Caribbean,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,81.25,1970,54,2023,0,Current
+BHR,Bahrain,Middle East & North Africa,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,68.125,1970,54,2023,0,Current
+BGD,Bangladesh,South Asia,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,49.375,1970,54,2023,0,Current
+BRB,Barbados,Latin America & Caribbean,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,80.0,1970,54,2023,0,Current
+BLR,Belarus,Europe & Central Asia,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,75.625,1970,54,2023,0,Current
+BEL,Belgium,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,100.0,1970,54,2023,0,Current
+BLZ,Belize,Latin America & Caribbean,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,82.5,1970,54,2023,0,Current
+BEN,Benin,Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,83.75,1970,54,2023,0,Current
+BMU,Bermuda,North America,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+BTN,Bhutan,South Asia,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,75.0,1970,54,2023,0,Current
+BOL,Bolivia,Latin America & Caribbean,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,88.75,1970,54,2023,0,Current
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,85.0,1970,54,2023,0,Current
+BWA,Botswana,Sub-Saharan Africa,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,63.75,1970,54,2023,0,Current
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,85.0,1970,54,2023,0,Current
+VGB,British Virgin Islands,Latin America & Caribbean,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+BRN,Brunei Darussalam,East Asia & Pacific,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,53.125,1970,54,2023,0,Current
+BGR,Bulgaria,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,90.625,1970,54,2023,0,Current
+BFA,Burkina Faso,Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,82.5,1970,54,2023,0,Current
+BDI,Burundi,Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,76.25,1970,54,2023,0,Current
+CPV,Cabo Verde,Sub-Saharan Africa,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,86.25,1970,54,2023,0,Current
+KHM,Cambodia,East Asia & Pacific,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,81.25,1970,54,2023,0,Current
+CMR,Cameroon,Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,60.0,1970,54,2023,0,Current
+CAN,Canada,North America,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,100.0,1970,54,2023,0,Current
+CYM,Cayman Islands,Latin America & Caribbean,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+CAF,Central African Republic,Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,77.5,1970,54,2023,0,Current
+TCD,Chad,Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,66.25,1970,54,2023,0,Current
+CHI,Channel Islands,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+CHL,Chile,Latin America & Caribbean,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,80.0,1970,54,2023,0,Current
+CHN,China,East Asia & Pacific,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,78.125,1970,54,2023,0,Current
+COL,Colombia,Latin America & Caribbean,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,84.375,1970,54,2023,0,Current
+COM,Comoros,Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,65.0,1970,54,2023,0,Current
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,78.75,1970,54,2023,0,Current
+COG,"Congo, Rep.",Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,58.125,1970,54,2023,0,Current
+CRI,Costa Rica,Latin America & Caribbean,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,91.875,1970,54,2023,0,Current
+HRV,Croatia,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,93.75,1970,54,2023,0,Current
+CUB,Cuba,Latin America & Caribbean,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+CUW,Curaçao,Latin America & Caribbean,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+CYP,Cyprus,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,96.875,1970,54,2023,0,Current
+CZE,Czechia,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,93.75,1970,54,2023,0,Current
+CIV,Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,95.0,1970,54,2023,0,Current
+DNK,Denmark,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,100.0,1970,54,2023,0,Current
+DJI,Djibouti,Middle East & North Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,71.25,1970,54,2023,0,Current
+DMA,Dominica,Latin America & Caribbean,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,62.5,1970,54,2023,0,Current
+DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,86.25,1970,54,2023,0,Current
+ECU,Ecuador,Latin America & Caribbean,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,89.375,1970,54,2023,0,Current
+EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,50.625,1970,54,2023,0,Current
+SLV,El Salvador,Latin America & Caribbean,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,88.75,1970,54,2023,0,Current
+GNQ,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,58.125,1970,54,2023,0,Current
+ERI,Eritrea,Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,69.375,1970,54,2023,0,Current
+EST,Estonia,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,97.5,1970,54,2023,0,Current
+SWZ,Eswatini,Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,46.25,1970,54,2023,0,Current
+ETH,Ethiopia,Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,80.0,1970,54,2023,0,Current
+FRO,Faroe Islands,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+FJI,Fiji,East Asia & Pacific,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,82.5,1970,54,2023,0,Current
+FIN,Finland,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,97.5,1970,54,2023,0,Current
+FRA,France,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,100.0,1970,54,2023,0,Current
+PYF,French Polynesia,East Asia & Pacific,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+GAB,Gabon,Sub-Saharan Africa,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,95.0,1970,54,2023,0,Current
+GMB,"Gambia, The",Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,69.375,1970,54,2023,0,Current
+GEO,Georgia,Europe & Central Asia,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,88.125,1970,54,2023,0,Current
+DEU,Germany,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,100.0,1970,54,2023,0,Current
+GHA,Ghana,Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,75.0,1970,54,2023,0,Current
+GIB,Gibraltar,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+GRC,Greece,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,100.0,1970,54,2023,0,Current
+GRL,Greenland,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+GRD,Grenada,Latin America & Caribbean,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,80.625,1970,54,2023,0,Current
+GUM,Guam,East Asia & Pacific,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+GTM,Guatemala,Latin America & Caribbean,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,73.75,1970,54,2023,0,Current
+GIN,Guinea,Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,73.75,1970,54,2023,0,Current
+GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,51.875,1970,54,2023,0,Current
+GUY,Guyana,Latin America & Caribbean,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,86.875,1970,54,2023,0,Current
+HTI,Haiti,Latin America & Caribbean,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,61.25,1970,54,2023,0,Current
+HND,Honduras,Latin America & Caribbean,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,75.0,1970,54,2023,0,Current
+HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,91.875,1970,54,2023,0,Current
+HUN,Hungary,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,93.75,1970,54,2023,0,Current
+ISL,Iceland,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,100.0,1970,54,2023,0,Current
+IND,India,South Asia,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,74.375,1970,54,2023,0,Current
+IDN,Indonesia,East Asia & Pacific,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,70.625,1970,54,2023,0,Current
+IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,31.25,1970,54,2023,0,Current
+IRQ,Iraq,Middle East & North Africa,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,48.125,1970,54,2023,0,Current
+IRL,Ireland,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,100.0,1970,54,2023,0,Current
+IMN,Isle of Man,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+ISR,Israel,Middle East & North Africa,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,80.625,1970,54,2023,0,Current
+ITA,Italy,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,97.5,1970,54,2023,0,Current
+JAM,Jamaica,Latin America & Caribbean,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,74.375,1970,54,2023,0,Current
+JPN,Japan,East Asia & Pacific,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,78.75,1970,54,2023,0,Current
+JOR,Jordan,Middle East & North Africa,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,59.375,1970,54,2023,0,Current
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,75.625,1970,54,2023,0,Current
+KEN,Kenya,Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,83.75,1970,54,2023,0,Current
+KIR,Kiribati,East Asia & Pacific,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,76.25,1970,54,2023,0,Current
+PRK,"Korea, Dem. People's Rep.",East Asia & Pacific,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+KOR,"Korea, Rep.",East Asia & Pacific,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,88.125,1970,54,2023,0,Current
+XKX,Kosovo,Europe & Central Asia,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,91.875,1970,54,2023,0,Current
+KWT,Kuwait,Middle East & North Africa,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,38.125,1970,54,2023,0,Current
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,76.875,1970,54,2023,0,Current
+LAO,Lao PDR,East Asia & Pacific,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,85.625,1970,54,2023,0,Current
+LVA,Latvia,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,100.0,1970,54,2023,0,Current
+LBN,Lebanon,Middle East & North Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,58.75,1970,54,2023,0,Current
+LSO,Lesotho,Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,80.625,1970,54,2023,0,Current
+LBR,Liberia,Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,81.25,1970,54,2023,0,Current
+LBY,Libya,Middle East & North Africa,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,50.0,1970,54,2023,0,Current
+LIE,Liechtenstein,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+LTU,Lithuania,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,93.75,1970,54,2023,0,Current
+LUX,Luxembourg,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,100.0,1970,54,2023,0,Current
+MAC,"Macao SAR, China",East Asia & Pacific,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+MDG,Madagascar,Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,69.375,1970,54,2023,0,Current
+MWI,Malawi,Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,80.0,1970,54,2023,0,Current
+MYS,Malaysia,East Asia & Pacific,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,60.625,1970,54,2023,0,Current
+MDV,Maldives,South Asia,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,73.75,1970,54,2023,0,Current
+MLI,Mali,Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,63.75,1970,54,2023,0,Current
+MLT,Malta,Middle East & North Africa,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,91.25,1970,54,2023,0,Current
+MHL,Marshall Islands,East Asia & Pacific,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,65.625,1970,54,2023,0,Current
+MRT,Mauritania,Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,48.125,1970,54,2023,0,Current
+MUS,Mauritius,Sub-Saharan Africa,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,89.375,1970,54,2023,0,Current
+MEX,Mexico,Latin America & Caribbean,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,88.75,1970,54,2023,0,Current
+FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,61.25,1970,54,2023,0,Current
+MDA,Moldova,Europe & Central Asia,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,90.625,1970,54,2023,0,Current
+MCO,Monaco,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+MNG,Mongolia,East Asia & Pacific,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,90.625,1970,54,2023,0,Current
+MNE,Montenegro,Europe & Central Asia,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,85.0,1970,54,2023,0,Current
+MAR,Morocco,Middle East & North Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,75.625,1970,54,2023,0,Current
+MOZ,Mozambique,Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,82.5,1970,54,2023,0,Current
+MMR,Myanmar,East Asia & Pacific,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,58.75,1970,54,2023,0,Current
+NAM,Namibia,Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,80.0,1970,54,2023,0,Current
+NRU,Naoero,East Asia & Pacific,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+NPL,Nepal,South Asia,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,80.625,1970,54,2023,0,Current
+NLD,Netherlands,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,100.0,1970,54,2023,0,Current
+NCL,New Caledonia,East Asia & Pacific,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+NZL,New Zealand,East Asia & Pacific,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,97.5,1970,54,2023,0,Current
+NIC,Nicaragua,Latin America & Caribbean,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,86.25,1970,54,2023,0,Current
+NER,Niger,Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,53.75,1970,54,2023,0,Current
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,66.25,1970,54,2023,0,Current
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,85.0,1970,54,2023,0,Current
+MNP,Northern Mariana Islands,East Asia & Pacific,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+NOR,Norway,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,96.875,1970,54,2023,0,Current
+OMN,Oman,Middle East & North Africa,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,46.25,1970,54,2023,0,Current
+PAK,Pakistan,Middle East & North Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,58.75,1970,54,2023,0,Current
+PLW,Palau,East Asia & Pacific,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,56.25,1970,54,2023,0,Current
+PAN,Panama,Latin America & Caribbean,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,79.375,1970,54,2023,0,Current
+PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,60.0,1970,54,2023,0,Current
+PRY,Paraguay,Latin America & Caribbean,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,94.375,1970,54,2023,0,Current
+PER,Peru,Latin America & Caribbean,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,95.0,1970,54,2023,0,Current
+PHL,Philippines,East Asia & Pacific,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,78.75,1970,54,2023,0,Current
+POL,Poland,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,93.75,1970,54,2023,0,Current
+PRT,Portugal,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,100.0,1970,54,2023,0,Current
+PRI,Puerto Rico (US),Latin America & Caribbean,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,83.75,1970,54,2023,0,Current
+QAT,Qatar,Middle East & North Africa,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,35.625,1970,54,2023,0,Current
+ROU,Romania,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,90.625,1970,54,2023,0,Current
+RUS,Russian Federation,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,73.125,1970,54,2023,0,Current
+RWA,Rwanda,Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,91.875,1970,54,2023,0,Current
+WSM,Samoa,East Asia & Pacific,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,75.0,1970,54,2023,0,Current
+SMR,San Marino,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,85.0,1970,54,2023,0,Current
+SAU,Saudi Arabia,Middle East & North Africa,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,71.25,1970,54,2023,0,Current
+SEN,Senegal,Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,72.5,1970,54,2023,0,Current
+SRB,Serbia,Europe & Central Asia,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,93.75,1970,54,2023,0,Current
+SYC,Seychelles,Sub-Saharan Africa,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,76.25,1970,54,2023,0,Current
+SLE,Sierra Leone,Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,92.5,1970,54,2023,0,Current
+SGP,Singapore,East Asia & Pacific,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,82.5,1970,54,2023,0,Current
+SXM,Sint Maarten (Dutch part),Latin America & Caribbean,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+SVK,Slovak Republic,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,87.5,1970,54,2023,0,Current
+SVN,Slovenia,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,96.875,1970,54,2023,0,Current
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,56.875,1970,54,2023,0,Current
+SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,46.875,1970,54,2023,0,Current
+ZAF,South Africa,Sub-Saharan Africa,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,88.125,1970,54,2023,0,Current
+SSD,South Sudan,Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,67.5,1970,54,2023,0,Current
+ESP,Spain,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,100.0,1970,54,2023,0,Current
+LKA,Sri Lanka,South Asia,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,65.625,1970,54,2023,0,Current
+KNA,St. Kitts and Nevis,Latin America & Caribbean,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,71.25,1970,54,2023,0,Current
+LCA,St. Lucia,Latin America & Caribbean,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,83.75,1970,54,2023,0,Current
+MAF,St. Martin (French part),Latin America & Caribbean,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,68.125,1970,54,2023,0,Current
+SDN,Sudan,Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,32.5,1970,54,2023,0,Current
+SUR,Suriname,Latin America & Caribbean,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,76.875,1970,54,2023,0,Current
+SWE,Sweden,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,100.0,1970,54,2023,0,Current
+CHE,Switzerland,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,88.125,1970,54,2023,0,Current
+SYR,Syrian Arab Republic,Middle East & North Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,40.0,1970,54,2023,0,Current
+STP,São Tomé and Principe,Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,83.125,1970,54,2023,0,Current
+TJK,Tajikistan,Europe & Central Asia,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,78.75,1970,54,2023,0,Current
+TZA,Tanzania,Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,81.25,1970,54,2023,0,Current
+THA,Thailand,East Asia & Pacific,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,78.125,1970,54,2023,0,Current
+TLS,Timor-Leste,East Asia & Pacific,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,86.25,1970,54,2023,0,Current
+TGO,Togo,Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,97.5,1970,54,2023,0,Current
+TON,Tonga,East Asia & Pacific,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,58.75,1970,54,2023,0,Current
+TTO,Trinidad and Tobago,Latin America & Caribbean,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,75.0,1970,54,2023,0,Current
+TUN,Tunisia,Middle East & North Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,64.375,1970,54,2023,0,Current
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+TCA,Turks and Caicos Islands,Latin America & Caribbean,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+TUV,Tuvalu,East Asia & Pacific,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+TUR,Türkiye,Europe & Central Asia,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,82.5,1970,54,2023,0,Current
+UGA,Uganda,Sub-Saharan Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,83.75,1970,54,2023,0,Current
+UKR,Ukraine,Europe & Central Asia,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,85.0,1970,54,2023,0,Current
+ARE,United Arab Emirates,Middle East & North Africa,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,82.5,1970,54,2023,0,Current
+GBR,United Kingdom,Europe & Central Asia,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,97.5,1970,54,2023,0,Current
+USA,United States,North America,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,91.25,1970,54,2023,0,Current
+URY,Uruguay,Latin America & Caribbean,High income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,88.75,1970,54,2023,0,Current
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,82.5,1970,54,2023,0,Current
+VUT,Vanuatu,East Asia & Pacific,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,55.625,1970,54,2023,0,Current
+VEN,"Venezuela, RB",Latin America & Caribbean,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,85.0,1970,54,2023,0,Current
+VNM,Viet Nam,East Asia & Pacific,Upper middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,88.125,1970,54,2023,0,Current
+VIR,Virgin Islands (US),Latin America & Caribbean,High income,SG.LAW.INDX,Law score (WBL 1.0),law,,,,,,2023,,No value in WDI
+PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,26.25,1970,54,2023,0,Current
+YEM,"Yemen, Rep.",Middle East & North Africa,Low income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,26.875,1970,54,2023,0,Current
+ZMB,Zambia,Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,81.25,1970,54,2023,0,Current
+ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income,SG.LAW.INDX,Law score (WBL 1.0),law,2023-12-31,2023,86.875,1970,54,2023,0,Current
+AFG,Afghanistan,Middle East & North Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,5.086,1990,36,2025,0,Current
+ALB,Albania,Europe & Central Asia,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,58.567,1990,36,2025,0,Current
+DZA,Algeria,Middle East & North Africa,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,14.142,1990,36,2025,0,Current
+ASM,American Samoa,East Asia & Pacific,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+AND,Andorra,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+AGO,Angola,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,72.224,1990,36,2025,0,Current
+ATG,Antigua and Barbuda,Latin America & Caribbean,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+ARG,Argentina,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,52.469,1990,36,2025,0,Current
+ARM,Armenia,Europe & Central Asia,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,51.057,1990,36,2025,0,Current
+ABW,Aruba,Latin America & Caribbean,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+AUS,Australia,East Asia & Pacific,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,62.513,1990,36,2025,0,Current
+AUT,Austria,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,55.059,1990,36,2025,0,Current
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,60.759,1990,36,2025,0,Current
+BHS,"Bahamas, The",Latin America & Caribbean,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,70.728,1990,36,2025,0,Current
+BHR,Bahrain,Middle East & North Africa,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,42.294,1990,36,2025,0,Current
+BGD,Bangladesh,South Asia,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,38.649,1990,36,2025,0,Current
+BRB,Barbados,Latin America & Caribbean,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,61.03,1990,36,2025,0,Current
+BLR,Belarus,Europe & Central Asia,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,56.769,1990,36,2025,0,Current
+BEL,Belgium,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,49.78,1990,36,2025,0,Current
+BLZ,Belize,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,46.472,1990,36,2025,0,Current
+BEN,Benin,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,75.164,1990,36,2025,0,Current
+BMU,Bermuda,North America,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+BTN,Bhutan,South Asia,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,56.7,1990,36,2025,0,Current
+BOL,Bolivia,Latin America & Caribbean,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,72.868,1990,36,2025,0,Current
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,39.241,1990,36,2025,0,Current
+BWA,Botswana,Sub-Saharan Africa,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,63.708,1990,36,2025,0,Current
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,53.411,1990,36,2025,0,Current
+VGB,British Virgin Islands,Latin America & Caribbean,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+BRN,Brunei Darussalam,East Asia & Pacific,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,54.436,1990,36,2025,0,Current
+BGR,Bulgaria,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,50.376,1990,36,2025,0,Current
+BFA,Burkina Faso,Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,64.074,1990,36,2025,0,Current
+BDI,Burundi,Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,79.498,1990,36,2025,0,Current
+CPV,Cabo Verde,Sub-Saharan Africa,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,50.47,1990,36,2025,0,Current
+KHM,Cambodia,East Asia & Pacific,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,77.351,1990,36,2025,0,Current
+CMR,Cameroon,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,56.595,1990,36,2025,0,Current
+CAN,Canada,North America,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,60.204,1990,36,2025,0,Current
+CYM,Cayman Islands,Latin America & Caribbean,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+CAF,Central African Republic,Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,65.464,1990,36,2025,0,Current
+TCD,Chad,Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,47.301,1990,36,2025,0,Current
+CHI,Channel Islands,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,49.249,1990,36,2025,0,Current
+CHL,Chile,Latin America & Caribbean,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,52.887,1990,36,2025,0,Current
+CHN,China,East Asia & Pacific,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,59.148,1990,36,2025,0,Current
+COL,Colombia,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,51.624,1990,36,2025,0,Current
+COM,Comoros,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,47.649,1990,36,2025,0,Current
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,61.848,1990,36,2025,0,Current
+COG,"Congo, Rep.",Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,65.576,1990,36,2025,0,Current
+CRI,Costa Rica,Latin America & Caribbean,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,46.017,1990,36,2025,0,Current
+HRV,Croatia,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,47.377,1990,36,2025,0,Current
+CUB,Cuba,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,39.974,1990,36,2025,0,Current
+CUW,Curaçao,Latin America & Caribbean,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+CYP,Cyprus,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,61.213,1990,36,2025,0,Current
+CZE,Czechia,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,53.456,1990,36,2025,0,Current
+CIV,Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,59.454,1990,36,2025,0,Current
+DNK,Denmark,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,60.792,1990,36,2025,0,Current
+DJI,Djibouti,Middle East & North Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,19.365,1990,36,2025,0,Current
+DMA,Dominica,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,53.655,1990,36,2025,0,Current
+ECU,Ecuador,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,52.386,1990,36,2025,0,Current
+EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,18.455,1990,36,2025,0,Current
+SLV,El Salvador,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,49.052,1990,36,2025,0,Current
+GNQ,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,52.616,1990,36,2025,0,Current
+ERI,Eritrea,Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,72.838,1990,36,2025,0,Current
+EST,Estonia,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,60.984,1990,36,2025,0,Current
+SWZ,Eswatini,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,48.518,1990,36,2025,0,Current
+ETH,Ethiopia,Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,58.456,1990,36,2025,0,Current
+FRO,Faroe Islands,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+FJI,Fiji,East Asia & Pacific,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,38.451,1990,36,2025,0,Current
+FIN,Finland,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,56.493,1990,36,2025,0,Current
+FRA,France,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,51.48,1990,36,2025,0,Current
+PYF,French Polynesia,East Asia & Pacific,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,46.628,1990,36,2025,0,Current
+GAB,Gabon,Sub-Saharan Africa,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,41.629,1990,36,2025,0,Current
+GMB,"Gambia, The",Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,45.459,1990,36,2025,0,Current
+GEO,Georgia,Europe & Central Asia,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,56.697,1990,36,2025,0,Current
+DEU,Germany,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,55.288,1990,36,2025,0,Current
+GHA,Ghana,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,55.265,1990,36,2025,0,Current
+GIB,Gibraltar,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+GRC,Greece,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,44.666,1990,36,2025,0,Current
+GRL,Greenland,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+GRD,Grenada,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+GUM,Guam,East Asia & Pacific,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,56.52,1990,36,2025,0,Current
+GTM,Guatemala,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,38.324,1990,36,2025,0,Current
+GIN,Guinea,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,42.646,1990,36,2025,0,Current
+GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,60.287,1990,36,2025,0,Current
+GUY,Guyana,Latin America & Caribbean,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,47.35,1990,36,2025,0,Current
+HTI,Haiti,Latin America & Caribbean,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,58.337,1990,36,2025,0,Current
+HND,Honduras,Latin America & Caribbean,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,39.59,1990,36,2025,0,Current
+HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,51.805,1990,36,2025,0,Current
+HUN,Hungary,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,54.312,1990,36,2025,0,Current
+ISL,Iceland,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,70.012,1990,36,2025,0,Current
+IND,India,South Asia,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,32.425,1990,36,2025,0,Current
+IDN,Indonesia,East Asia & Pacific,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,53.72,1990,36,2025,0,Current
+IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,14.013,1990,36,2025,0,Current
+IRQ,Iraq,Middle East & North Africa,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,10.937,1990,36,2025,0,Current
+IRL,Ireland,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,59.755,1990,36,2025,0,Current
+IMN,Isle of Man,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+ISR,Israel,Middle East & North Africa,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,62.278,1990,36,2025,0,Current
+ITA,Italy,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,40.806,1990,36,2025,0,Current
+JAM,Jamaica,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,63.033,1990,36,2025,0,Current
+JPN,Japan,East Asia & Pacific,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,55.905,1990,36,2025,0,Current
+JOR,Jordan,Middle East & North Africa,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,16.029,1990,36,2025,0,Current
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,62.649,1990,36,2025,0,Current
+KEN,Kenya,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,63.036,1990,36,2025,0,Current
+KIR,Kiribati,East Asia & Pacific,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+PRK,"Korea, Dem. People's Rep.",East Asia & Pacific,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,77.713,1990,36,2025,0,Current
+KOR,"Korea, Rep.",East Asia & Pacific,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,56.782,1990,36,2025,0,Current
+XKX,Kosovo,Europe & Central Asia,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+KWT,Kuwait,Middle East & North Africa,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,47.2,1990,36,2025,0,Current
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,44.136,1990,36,2025,0,Current
+LAO,Lao PDR,East Asia & Pacific,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,61.56,1990,36,2025,0,Current
+LVA,Latvia,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,55.248,1990,36,2025,0,Current
+LBN,Lebanon,Middle East & North Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2023-12-31,2023,22.234,1990,34,2025,2,Current
+LSO,Lesotho,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,48.091,1990,36,2025,0,Current
+LBR,Liberia,Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,72.029,1990,36,2025,0,Current
+LBY,Libya,Middle East & North Africa,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,32.995,1990,36,2025,0,Current
+LIE,Liechtenstein,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+LTU,Lithuania,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,57.668,1990,36,2025,0,Current
+LUX,Luxembourg,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,57.474,1990,36,2025,0,Current
+MAC,"Macao SAR, China",East Asia & Pacific,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,63.098,1990,36,2025,0,Current
+MDG,Madagascar,Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,82.913,1990,36,2025,0,Current
+MWI,Malawi,Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,58.18,1990,36,2025,0,Current
+MYS,Malaysia,East Asia & Pacific,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,51.643,1990,36,2025,0,Current
+MDV,Maldives,South Asia,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,40.732,1990,36,2025,0,Current
+MLI,Mali,Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,52.842,1990,36,2025,0,Current
+MLT,Malta,Middle East & North Africa,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,55.799,1990,36,2025,0,Current
+MHL,Marshall Islands,East Asia & Pacific,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+MRT,Mauritania,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,26.18,1990,36,2025,0,Current
+MUS,Mauritius,Sub-Saharan Africa,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,47.462,1990,36,2025,0,Current
+MEX,Mexico,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,47.45,1990,36,2025,0,Current
+FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+MDA,Moldova,Europe & Central Asia,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,72.33,1990,36,2025,0,Current
+MCO,Monaco,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+MNG,Mongolia,East Asia & Pacific,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,51.458,1990,36,2025,0,Current
+MNE,Montenegro,Europe & Central Asia,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,51.246,1990,36,2025,0,Current
+MAR,Morocco,Middle East & North Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,19.696,1990,36,2025,0,Current
+MOZ,Mozambique,Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,77.09,1990,36,2025,0,Current
+MMR,Myanmar,East Asia & Pacific,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,40.941,1990,36,2025,0,Current
+NAM,Namibia,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,54.918,1990,36,2025,0,Current
+NRU,Naoero,East Asia & Pacific,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+NPL,Nepal,South Asia,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,27.473,1990,36,2025,0,Current
+NLD,Netherlands,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,62.71,1990,36,2025,0,Current
+NCL,New Caledonia,East Asia & Pacific,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,51.067,1990,36,2025,0,Current
+NZL,New Zealand,East Asia & Pacific,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,66.077,1990,36,2025,0,Current
+NIC,Nicaragua,Latin America & Caribbean,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,51.253,1990,36,2025,0,Current
+NER,Niger,Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,72.776,1990,36,2025,0,Current
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,80.7,1990,36,2025,0,Current
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,42.742,1990,36,2025,0,Current
+MNP,Northern Mariana Islands,East Asia & Pacific,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+NOR,Norway,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,62.086,1990,36,2025,0,Current
+OMN,Oman,Middle East & North Africa,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,29.958,1990,36,2025,0,Current
+PAK,Pakistan,Middle East & North Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,24.046,1990,36,2025,0,Current
+PLW,Palau,East Asia & Pacific,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+PAN,Panama,Latin America & Caribbean,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,54.936,1990,36,2025,0,Current
+PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,50.822,1990,36,2025,0,Current
+PRY,Paraguay,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,59.011,1990,36,2025,0,Current
+PER,Peru,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,65.044,1990,36,2025,0,Current
+PHL,Philippines,East Asia & Pacific,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,50.489,1990,36,2025,0,Current
+POL,Poland,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,51.612,1990,36,2025,0,Current
+PRT,Portugal,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,54.628,1990,36,2025,0,Current
+PRI,Puerto Rico (US),Latin America & Caribbean,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,36.853,1990,36,2025,0,Current
+QAT,Qatar,Middle East & North Africa,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,61.85,1990,36,2025,0,Current
+ROU,Romania,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,41.807,1990,36,2025,0,Current
+RUS,Russian Federation,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,54.546,1990,36,2025,0,Current
+RWA,Rwanda,Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,57.304,1990,36,2025,0,Current
+WSM,Samoa,East Asia & Pacific,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,30.739,1990,36,2025,0,Current
+SMR,San Marino,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+SAU,Saudi Arabia,Middle East & North Africa,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,33.573,1990,36,2025,0,Current
+SEN,Senegal,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,38.216,1990,36,2025,0,Current
+SRB,Serbia,Europe & Central Asia,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,52.629,1990,36,2025,0,Current
+SYC,Seychelles,Sub-Saharan Africa,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+SLE,Sierra Leone,Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,51.604,1990,36,2025,0,Current
+SGP,Singapore,East Asia & Pacific,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,63.569,1990,36,2025,0,Current
+SXM,Sint Maarten (Dutch part),Latin America & Caribbean,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+SVK,Slovak Republic,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,55.127,1990,36,2025,0,Current
+SVN,Slovenia,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,52.297,1990,36,2025,0,Current
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,82.337,1990,36,2025,0,Current
+SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,20.7,1990,36,2025,0,Current
+ZAF,South Africa,Sub-Saharan Africa,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,49.881,1990,36,2025,0,Current
+SSD,South Sudan,Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2023-12-31,2023,70.393,1990,34,2025,2,Current
+ESP,Spain,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,52.825,1990,36,2025,0,Current
+LKA,Sri Lanka,South Asia,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,30.992,1990,36,2025,0,Current
+KNA,St. Kitts and Nevis,Latin America & Caribbean,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+LCA,St. Lucia,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,61.995,1990,36,2025,0,Current
+MAF,St. Martin (French part),Latin America & Caribbean,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,59.217,1990,36,2025,0,Current
+SDN,Sudan,Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2022-12-31,2022,14.452,1990,33,2025,3,Current
+SUR,Suriname,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,44.915,1990,36,2025,0,Current
+SWE,Sweden,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,61.537,1990,36,2025,0,Current
+CHE,Switzerland,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,62.223,1990,36,2025,0,Current
+SYR,Syrian Arab Republic,Middle East & North Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,12.727,1990,36,2025,0,Current
+STP,São Tomé and Principe,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,22.749,1990,36,2025,0,Current
+TJK,Tajikistan,Europe & Central Asia,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,21.897,1990,36,2025,0,Current
+TZA,Tanzania,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,80.282,1990,36,2025,0,Current
+THA,Thailand,East Asia & Pacific,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,58.963,1990,36,2025,0,Current
+TLS,Timor-Leste,East Asia & Pacific,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,61.676,1990,36,2025,0,Current
+TGO,Togo,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,56.637,1990,36,2025,0,Current
+TON,Tonga,East Asia & Pacific,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,42.347,1990,36,2025,0,Current
+TTO,Trinidad and Tobago,Latin America & Caribbean,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,47.77,1990,36,2025,0,Current
+TUN,Tunisia,Middle East & North Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,26.497,1990,36,2025,0,Current
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,38.242,1990,36,2025,0,Current
+TCA,Turks and Caicos Islands,Latin America & Caribbean,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+TUV,Tuvalu,East Asia & Pacific,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,,,,,,2025,,No value in WDI
+TUR,Türkiye,Europe & Central Asia,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,37.145,1990,36,2025,0,Current
+UGA,Uganda,Sub-Saharan Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,75.595,1990,36,2025,0,Current
+UKR,Ukraine,Europe & Central Asia,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2021-12-31,2021,47.738,1990,32,2025,4,Current
+ARE,United Arab Emirates,Middle East & North Africa,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,53.027,1990,36,2025,0,Current
+GBR,United Kingdom,Europe & Central Asia,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,57.333,1990,36,2025,0,Current
+USA,United States,North America,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,56.343,1990,36,2025,0,Current
+URY,Uruguay,Latin America & Caribbean,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,57.255,1990,36,2025,0,Current
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,41.178,1990,36,2025,0,Current
+VUT,Vanuatu,East Asia & Pacific,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,53.314,1990,36,2025,0,Current
+VEN,"Venezuela, RB",Latin America & Caribbean,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,37.098,1990,36,2025,0,Current
+VNM,Viet Nam,East Asia & Pacific,Upper middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,68.551,1990,36,2025,0,Current
+VIR,Virgin Islands (US),Latin America & Caribbean,High income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,52.768,1990,36,2025,0,Current
+PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2022-12-31,2022,18.934,1990,33,2025,3,Current
+YEM,"Yemen, Rep.",Middle East & North Africa,Low income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,4.663,1990,36,2025,0,Current
+ZMB,Zambia,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,56.426,1990,36,2025,0,Current
+ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.FE.ZS,Women in the labour force,outcome,2025-12-31,2025,62.155,1990,36,2025,0,Current
+AFG,Afghanistan,Middle East & North Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,69.76,1990,36,2025,0,Current
+ALB,Albania,Europe & Central Asia,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,70.218,1990,36,2025,0,Current
+DZA,Algeria,Middle East & North Africa,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,66.409,1990,36,2025,0,Current
+ASM,American Samoa,East Asia & Pacific,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+AND,Andorra,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+AGO,Angola,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,77.467,1990,36,2025,0,Current
+ATG,Antigua and Barbuda,Latin America & Caribbean,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+ARG,Argentina,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,71.663,1990,36,2025,0,Current
+ARM,Armenia,Europe & Central Asia,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,69.522,1990,36,2025,0,Current
+ABW,Aruba,Latin America & Caribbean,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+AUS,Australia,East Asia & Pacific,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,70.685,1990,36,2025,0,Current
+AUT,Austria,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,65.418,1990,36,2025,0,Current
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,66.02,1990,36,2025,0,Current
+BHS,"Bahamas, The",Latin America & Caribbean,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,77.197,1990,36,2025,0,Current
+BHR,Bahrain,Middle East & North Africa,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,85.871,1990,36,2025,0,Current
+BGD,Bangladesh,South Asia,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,80.404,1990,36,2025,0,Current
+BRB,Barbados,Latin America & Caribbean,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,68.747,1990,36,2025,0,Current
+BLR,Belarus,Europe & Central Asia,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,69.858,1990,36,2025,0,Current
+BEL,Belgium,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,58.951,1990,36,2025,0,Current
+BLZ,Belize,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,71.641,1990,36,2025,0,Current
+BEN,Benin,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,77.558,1990,36,2025,0,Current
+BMU,Bermuda,North America,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+BTN,Bhutan,South Asia,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,71.784,1990,36,2025,0,Current
+BOL,Bolivia,Latin America & Caribbean,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,84.439,1990,36,2025,0,Current
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,59.978,1990,36,2025,0,Current
+BWA,Botswana,Sub-Saharan Africa,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,73.978,1990,36,2025,0,Current
+BRA,Brazil,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,73.371,1990,36,2025,0,Current
+VGB,British Virgin Islands,Latin America & Caribbean,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+BRN,Brunei Darussalam,East Asia & Pacific,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,72.802,1990,36,2025,0,Current
+BGR,Bulgaria,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,62.362,1990,36,2025,0,Current
+BFA,Burkina Faso,Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,76.135,1990,36,2025,0,Current
+BDI,Burundi,Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,76.971,1990,36,2025,0,Current
+CPV,Cabo Verde,Sub-Saharan Africa,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,63.397,1990,36,2025,0,Current
+KHM,Cambodia,East Asia & Pacific,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,87.816,1990,36,2025,0,Current
+CMR,Cameroon,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,73.941,1990,36,2025,0,Current
+CAN,Canada,North America,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,68.937,1990,36,2025,0,Current
+CYM,Cayman Islands,Latin America & Caribbean,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+CAF,Central African Republic,Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,82.756,1990,36,2025,0,Current
+TCD,Chad,Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,71.716,1990,36,2025,0,Current
+CHI,Channel Islands,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,63.652,1990,36,2025,0,Current
+CHL,Chile,Latin America & Caribbean,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,71.927,1990,36,2025,0,Current
+CHN,China,East Asia & Pacific,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,69.851,1990,36,2025,0,Current
+COL,Colombia,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,75.694,1990,36,2025,0,Current
+COM,Comoros,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,63.882,1990,36,2025,0,Current
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,66.846,1990,36,2025,0,Current
+COG,"Congo, Rep.",Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,70.102,1990,36,2025,0,Current
+CRI,Costa Rica,Latin America & Caribbean,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,69.762,1990,36,2025,0,Current
+HRV,Croatia,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,57.361,1990,36,2025,0,Current
+CUB,Cuba,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,65.074,1990,36,2025,0,Current
+CUW,Curaçao,Latin America & Caribbean,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+CYP,Cyprus,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,72.672,1990,36,2025,0,Current
+CZE,Czechia,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,67.516,1990,36,2025,0,Current
+CIV,Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,74.406,1990,36,2025,0,Current
+DNK,Denmark,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,69.178,1990,36,2025,0,Current
+DJI,Djibouti,Middle East & North Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,44.555,1990,36,2025,0,Current
+DMA,Dominica,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,76.36,1990,36,2025,0,Current
+ECU,Ecuador,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,76.868,1990,36,2025,0,Current
+EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,70.514,1990,36,2025,0,Current
+SLV,El Salvador,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,77.266,1990,36,2025,0,Current
+GNQ,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,67.243,1990,36,2025,0,Current
+ERI,Eritrea,Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,84.149,1990,36,2025,0,Current
+EST,Estonia,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,69.819,1990,36,2025,0,Current
+SWZ,Eswatini,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,54.027,1990,36,2025,0,Current
+ETH,Ethiopia,Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,78.644,1990,36,2025,0,Current
+FRO,Faroe Islands,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+FJI,Fiji,East Asia & Pacific,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,76.537,1990,36,2025,0,Current
+FIN,Finland,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,62.978,1990,36,2025,0,Current
+FRA,France,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,59.55,1990,36,2025,0,Current
+PYF,French Polynesia,East Asia & Pacific,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,58.043,1990,36,2025,0,Current
+GAB,Gabon,Sub-Saharan Africa,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,60.132,1990,36,2025,0,Current
+GMB,"Gambia, The",Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,49.509,1990,36,2025,0,Current
+GEO,Georgia,Europe & Central Asia,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,73.492,1990,36,2025,0,Current
+DEU,Germany,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,66.054,1990,36,2025,0,Current
+GHA,Ghana,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,61.841,1990,36,2025,0,Current
+GIB,Gibraltar,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+GRC,Greece,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,59.856,1990,36,2025,0,Current
+GRL,Greenland,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+GRD,Grenada,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+GUM,Guam,East Asia & Pacific,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,67.95,1990,36,2025,0,Current
+GTM,Guatemala,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,81.714,1990,36,2025,0,Current
+GIN,Guinea,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,63.105,1990,36,2025,0,Current
+GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,69.582,1990,36,2025,0,Current
+GUY,Guyana,Latin America & Caribbean,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,63.321,1990,36,2025,0,Current
+HTI,Haiti,Latin America & Caribbean,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,69.743,1990,36,2025,0,Current
+HND,Honduras,Latin America & Caribbean,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,73.541,1990,36,2025,0,Current
+HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,62.073,1990,36,2025,0,Current
+HUN,Hungary,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,67.507,1990,36,2025,0,Current
+ISL,Iceland,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,79.611,1990,36,2025,0,Current
+IND,India,South Asia,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,77.623,1990,36,2025,0,Current
+IDN,Indonesia,East Asia & Pacific,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,82.278,1990,36,2025,0,Current
+IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,67.239,1990,36,2025,0,Current
+IRQ,Iraq,Middle East & North Africa,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,72.579,1990,36,2025,0,Current
+IRL,Ireland,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,70.113,1990,36,2025,0,Current
+IMN,Isle of Man,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+ISR,Israel,Middle East & North Africa,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,68.797,1990,36,2025,0,Current
+ITA,Italy,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,58.295,1990,36,2025,0,Current
+JAM,Jamaica,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,76.337,1990,36,2025,0,Current
+JPN,Japan,East Asia & Pacific,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,71.478,1990,36,2025,0,Current
+JOR,Jordan,Middle East & North Africa,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,62.473,1990,36,2025,0,Current
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,73.373,1990,36,2025,0,Current
+KEN,Kenya,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,71.85,1990,36,2025,0,Current
+KIR,Kiribati,East Asia & Pacific,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+PRK,"Korea, Dem. People's Rep.",East Asia & Pacific,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,86.757,1990,36,2025,0,Current
+KOR,"Korea, Rep.",East Asia & Pacific,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,72.002,1990,36,2025,0,Current
+XKX,Kosovo,Europe & Central Asia,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+KWT,Kuwait,Middle East & North Africa,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,88.559,1990,36,2025,0,Current
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,71.396,1990,36,2025,0,Current
+LAO,Lao PDR,East Asia & Pacific,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,70.629,1990,36,2025,0,Current
+LVA,Latvia,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,66.845,1990,36,2025,0,Current
+LBN,Lebanon,Middle East & North Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2023-12-31,2023,66.721,1990,34,2025,2,Current
+LSO,Lesotho,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,66.917,1990,36,2025,0,Current
+LBR,Liberia,Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,81.229,1990,36,2025,0,Current
+LBY,Libya,Middle East & North Africa,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,62.545,1990,36,2025,0,Current
+LIE,Liechtenstein,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+LTU,Lithuania,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,68.951,1990,36,2025,0,Current
+LUX,Luxembourg,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,65.497,1990,36,2025,0,Current
+MAC,"Macao SAR, China",East Asia & Pacific,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,73.612,1990,36,2025,0,Current
+MDG,Madagascar,Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,88.094,1990,36,2025,0,Current
+MWI,Malawi,Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,67.342,1990,36,2025,0,Current
+MYS,Malaysia,East Asia & Pacific,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,79.211,1990,36,2025,0,Current
+MDV,Maldives,South Asia,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,76.428,1990,36,2025,0,Current
+MLI,Mali,Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,81.022,1990,36,2025,0,Current
+MLT,Malta,Middle East & North Africa,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,71.55,1990,36,2025,0,Current
+MHL,Marshall Islands,East Asia & Pacific,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+MRT,Mauritania,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,56.613,1990,36,2025,0,Current
+MUS,Mauritius,Sub-Saharan Africa,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,69.671,1990,36,2025,0,Current
+MEX,Mexico,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,77.113,1990,36,2025,0,Current
+FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+MDA,Moldova,Europe & Central Asia,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,72.241,1990,36,2025,0,Current
+MCO,Monaco,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+MNG,Mongolia,East Asia & Pacific,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,68.217,1990,36,2025,0,Current
+MNE,Montenegro,Europe & Central Asia,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,65.445,1990,36,2025,0,Current
+MAR,Morocco,Middle East & North Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,68.059,1990,36,2025,0,Current
+MOZ,Mozambique,Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,80.518,1990,36,2025,0,Current
+MMR,Myanmar,East Asia & Pacific,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,69.66,1990,36,2025,0,Current
+NAM,Namibia,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,63.041,1990,36,2025,0,Current
+NRU,Naoero,East Asia & Pacific,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+NPL,Nepal,South Asia,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,52.902,1990,36,2025,0,Current
+NLD,Netherlands,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,71.892,1990,36,2025,0,Current
+NCL,New Caledonia,East Asia & Pacific,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,62.014,1990,36,2025,0,Current
+NZL,New Zealand,East Asia & Pacific,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,74.739,1990,36,2025,0,Current
+NIC,Nicaragua,Latin America & Caribbean,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,81.758,1990,36,2025,0,Current
+NER,Niger,Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,86.504,1990,36,2025,0,Current
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,84.297,1990,36,2025,0,Current
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,61.838,1990,36,2025,0,Current
+MNP,Northern Mariana Islands,East Asia & Pacific,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+NOR,Norway,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,69.093,1990,36,2025,0,Current
+OMN,Oman,Middle East & North Africa,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,88.096,1990,36,2025,0,Current
+PAK,Pakistan,Middle East & North Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,80.139,1990,36,2025,0,Current
+PLW,Palau,East Asia & Pacific,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+PAN,Panama,Latin America & Caribbean,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,77.864,1990,36,2025,0,Current
+PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,53.262,1990,36,2025,0,Current
+PRY,Paraguay,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,81.607,1990,36,2025,0,Current
+PER,Peru,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,80.87,1990,36,2025,0,Current
+PHL,Philippines,East Asia & Pacific,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,72.464,1990,36,2025,0,Current
+POL,Poland,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,65.591,1990,36,2025,0,Current
+PRT,Portugal,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,62.129,1990,36,2025,0,Current
+PRI,Puerto Rico (US),Latin America & Caribbean,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,49.596,1990,36,2025,0,Current
+QAT,Qatar,Middle East & North Africa,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,95.555,1990,36,2025,0,Current
+ROU,Romania,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,61.68,1990,36,2025,0,Current
+RUS,Russian Federation,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,69.027,1990,36,2025,0,Current
+RWA,Rwanda,Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,70.606,1990,36,2025,0,Current
+WSM,Samoa,East Asia & Pacific,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,54.502,1990,36,2025,0,Current
+SMR,San Marino,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+SAU,Saudi Arabia,Middle East & North Africa,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,83.331,1990,36,2025,0,Current
+SEN,Senegal,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,65.709,1990,36,2025,0,Current
+SRB,Serbia,Europe & Central Asia,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,66.525,1990,36,2025,0,Current
+SYC,Seychelles,Sub-Saharan Africa,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+SLE,Sierra Leone,Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,55.172,1990,36,2025,0,Current
+SGP,Singapore,East Asia & Pacific,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,75.372,1990,36,2025,0,Current
+SXM,Sint Maarten (Dutch part),Latin America & Caribbean,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+SVK,Slovak Republic,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,66.076,1990,36,2025,0,Current
+SVN,Slovenia,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,62.811,1990,36,2025,0,Current
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,86.188,1990,36,2025,0,Current
+SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,47.239,1990,36,2025,0,Current
+ZAF,South Africa,Sub-Saharan Africa,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,61.739,1990,36,2025,0,Current
+SSD,South Sudan,Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2023-12-31,2023,76.638,1990,34,2025,2,Current
+ESP,Spain,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,62.23,1990,36,2025,0,Current
+LKA,Sri Lanka,South Asia,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,67.772,1990,36,2025,0,Current
+KNA,St. Kitts and Nevis,Latin America & Caribbean,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+LCA,St. Lucia,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,74.779,1990,36,2025,0,Current
+MAF,St. Martin (French part),Latin America & Caribbean,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,76.281,1990,36,2025,0,Current
+SDN,Sudan,Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2022-12-31,2022,61.649,1990,33,2025,3,Current
+SUR,Suriname,Latin America & Caribbean,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,62.868,1990,36,2025,0,Current
+SWE,Sweden,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,67.633,1990,36,2025,0,Current
+CHE,Switzerland,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,71.378,1990,36,2025,0,Current
+SYR,Syrian Arab Republic,Middle East & North Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,61.446,1990,36,2025,0,Current
+STP,São Tomé and Principe,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,23.953,1990,36,2025,0,Current
+TJK,Tajikistan,Europe & Central Asia,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,55.781,1990,36,2025,0,Current
+TZA,Tanzania,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,87.306,1990,36,2025,0,Current
+THA,Thailand,East Asia & Pacific,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,74.981,1990,36,2025,0,Current
+TLS,Timor-Leste,East Asia & Pacific,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,72.247,1990,36,2025,0,Current
+TGO,Togo,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,59.041,1990,36,2025,0,Current
+TON,Tonga,East Asia & Pacific,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,58.977,1990,36,2025,0,Current
+TTO,Trinidad and Tobago,Latin America & Caribbean,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,68.103,1990,36,2025,0,Current
+TUN,Tunisia,Middle East & North Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,64.863,1990,36,2025,0,Current
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,46.104,1990,36,2025,0,Current
+TCA,Turks and Caicos Islands,Latin America & Caribbean,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+TUV,Tuvalu,East Asia & Pacific,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,,,,,,2025,,No value in WDI
+TUR,Türkiye,Europe & Central Asia,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,71.887,1990,36,2025,0,Current
+UGA,Uganda,Sub-Saharan Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,84.642,1990,36,2025,0,Current
+UKR,Ukraine,Europe & Central Asia,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2021-12-31,2021,62.831,1990,32,2025,4,Current
+ARE,United Arab Emirates,Middle East & North Africa,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,91.55,1990,36,2025,0,Current
+GBR,United Kingdom,Europe & Central Asia,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,65.596,1990,36,2025,0,Current
+USA,United States,North America,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,67.058,1990,36,2025,0,Current
+URY,Uruguay,Latin America & Caribbean,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,73.399,1990,36,2025,0,Current
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,73.933,1990,36,2025,0,Current
+VUT,Vanuatu,East Asia & Pacific,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,62.946,1990,36,2025,0,Current
+VEN,"Venezuela, RB",Latin America & Caribbean,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,67.523,1990,36,2025,0,Current
+VNM,Viet Nam,East Asia & Pacific,Upper middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,77.328,1990,36,2025,0,Current
+VIR,Virgin Islands (US),Latin America & Caribbean,High income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,56.181,1990,36,2025,0,Current
+PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2022-12-31,2022,72.095,1990,33,2025,3,Current
+YEM,"Yemen, Rep.",Middle East & North Africa,Low income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,61.229,1990,36,2025,0,Current
+ZMB,Zambia,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,67.628,1990,36,2025,0,Current
+ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income,SL.TLF.CACT.MA.ZS,Men in the labour force,outcome,2025-12-31,2025,74.264,1990,36,2025,0,Current

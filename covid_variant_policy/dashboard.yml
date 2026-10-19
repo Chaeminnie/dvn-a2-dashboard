@@ -1,0 +1,596 @@
+schema_version: 2
+dashboard:
+  title: Did governments react to the variant, or to the cases?
+  subject: sars_cov_2
+  question: When a new SARS-CoV-2 variant became the majority of sequenced samples in a country, did the rules tighten
+    before, with, or after reported cases began to rise, did people change their behaviour first, and how did outcomes
+    differ by response timing?
+  audience: Public-health students and journalists comparing pandemic responses
+  entrypoint: app.py
+  pages:
+  - intro_page.py
+  - q1_page.py
+  - q2_page.py
+  - q3_page.py
+  - q4_page.py
+  - about_page.py
+  sample_environment_variable: DASHBOARD_SAMPLE_MODE
+sources:
+- id: covariants_distribution
+  publisher: CoVariants (Hodcroft Lab, University of Bern; Nextstrain and GISAID sequence data)
+  title: 'CoVariants: per-country variant distributions (perCountryData.json)'
+  url: https://raw.githubusercontent.com/hodcroftlab/covariants/master/web/public/data/perCountryData.json
+  licence: Repository code AGPL-3.0; the file holds weekly aggregate counts of sequences by Nextstrain clade, derived
+    from GISAID-sourced data; no sequences are redistributed here
+  retrieved: '2026-10-11'
+  cadence: Updated by the maintainers while the project runs; a fixed snapshot is used
+  status: snapshot
+  notes: Counts are of sequenced samples, which are not a random sample of infections. Weeks with fewer than 30
+    sequences are dropped. Clades are grouped into Alpha, Delta and Omicron families by their Nextstrain labels.
+- id: oxcgrt_national
+  publisher: Blavatnik School of Government, University of Oxford
+  title: 'Oxford COVID-19 Government Response Tracker: OxCGRT compact national dataset (v1)'
+  url: https://raw.githubusercontent.com/OxCGRT/covid-policy-dataset/main/data/OxCGRT_compact_national_v1.csv
+  licence: Creative Commons Attribution 4.0 (CC BY 4.0)
+  retrieved: '2026-10-11'
+  cadence: Collection ended 31 December 2022; archived
+  status: archive
+  notes: StringencyIndex_Average for national jurisdictions (NAT_TOTAL), averaged to weeks.
+- id: owid_covid_dataset
+  publisher: Our World in Data
+  title: COVID-19 Dataset by Our World in Data (owid-covid-data.csv)
+  url: https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv
+  licence: Creative Commons Attribution 4.0 (CC BY 4.0)
+  retrieved: '2026-10-11'
+  cadence: No longer updated after 19 August 2024; archived
+  status: archive
+  notes: new_cases_smoothed_per_million and new_deaths_smoothed_per_million, from official national reports compiled
+    by Our World in Data and its upstream sources.
+- id: google_mobility_mirror
+  publisher: ActiveConclusion (GitHub mirror of Google COVID-19 Community Mobility Reports)
+  title: 'COVID-19 Mobility Data Aggregator: Google country reports (mobility_report_countries.csv)'
+  url: https://raw.githubusercontent.com/ActiveConclusion/COVID19_mobility/master/google_reports/mobility_report_countries.csv
+  licence: Repository code MIT; the data are Google's aggregated, anonymised mobility reports and are credited to
+    Google
+  retrieved: '2026-10-11'
+  cadence: Google stopped publishing in October 2022; archived
+  status: archive
+  notes: Workplaces category, country totals (no sub-regions). A third-party mirror is used because the Google download
+    host is not reachable from the build environment; the last observation in this snapshot is 2022-08-19.
+- id: natural_earth_boundaries
+  publisher: Natural Earth, packaged by Mike Bostock (world-atlas)
+  title: world-atlas countries-110m (Natural Earth country boundaries, public domain)
+  url: https://github.com/topojson/world-atlas
+  licence: ISC licence for the world-atlas package; Natural Earth data are in the public domain
+  retrieved: '2026-10-15'
+  cadence: Static boundaries; not updated
+  status: snapshot
+  notes: Country outlines for the map in question 1 only (data/world_110m.json). No statistics come from this source.
+    Small states are not drawn at 1:110m scale.
+datasets:
+- id: event_panel
+  source_ids: &id001
+  - covariants_distribution
+  - oxcgrt_national
+  - owid_covid_dataset
+  - google_mobility_mirror
+  sample: data/sample.csv
+  processed_output: data/processed.csv
+  format: csv
+  date_column: date
+  primary_key:
+  - country_code
+  - variant
+  - rel_week
+  minimum_rows: 100
+  latest_observation: '2022-05-09'
+  columns:
+    date:
+      type: date
+      role: time
+      nullable: false
+      date_minimum: '2020-10-26'
+      date_maximum: '2022-05-09'
+    country_code:
+      type: string
+      role: geography
+      nullable: false
+    country:
+      type: string
+      role: geography
+      nullable: false
+    variant:
+      type: string
+      role: dimension
+      nullable: false
+      allowed_values:
+      - Alpha
+      - Delta
+      - Omicron
+    event_week:
+      type: date
+      role: dimension
+      nullable: false
+      date_minimum: '2020-12-21'
+      date_maximum: '2022-03-14'
+    rel_week:
+      type: integer
+      role: dimension
+      nullable: false
+      unit: weeks relative to takeover
+      minimum: -8
+      maximum: 8
+    variant_share:
+      type: number
+      role: measure
+      nullable: true
+      unit: percent of sequenced samples
+      minimum: 0
+      maximum: 100
+    sequences:
+      type: integer
+      role: measure
+      nullable: true
+      unit: sequenced samples
+      minimum: 30
+      maximum: 1000000
+    stringency_index:
+      type: number
+      role: measure
+      nullable: true
+      unit: index points (0-100)
+      minimum: 0
+      maximum: 100
+    cases_per_million:
+      type: number
+      role: measure
+      nullable: true
+      unit: cases per million people per day
+      minimum: 0
+      maximum: 20000
+    deaths_per_million:
+      type: number
+      role: measure
+      nullable: true
+      unit: deaths per million people per day
+      minimum: 0
+      maximum: 500
+    workplace_mobility:
+      type: number
+      role: measure
+      nullable: true
+      unit: percent change from baseline
+      minimum: -100
+      maximum: 200
+    continent:
+      type: string
+      role: dimension
+      nullable: false
+    median_age:
+      type: number
+      role: measure
+      nullable: true
+      unit: years (median age of the population)
+      minimum: 10
+      maximum: 60
+- id: event_summary
+  source_ids: *id001
+  sample: data/sample_summary.csv
+  processed_output: data/processed_summary.csv
+  format: csv
+  date_column: event_week
+  primary_key:
+  - country_code
+  - variant
+  minimum_rows: 20
+  latest_observation: '2022-03-14'
+  columns:
+    country_code:
+      type: string
+      role: geography
+      nullable: false
+    country:
+      type: string
+      role: geography
+      nullable: false
+    variant:
+      type: string
+      role: dimension
+      nullable: false
+      allowed_values:
+      - Alpha
+      - Delta
+      - Omicron
+    event_week:
+      type: date
+      role: time
+      nullable: false
+      date_minimum: '2020-12-21'
+      date_maximum: '2022-03-14'
+    baseline_stringency:
+      type: number
+      role: measure
+      nullable: false
+      unit: index points (0-100)
+      minimum: 0
+      maximum: 100
+    baseline_cases_per_million:
+      type: number
+      role: measure
+      nullable: false
+      unit: cases per million people per day
+      minimum: 0
+      maximum: 20000
+    policy_week:
+      type: integer
+      role: measure
+      nullable: true
+      unit: weeks relative to takeover
+      minimum: -4
+      maximum: 8
+    cases_week:
+      type: integer
+      role: measure
+      nullable: true
+      unit: weeks relative to takeover
+      minimum: -4
+      maximum: 8
+    policy_minus_cases:
+      type: integer
+      role: measure
+      nullable: true
+      unit: weeks (negative = containment first)
+      minimum: -12
+      maximum: 12
+    sequence:
+      type: string
+      role: dimension
+      nullable: false
+      allowed_values:
+      - Containment tightened first
+      - Cases rose first
+      - Same week
+      - Containment tightened, cases did not rise
+      - Cases rose, containment did not tighten
+      - Neither moved
+    peak_cases_week:
+      type: integer
+      role: measure
+      nullable: true
+      unit: weeks relative to takeover
+      minimum: 0
+      maximum: 8
+    continent:
+      type: string
+      role: dimension
+      nullable: false
+    median_age:
+      type: number
+      role: measure
+      nullable: true
+      unit: years (median age of the population)
+      minimum: 10
+      maximum: 60
+    peak_growth:
+      type: number
+      role: measure
+      nullable: true
+      unit: times (peak cases per million, weeks 0 to 8, divided by baseline cases)
+      minimum: 0
+      maximum: 100000
+views:
+- id: who_moved_first
+  dataset_id: event_summary
+  page: q1_page.py
+  title: Who moved first?
+  unit: weeks from the takeover week (negative = rules tightened first)
+  source_ids:
+  - covariants_distribution
+  - oxcgrt_national
+  - owid_covid_dataset
+  - google_mobility_mirror
+  - natural_earth_boundaries
+  controls:
+  - key: q1_view
+    type: radio
+    label: View
+    default_value: Dumbbell
+    test_value: Heatmap pair
+  - key: q1_variant
+    type: selectbox
+    label: Variant
+    default_value: Delta
+    test_value: Omicron
+    filter:
+      column: variant
+      operator: equals
+  - key: q1_sort
+    type: selectbox
+    label: Sort
+    default_value: Rules first at top
+    test_value: Country A to Z
+  - key: q1_continent
+    type: multiselect
+    label: Continent
+    default_value: &id002
+    - Africa
+    - Asia
+    - Europe
+    - North America
+    - Oceania
+    - South America
+    test_value:
+    - Europe
+    empty_test_value: []
+    empty_expected_text: No observations match the selected filters.
+    filter:
+      column: continent
+      operator: isin
+  - key: q1_countries
+    type: multiselect
+    label: Countries (select several)
+    default_value: &id003
+    - Australia
+    - Brazil
+    - Canada
+    - Denmark
+    - France
+    - Germany
+    - Greece
+    - India
+    - Israel
+    - Italy
+    - Japan
+    - Laos
+    - Malaysia
+    - Mexico
+    - New Zealand
+    - Nigeria
+    - Poland
+    - Singapore
+    - South Africa
+    - South Korea
+    - Spain
+    - Sweden
+    - Thailand
+    - United Kingdom
+    - United States
+    test_value:
+    - Germany
+    - United States
+    empty_test_value: []
+    empty_expected_text: No observations match the selected filters.
+    filter:
+      column: country
+      operator: isin
+  - key: q1_strictness
+    type: slider
+    label: Policy strictness at takeover (0 to 100)
+    default_value:
+    - 0.0
+    - 100.0
+    test_value:
+    - 0.0
+    - 50.0
+    filter:
+      column: baseline_stringency
+      operator: range
+  - key: q1_highlight
+    type: selectbox
+    label: Highlight one country
+    default_value: None
+    test_value: Germany
+  outputs:
+  - chart
+  - metric
+  - download
+- id: response_differs
+  dataset_id: event_summary
+  page: q2_page.py
+  title: How did governments' response differ across variants?
+  unit: response category per country and variant; policy strictness in index points (0 to 100)
+  source_ids: &id004
+  - covariants_distribution
+  - oxcgrt_national
+  - owid_covid_dataset
+  - google_mobility_mirror
+  controls:
+  - key: q2_view
+    type: radio
+    label: View
+    default_value: Response matrix
+    test_value: Slopegraph
+  - key: q2_continent
+    type: multiselect
+    label: Continent
+    default_value: *id002
+    test_value:
+    - Europe
+    empty_test_value: []
+    empty_expected_text: No observations match the selected filters.
+    filter:
+      column: continent
+      operator: isin
+  - key: q2_countries
+    type: multiselect
+    label: Countries (select several)
+    default_value: *id003
+    test_value:
+    - Germany
+    - United States
+    empty_test_value: []
+    empty_expected_text: No observations match the selected filters.
+    filter:
+      column: country
+      operator: isin
+  - key: q2_strictness
+    type: slider
+    label: Policy strictness at takeover (0 to 100)
+    default_value:
+    - 0.0
+    - 100.0
+    test_value:
+    - 0.0
+    - 50.0
+    filter:
+      column: baseline_stringency
+      operator: range
+  - key: q2_highlight
+    type: selectbox
+    label: Highlight one country
+    default_value: None
+    test_value: Germany
+  outputs:
+  - chart
+  - metric
+  - download
+- id: people_vs_rules
+  dataset_id: event_panel
+  page: q3_page.py
+  title: Did people move before the rules?
+  unit: change from the weeks -8 to -5 level (stringency index points and workplace visit percentage points)
+  source_ids: *id004
+  controls:
+  - key: q3_variant
+    type: selectbox
+    label: Variant
+    default_value: Delta
+    test_value: Omicron
+    filter:
+      column: variant
+      operator: equals
+  - key: q3_continent
+    type: multiselect
+    label: Continent
+    default_value: *id002
+    test_value:
+    - Europe
+    empty_test_value: []
+    empty_expected_text: No observations match the selected filters.
+    filter:
+      column: continent
+      operator: isin
+  - key: q3_countries
+    type: multiselect
+    label: Countries (select several)
+    default_value: *id003
+    test_value:
+    - Germany
+    - United States
+    empty_test_value: []
+    empty_expected_text: No observations match the selected filters.
+    filter:
+      column: country
+      operator: isin
+  outputs:
+  - chart
+  - metric
+  - download
+- id: outcomes_by_timing
+  dataset_id: event_summary
+  page: q4_page.py
+  title: How did outcomes differ by response timing?
+  unit: peak cases divided by starting cases (times, log scale)
+  source_ids: *id004
+  controls:
+  - key: q4_view
+    type: radio
+    label: View
+    default_value: By response type
+    test_value: Every event
+  - key: q4_variants
+    type: multiselect
+    label: Variants
+    default_value:
+    - Alpha
+    - Delta
+    - Omicron
+    test_value:
+    - Delta
+    empty_test_value: []
+    empty_expected_text: No observations match the selected filters.
+    filter:
+      column: variant
+      operator: isin
+  - key: q4_colour
+    type: selectbox
+    label: Colour dots by
+    default_value: Nothing
+    test_value: Median age of country
+  - key: q4_continent
+    type: multiselect
+    label: Continent
+    default_value: *id002
+    test_value:
+    - Europe
+    empty_test_value: []
+    empty_expected_text: No observations match the selected filters.
+    filter:
+      column: continent
+      operator: isin
+  - key: q4_countries
+    type: multiselect
+    label: Countries (select several)
+    default_value: *id003
+    test_value:
+    - Germany
+    - United States
+    empty_test_value: []
+    empty_expected_text: No observations match the selected filters.
+    filter:
+      column: country
+      operator: isin
+  - key: q4_strictness
+    type: slider
+    label: Policy strictness at takeover (0 to 100)
+    default_value:
+    - 0.0
+    - 100.0
+    test_value:
+    - 0.0
+    - 50.0
+    filter:
+      column: baseline_stringency
+      operator: range
+  - key: q4_highlight
+    type: selectbox
+    label: Highlight one country
+    default_value: None
+    test_value: Germany
+  outputs:
+  - chart
+  - metric
+  - download
+pipeline:
+  acquisition_method: script
+  acquisition_path: src/data.py
+  transform_command:
+  - python
+  - -m
+  - src.data
+  download_declared: true
+  download_label: Download filtered data
+  date_label: Latest observation
+topic_integrity:
+  outcome_definition: Reported cases and deaths are new daily counts per million people from official national reports
+    compiled by Our World in Data, smoothed over 7 days and averaged to weeks. Containment policy is the OxCGRT
+    stringency index (0-100) for national jurisdictions. Workplace mobility is Google's percent change in workplace
+    visits against its January-February 2020 baseline. A takeover is the first week a variant family is at least
+    50% of sequenced samples (next two sequenced weeks average at least 50%).
+  date_basis: Weeks start on the Monday used by CoVariants. Daily values are averaged over the seven days starting
+    on that Monday (at least four days required). rel_week 0 is the takeover week; date = event_week + 7 * rel_week.
+    Dates are report or observation dates, not infection or death dates.
+  surveillance_status: 'All inputs are archived snapshots retrieved 2026-10-11: OxCGRT ended 2022-12-31, the Our
+    World in Data GitHub dataset stopped updating 2024-08-19, Google mobility stopped 2022-10, and CoVariants is
+    a point-in-time copy. Nothing is live.'
+  coverage_limitations: Only countries with a majority takeover observed in at least 30 sequences per week, plus
+    policy and case data for at least 12 of 17 weeks, are included. Sequencing is concentrated in high-income countries,
+    so findings describe well-sequenced countries. Mobility ends August 2022 in this snapshot, so late Omicron events
+    have missing mobility. The world map in question 1 omits countries too small to draw at 1:110m scale (for example
+    Singapore, Malta, Bahrain); they still appear in the dumbbell and heatmap views.
+  sampling_bias: 'Sequenced samples are not random draws of infections: sequencing effort, targeting of travellers
+    or outbreaks, and reporting lags differ by country and over time. Variant share can therefore lead or lag true
+    prevalence by weeks.'
+  testing_and_reporting_caveat: Reported cases depend on testing volume, test access, case definitions and reporting
+    schedules (some countries report weekly), all of which changed over the pandemic and differ between countries.
+    Case rises can reflect more testing. Deaths depend on cause-of-death coding; excess mortality is not used.
